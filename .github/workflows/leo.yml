@@ -2,6 +2,7 @@ name: leo-capital
 on:
   schedule:
     - cron: "45 14 * * 1-5"
+    - cron: "15,45 15-20 * * 1-5"
     - cron: "30 21 * * 1-5"
   workflow_dispatch:
 permissions:
