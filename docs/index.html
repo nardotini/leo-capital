@@ -28,7 +28,7 @@ header{padding:16px 16px 8px}h1{margin:0;font-size:22px}.sub{color:var(--muted);
 </head>
 <body>
 <header><h1>📊 Leo Capital</h1><div class="sub" id="upd">loading…</div></header>
-<div class="tabs"><button class="tab on" data-t="port">💼 Portfolio</button><button class="tab" data-t="watch">🛒 Watchlist</button><button class="tab" data-t="how">❓ How it works</button></div>
+<div class="tabs"><button class="tab on" data-t="port">💼 Portfolio</button><button class="tab" data-t="watch">🛒 Watchlist</button><button class="tab" data-t="news">📰 News</button><button class="tab" data-t="how">❓ Help</button></div>
 <div class="wrap" id="main"></div>
 <script>
 const tg=window.Telegram&&Telegram.WebApp; if(tg){tg.ready();tg.expand();}
@@ -50,14 +50,17 @@ let h=`<div class="filters">${fs.map(f=>`<button class="f ${FILT==f[0]?'on':''}"
 DATA.watch.filter(w=>FILT=='all'||(FILT=='near'?w.gap>=-0.15:vclass(w.verdict)==FILT)).forEach(w=>{const v=vclass(w.verdict); const away=w.gap>=0?'ON SALE ✅':`needs ${pct(w.gap)}`;
 const fill=Math.max(0,Math.min(100,(1+w.gap)*100)); const col=w.gap>=0?'var(--green)':w.gap>-0.15?'var(--yellow)':'#64748b';
 h+=`<div class="card c-${v}" onclick="this.classList.toggle('open')"><div class="row"><div><span class="name">${w.name}</span><span class="tk">${w.tk}</span></div><span class="badge b-${v}">${w.verdict||'—'}</span></div>
-<div class="row muted" style="margin-top:6px"><span>Now ${w.cur}${w.px}</span><span>Buy ≤ ${w.cur}${w.buy}</span><span style="color:${col};font-weight:700">${away}</span></div>
+<div class="row muted" style="margin-top:6px"><span>Now ${w.cur}${w.px} <span class="${cls(w.chg||0)}">${pct(w.chg||0)} today</span></span><span>Buy ≤ ${w.cur}${w.buy}</span><span style="color:${col};font-weight:700">${away}</span></div>
 <div class="bar"><div style="width:${fill}%;background:${col}"></div></div>
-<div class="det">${w.what?`<b>What it does:</b> ${w.what}<br>`:''}${w.story?`<b>News:</b> ${w.story}<br>`:''}${w.deep?'<br>'+deep(w.deep):''}${w.src?`<br><a href="${w.src}" target="_blank">Source ↗</a>`:''}</div></div>`});
+<div class="det">${w.what?`<b>What it does:</b> ${w.what}<br>`:''}${w.story?`<b>News:</b> ${w.story}<br>`:''}${w.deep?'<br>'+deep(w.deep):''}${w.src?`<br><a href="${w.src}" target="_blank">Source ↗</a>`:''}${(w.news||[]).length?'<br><br><b>Latest headlines:</b><br>'+w.news.map(n=>`${n.flag?'🔴':'•'} <a href="${n.link}" target="_blank">${n.title}</a> <span class="muted">(${n.source}, ${n.when})</span>`).join('<br>'):''}</div></div>`});
 return h;}
+function news(){let all=[];DATA.watch.forEach(w=>(w.news||[]).forEach(n=>all.push({...n,name:w.name,tk:w.tk})));
+all.sort((a,b)=>(b.flag-a.flag)||(b.ts-a.ts)); if(!all.length) return '<div class="card">No news in the last 2 days.</div>';
+return '<div class="muted" style="margin:0 4px 8px">Last 2 days · 🔴 = important (CEO, lawsuit, deal, guidance, earnings…) · checked morning + after close</div>'+all.slice(0,60).map(n=>`<div class="card ${n.flag?'c-avoid':''}"><div class="muted">${n.name} · ${n.tk} · ${n.when} UTC</div><div style="margin-top:4px">${n.flag?'🔴 ':''}<a style="color:var(--text)" href="${n.link}" target="_blank">${n.title}</a></div><div class="muted">${n.source}</div></div>`).join('');}
 function how(){return `<div class="card"><div class="name">The 3 tests (all needed to BUY)</div><div class="det" style="display:block">① <b>Quality</b>: earns 15%+ on owners' money, 10%+ margin, profitable 3 years, low debt<br>② <b>On sale</b>: price 25%+ below fair value (15× the 3-year average profit)<br>③ <b>News check</b>: no business-breaking threat, profit not fake/peak</div></div>
 <div class="card"><div class="name">Colours</div><div class="det" style="display:block"><span class="badge b-buy">BUY</span> passed all 3 · <span class="badge b-great">GREAT</span> great business, waiting for price · <span class="badge b-watch">WATCH</span> question mark · <span class="badge b-avoid">AVOID/PASS</span> not now<br><br>Tap any card for details. The bar shows how close the price is to the buy price.</div></div>
-<div class="card"><div class="name">Paper only</div><div class="det" style="display:block">This is a fake C$10,000 portfolio to test the strategy vs XEQT. It buys automatically when a deep-checked stock hits its buy price. Updates every weekday after the market closes. No real money, no orders.</div></div>`;}
-function render(){$('#main').innerHTML=TAB=='port'?port():TAB=='watch'?watch():how();}
+<div class="card"><div class="name">Paper only</div><div class="det" style="display:block">This is a fake C$10,000 portfolio to test the strategy vs XEQT. It buys automatically when a deep-checked stock hits its buy price. Prices + news are checked every weekday morning (after the open) and after the close. Verdicts/deep notes are refreshed by Hermes on request or at the quarterly re-scan. No real money, no orders.</div></div>`;}
+function render(){$('#main').innerHTML=TAB=='port'?port():TAB=='watch'?watch():TAB=='news'?news():how();}
 document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>{document.querySelectorAll('.tab').forEach(x=>x.classList.remove('on'));b.classList.add('on');TAB=b.dataset.t;render();});
 fetch('data.json?'+Date.now()).then(r=>r.json()).then(d=>{DATA=d;$('#upd').textContent='Updated '+d.updated+' · USD/CAD '+d.usdcad;render();}).catch(e=>{$('#main').innerHTML='<div class="card">Could not load data.</div>'});
 </script>
