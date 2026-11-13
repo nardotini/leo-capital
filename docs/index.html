@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>Leo Capital</title>
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+<style>
+:root{--bg:#0f172a;--card:#1e293b;--text:#e2e8f0;--muted:#94a3b8;--green:#22c55e;--red:#ef4444;--blue:#3b82f6;--yellow:#eab308;--orange:#f97316}
+*{box-sizing:border-box}body{margin:0;font-family:-apple-system,system-ui,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--text)}
+header{padding:16px 16px 8px}h1{margin:0;font-size:22px}.sub{color:var(--muted);font-size:12px;margin-top:4px}
+.tabs{display:flex;gap:6px;padding:8px 12px;position:sticky;top:0;background:var(--bg);z-index:5}
+.tab{flex:1;padding:10px 4px;border:none;border-radius:10px;background:var(--card);color:var(--muted);font-weight:600;font-size:13px}
+.tab.on{background:var(--blue);color:#fff}
+.wrap{padding:8px 12px 40px}.card{background:var(--card);border-radius:14px;padding:14px;margin-bottom:10px;border-left:5px solid var(--muted)}
+.big{font-size:28px;font-weight:800}.row{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.pos{color:var(--green)}.neg{color:var(--red)}.muted{color:var(--muted);font-size:12px}
+.badge{display:inline-block;padding:3px 8px;border-radius:999px;font-size:11px;font-weight:700;color:#0f172a}
+.b-buy{background:var(--green)}.b-great{background:#86efac}.b-watch{background:#93c5fd}.b-avoid{background:var(--orange)}
+.c-buy{border-left-color:var(--green)}.c-great{border-left-color:#86efac}.c-watch{border-left-color:#93c5fd}.c-avoid{border-left-color:var(--orange)}
+.bar{height:8px;background:#334155;border-radius:4px;overflow:hidden;margin-top:8px}.bar>div{height:100%}
+.name{font-weight:700;font-size:15px}.tk{color:var(--muted);font-size:12px;margin-left:4px}
+.det{display:none;margin-top:10px;font-size:13px;line-height:1.45}.det b{color:#cbd5e1}.det a{color:#93c5fd}
+.open .det{display:block}.vs{display:flex;gap:10px;margin-top:10px}.vs>div{flex:1;background:#0b1222;border-radius:10px;padding:10px}
+.filters{display:flex;gap:6px;overflow-x:auto;padding-bottom:6px}.f{padding:6px 10px;border-radius:999px;border:1px solid #334155;background:none;color:var(--muted);font-size:12px;white-space:nowrap}
+.f.on{background:#334155;color:#fff}
+</style>
+</head>
+<body>
+<header><h1>📊 Leo Capital</h1><div class="sub" id="upd">loading…</div></header>
+<div class="tabs"><button class="tab on" data-t="port">💼 Portfolio</button><button class="tab" data-t="watch">🛒 Watchlist</button><button class="tab" data-t="how">❓ How it works</button></div>
+<div class="wrap" id="main"></div>
+<script>
+const tg=window.Telegram&&Telegram.WebApp; if(tg){tg.ready();tg.expand();}
+const $=s=>document.querySelector(s); let DATA=null, TAB='port', FILT='all';
+const money=(v,c='C$')=>c+Number(v).toLocaleString(undefined,{maximumFractionDigits:2});
+const pct=v=>(v>=0?'+':'')+(v*100).toFixed(1)+'%'; const cls=v=>v>=0?'pos':'neg';
+function vclass(v){v=(v||'').toUpperCase(); if(v.includes('BUY')) return 'buy'; if(v.includes('GREAT')) return 'great'; if(v.includes('AVOID')||v.includes('PASS')||v.includes('TRAP')) return 'avoid'; return 'watch';}
+function port(){const p=DATA.portfolio; let h=`<div class="card c-buy"><div class="muted">Paper portfolio (fake C$${p.start_cash.toLocaleString()} since ${p.start})</div>
+<div class="big">${money(p.value)}</div><div class="${cls(p.pct)}" style="font-weight:700">${pct(p.pct)}</div>
+<div class="vs"><div><div class="muted">Leo Capital</div><b class="${cls(p.pct)}">${pct(p.pct)}</b></div><div><div class="muted">XEQT (index)</div><b class="${cls(p.bench_pct)}">${pct(p.bench_pct)}</b></div></div>
+<div class="muted" style="margin-top:8px">${p.pct>=p.bench_pct?'✅ Beating the index':'⚠️ Behind the index'} · Cash waiting: ${money(p.cash)}</div></div>`;
+p.pos.forEach(x=>{const w=DATA.watch.find(z=>z.tk==x.tk)||{}; h+=`<div class="card c-buy" onclick="this.classList.toggle('open')"><div class="row"><div><span class="name">${w.name||x.tk}</span><span class="tk">${x.tk}</span></div><div style="text-align:right"><b>${money(x.value)}</b><div class="${cls(x.pct)}">${pct(x.pct)}</div></div></div>
+<div class="muted">Bought ${x.date} @ ${x.cur=='USD'?'US$':'C$'}${x.buy_px} · now ${x.cur=='USD'?'US$':'C$'}${x.px} · cost ${money(x.cost)}</div>
+<div class="det">${w.deep?deep(w.deep):(w.story||'')}</div></div>`});
+h+=`<div class="card"><div class="name">📝 Trade log</div><div class="muted" style="margin-top:6px">${p.log.join('<br>')}</div></div>`; return h;}
+function deep(d){return `<b>Verdict:</b> ${d.verdict}<br><b>Why:</b> ${d.why}<br><b>Makes money:</b> ${d.money}<br><b>Moat:</b> ${d.moat}<br><b>Record:</b> ${d.record}<br><b>Strength:</b> ${d.strength}<br><b>Risks:</b> ${d.risks}<br><b>5-yr outcomes:</b> ${d.scenarios}<br><b>In Canada:</b> ${d.canada}`;}
+function watch(){const fs=[['all','All'],['buy','✅ Buy'],['great','🟢 Great'],['watch','👀 Watch'],['near','🔥 Within 15%']];
+let h=`<div class="filters">${fs.map(f=>`<button class="f ${FILT==f[0]?'on':''}" onclick="FILT='${f[0]}';render()">${f[1]}</button>`).join('')}</div>`;
+DATA.watch.filter(w=>FILT=='all'||(FILT=='near'?w.gap>=-0.15:vclass(w.verdict)==FILT)).forEach(w=>{const v=vclass(w.verdict); const away=w.gap>=0?'ON SALE ✅':`needs ${pct(w.gap)}`;
+const fill=Math.max(0,Math.min(100,(1+w.gap)*100)); const col=w.gap>=0?'var(--green)':w.gap>-0.15?'var(--yellow)':'#64748b';
+h+=`<div class="card c-${v}" onclick="this.classList.toggle('open')"><div class="row"><div><span class="name">${w.name}</span><span class="tk">${w.tk}</span></div><span class="badge b-${v}">${w.verdict||'—'}</span></div>
+<div class="row muted" style="margin-top:6px"><span>Now ${w.cur}${w.px}</span><span>Buy ≤ ${w.cur}${w.buy}</span><span style="color:${col};font-weight:700">${away}</span></div>
+<div class="bar"><div style="width:${fill}%;background:${col}"></div></div>
+<div class="det">${w.what?`<b>What it does:</b> ${w.what}<br>`:''}${w.story?`<b>News:</b> ${w.story}<br>`:''}${w.deep?'<br>'+deep(w.deep):''}${w.src?`<br><a href="${w.src}" target="_blank">Source ↗</a>`:''}</div></div>`});
+return h;}
+function how(){return `<div class="card"><div class="name">The 3 tests (all needed to BUY)</div><div class="det" style="display:block">① <b>Quality</b>: earns 15%+ on owners' money, 10%+ margin, profitable 3 years, low debt<br>② <b>On sale</b>: price 25%+ below fair value (15× the 3-year average profit)<br>③ <b>News check</b>: no business-breaking threat, profit not fake/peak</div></div>
+<div class="card"><div class="name">Colours</div><div class="det" style="display:block"><span class="badge b-buy">BUY</span> passed all 3 · <span class="badge b-great">GREAT</span> great business, waiting for price · <span class="badge b-watch">WATCH</span> question mark · <span class="badge b-avoid">AVOID/PASS</span> not now<br><br>Tap any card for details. The bar shows how close the price is to the buy price.</div></div>
+<div class="card"><div class="name">Paper only</div><div class="det" style="display:block">This is a fake C$10,000 portfolio to test the strategy vs XEQT. It buys automatically when a deep-checked stock hits its buy price. Updates every weekday after the market closes. No real money, no orders.</div></div>`;}
+function render(){$('#main').innerHTML=TAB=='port'?port():TAB=='watch'?watch():how();}
+document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>{document.querySelectorAll('.tab').forEach(x=>x.classList.remove('on'));b.classList.add('on');TAB=b.dataset.t;render();});
+fetch('data.json?'+Date.now()).then(r=>r.json()).then(d=>{DATA=d;$('#upd').textContent='Updated '+d.updated+' · USD/CAD '+d.usdcad;render();}).catch(e=>{$('#main').innerHTML='<div class="card">Could not load data.</div>'});
+</script>
+</body>
+</html>

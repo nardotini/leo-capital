@@ -1,0 +1,35 @@
+{
+ "start": "2026-11-12",
+ "start_cash_cad": 10000.0,
+ "cash_cad": 7500.0,
+ "usdcad_start": 1.4257,
+ "bench": {
+  "tk": "XEQT.TO",
+  "units": 219.1061,
+  "px": 45.64
+ },
+ "pos": [
+  {
+   "tk": "FFH.TO",
+   "cur": "CAD",
+   "units": 0.7277,
+   "px": 2748.22,
+   "cost_cad": 2000,
+   "date": "2026-11-12"
+  },
+  {
+   "tk": "ITUB",
+   "cur": "USD",
+   "units": 47.1931,
+   "px": 7.32,
+   "cost_cad": 500,
+   "date": "2026-11-12",
+   "fx_fee": true
+  }
+ ],
+ "log": [
+  "2026-11-12 BUY FFH.TO C$2000 @ 2748.22 CAD (passes all 3 tests)",
+  "2026-11-12 BUY ITUB C$500 @ 7.32 USD (deep check: half size at buy price)"
+ ],
+ "note": "USD buys include Wealthsimple's 1.5% currency fee (sells will too)"
+}

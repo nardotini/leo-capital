@@ -1,0 +1,210 @@
+[
+ {
+  "tk": "ITUB",
+  "name": "Itau Unibanco Banco Holding ",
+  "buy": 7.34,
+  "cur": "US$",
+  "why": "Record profit R$12.6B, ROE 23.6%. Brazil rates/election + currency risk - insist on full discount."
+ },
+ {
+  "tk": "BBVA",
+  "name": "Banco Bilbao Vizcaya Argenta",
+  "buy": 21.02,
+  "cur": "US$",
+  "why": "Profit +19%; Spain miss; Mexico/Turkey risk. ~6% above buy price."
+ },
+ {
+  "tk": "GIB-A.TO",
+  "name": "Cgi Inc",
+  "buy": 91.0,
+  "cur": "C$",
+  "why": "Net earnings +21%, book-to-bill 122%, dividend +8.8%; AI is the long-term question. ~5% from buy price.",
+  "paper_cad": 500
+ },
+ {
+  "tk": "ET.TO",
+  "name": "Evertz Technologies Limited",
+  "buy": 9.61,
+  "cur": "C$",
+  "why": "Record FY revenue C$516M; 47% recurring software/services growing. Broadcast industry shrinking; Q1 margin dipped.",
+  "paper_cad": 500
+ },
+ {
+  "tk": "CSW-A.TO",
+  "name": "Corby Spirit And Wine Ltd Class",
+  "buy": 11.22,
+  "cur": "C$",
+  "why": "Durable brands, steady dividend; reported Q1 EPS includes a one-off rum-brand sale - use adjusted.",
+  "paper_cad": 500
+ },
+ {
+  "tk": "ABEV",
+  "name": "Ambev S.A.",
+  "buy": 1.94,
+  "cur": "US$",
+  "why": "Revenue +7.6%, EPS +15%, margins rising; volumes flat; Brazil currency risk.",
+  "paper_cad": 500
+ },
+ {
+  "tk": "YETI",
+  "name": "Yeti Holdings, Inc.",
+  "buy": 26.93,
+  "cur": "US$",
+  "why": "Strong brand, little debt; sales +4% (missed), guidance cut; one-off tariff refund."
+ },
+ {
+  "tk": "CNQ.TO",
+  "name": "Cdn Natural Res",
+  "buy": 44.0,
+  "cur": "C$",
+  "why": "Best-in-class, decades of low-decline reserves; profits at high oil + one-off sulphur income."
+ },
+ {
+  "tk": "GSK",
+  "name": "Gsk Plc",
+  "buy": 31.47,
+  "cur": "US$",
+  "why": "Sales +5%, guidance kept; HIV patent cliff 2028-30 being prepared for."
+ },
+ {
+  "tk": "MLI",
+  "name": "Mueller Industries, Inc.",
+  "buy": 32.18,
+  "cur": "US$",
+  "why": "Sales +31% from data centers, $1.5B cash; copper squeezing margins."
+ },
+ {
+  "tk": "WMS",
+  "name": "Advanced Drainage Systems, I",
+  "buy": 71.5,
+  "cur": "US$",
+  "why": "Leader with scale + recycling cost edge; construction weak, 23x earnings now."
+ },
+ {
+  "tk": "YUMC",
+  "name": "Yum China Holdings, Inc.",
+  "buy": 25.55,
+  "cur": "US$",
+  "why": "EPS +20%, net cash, big buybacks; China consumer + political risk."
+ },
+ {
+  "tk": "LOGI",
+  "name": "Logitech International S.A. ",
+  "buy": 51.02,
+  "cur": "US$",
+  "why": "11 straight growth quarters, almost no debt; supplier outage temporary."
+ },
+ {
+  "tk": "CM.TO",
+  "name": "Canadian Imperial Bank Of Co",
+  "buy": 81.57,
+  "cur": "C$",
+  "why": "EPS +26%, ROE 16.8%; most exposed to Canadian mortgage renewals. Wait for a credit scare."
+ },
+ {
+  "tk": "IBN",
+  "name": "Icici Bank Limited",
+  "buy": 16.67,
+  "cur": "US$",
+  "why": "Profit +20%, very low bad loans; India growth runway. Priced at premium."
+ },
+ {
+  "tk": "RY.TO",
+  "name": "Royal Bank Of Canada",
+  "buy": 136.44,
+  "cur": "C$",
+  "why": "Record profit C$6.0B, dividend +14%; bad loans creeping up."
+ },
+ {
+  "tk": "INTU",
+  "name": "Intuit Inc.",
+  "buy": 159.3,
+  "cur": "US$",
+  "why": "Revenue +14% to $20B; AI-agent disruption fear is the key watch item."
+ },
+ {
+  "tk": "NSSC",
+  "name": "Napco Security Technologies, In",
+  "buy": 14.27,
+  "cur": "US$",
+  "why": "Recurring service revenue +11.5% (52% of sales, 90%+ margin), no debt; stock -20% after hardware miss."
+ },
+ {
+  "tk": "CPRT",
+  "name": "Copart, Inc.",
+  "buy": 14.03,
+  "cur": "US$",
+  "why": "Land + network moat, no debt, $4.5B cash; volumes down, growth paused."
+ },
+ {
+  "tk": "VMI",
+  "name": "Valmont Industries, Inc.",
+  "buy": 160.21,
+  "cur": "US$",
+  "why": "EPS +25%, low debt; grid boom priced in."
+ },
+ {
+  "tk": "NXPI",
+  "name": "Nxp Semiconductors N.V.",
+  "buy": 100.98,
+  "cur": "US$",
+  "why": "Q3 revenue +19%; cyclical upswing, valued near cycle top. Wait for a chip sell-off."
+ },
+ {
+  "tk": "SSD",
+  "name": "Simpson Manufacturing Compan",
+  "buy": 73.86,
+  "cur": "US$",
+  "why": "Margins 22% even in weak housing; dominant brand + building-code loyalty."
+ },
+ {
+  "tk": "IPAR",
+  "name": "Interparfums, Inc.",
+  "buy": 45.73,
+  "cur": "US$",
+  "why": "Durable high-margin model; sales flat now; 25x earnings."
+ },
+ {
+  "tk": "LMAT",
+  "name": "Lemaitre Vascular, Inc.",
+  "buy": 21.64,
+  "cur": "US$",
+  "why": "Sales +11%, strong pricing power, $390M cash; P/E ~29 - far too expensive now."
+ },
+ {
+  "tk": "GRC",
+  "name": "Gorman-Rupp Company (The)",
+  "buy": 18.21,
+  "cur": "US$",
+  "why": "Record sales; durable 100-year niche; orders flat, P/E 25."
+ },
+ {
+  "tk": "MLM",
+  "name": "Martin Marietta Materials, I",
+  "buy": 130.36,
+  "cur": "US$",
+  "why": "Local quarry monopolies; big Lhoist deal added debt + new shares; P/E ~39."
+ },
+ {
+  "tk": "PTC",
+  "name": "Ptc Inc.",
+  "buy": 46.8,
+  "cur": "US$",
+  "why": "Sticky subscriptions, ARR +8%; very expensive."
+ },
+ {
+  "tk": "GOOGL",
+  "name": "Alphabet Inc.",
+  "buy": 65.71,
+  "cur": "US$",
+  "why": "Revenue +25%, Cloud +103%; real P/E ~30+ (one-time gains); search ads slowing vs AI. Berkshire owns it."
+ },
+ {
+  "tk": "FFH.TO",
+  "name": "Fairfax Financial",
+  "buy": 4500.0,
+  "cur": "C$",
+  "why": "Already a BUY (passes all 3 tests). Alert only if it drops below C$2,500.",
+  "alert_below": 2500
+ }
+]
