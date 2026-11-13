@@ -212,14 +212,6 @@
   "q": "Martin Marietta"
  },
  {
-  "tk": "PTC",
-  "name": "PTC",
-  "buy": 46.8,
-  "cur": "US$",
-  "why": "Sticky subscriptions, ARR +8%; very expensive.",
-  "q": "PTC Inc"
- },
- {
   "tk": "GOOGL",
   "name": "Alphabet (Google)",
   "buy": 65.71,
