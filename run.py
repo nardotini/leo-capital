@@ -15,7 +15,7 @@ st = json.load(open(D("price_alert_state.json"))) if os.path.exists(D("price_ale
 seen = json.load(open(D("news_seen.json"))) if os.path.exists(D("news_seen.json")) else {}
 book = json.load(open(D("leo_paper.json")))
 now = dt.datetime.now(dt.timezone.utc); today = now.date()
-EVENING = now.hour >= 19  # evening run (after the close)
+EVENING = now.hour >= 21  # after-close run (21:30 UTC); weekly summary only then
 VN = {"G": "GREAT - wait for price", "W": "WATCH", "A": "AVOID"}
 NOISE = re.compile(r"stock price, news, quote|seasonal returns|stock traders daily|historical prices|price target|shares (sold|bought|acquired) by|"
                    r"position in|stake in .* by|holdings in|law firm|investor alert|pomerantz|rosen law|levi & korsinsky|halper sadeh|bragar|faruqi|class action (reminder|deadline)|\bmarketbeat\b|insider (buying|selling) .* shares|stock (forum|chart)|why did .* (fall|rise|gain|drop) \d", re.I)
@@ -109,7 +109,7 @@ if (moves or news_alerts) and not first_run:
         parts.append("BIG MOVES\n" + "\n".join(moves))
     if news_alerts:
         parts.append("NEWS (🔴 = important: CEO, lawsuit, deal, guidance, earnings…)\n" + "\n".join(news_alerts[:15]))
-    send(f"🗞️ LEO CAPITAL - {'after-close' if EVENING else 'morning'} check\n\n" + "\n\n".join(parts) +
+    send(f"🗞️ LEO CAPITAL - {'after-close' if EVENING else ('morning' if now.hour < 15 else 'intraday')} check\n\n" + "\n\n".join(parts) +
          "\n\n👉 Big news on something you care about? Ask Hermes: \"news check <company>\".")
 
 val = book["cash_cad"]; pos = []
