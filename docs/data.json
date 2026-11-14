@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14 01:33 UTC",
+ "updated": "2026-11-14 01:39 UTC",
  "usdcad": 1.4261,
  "portfolio": {
   "start": "2026-11-12",
@@ -190,6 +190,14 @@
    },
    "news": [
     {
+     "title": "CGI Inc. Cl A stock rises Friday, outperforms market",
+     "source": "MarketWatch",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc05kRlNyTllMbUE2WGZZakJ3Q3ZJQi0zWG1mZlJ6U3ljSUdzR1ltUGlMdHY1UE5jU1Z0M1FtUndhcnVOOHJYNVB2WWNNNThPb1F5bEpaWExhUDl6bkxjYnpsVzUxZTZpb2gxamdITEh3cHJobG1Xc3RiSnlnQjNUNmFRWEFkOFItT1ZfS1IzOHVUMmpOOFlZVExvNHpTTGRLN0dSNmNjWkJndTJTXzBSWjlyazBGRHZJWThYSV85UG9PZURJeE5J?oc=5",
+     "when": "2026-11-13 21:32",
+     "ts": 1794605520.0,
+     "flag": false
+    },
+    {
      "title": "CGI Inc. (TSX:GIB.A): S&P/TSX Composite Index Large Cap Value Stock in Focus as Defensive IT services demand, recurring digital transformation work and cash generation",
      "source": "kalkine.ca",
      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQc0VVTEhPZXRpSjhpemoycktoMVJsY0d4eFJTandxM1pEZExuV2hlZ1Fzai1UZVAzYkRZeG1OeDRTN1d1N0wzOGFuVGxJa3VtMW1Qbk9nOG15VlVXcjZsT3FzaDZ4Z2Y3bzVlM1ZldzJoY01LczVrYzJDTVRRN0REekZKbjdZZDNNM25oTVNXaDk5YWlRT21ZWVREWWJGRkNZTUFER3V0bXY1dEE1VEh0M0todTRMQzAtTWIzWTZwSXI1bE0zMUdhZWRxTWxLLVFQOGhJTTlpWEVjTE14VEdPSEotYTFMWEI3MF9PdWplcUhfSDd0aGc0WFplaUgzbXNUcW5qQU9BMHBjX3pjczc5ZVZJUWdFeHkzYTRaR3Bn?oc=5",
@@ -219,14 +227,6 @@
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTlRRLW4tbUEzcHFBSTU3cjduYkxITV9LQWtfWFEyVHpWdHhJd3BGaXM3bU1GSXhyRFE1T0gwVFdWT19HLVFzVy05a2pJcmdSaWNmN1VHQmV3ZjlJbkRrVENOeGpVZ2lQRnlSeV9ocmNaZGRBYXRTVGg2LVA0SHEzZ3JaVy1HT2dhM1dkdmdsTEIyYXJVTnZGdXFrbUdhZTA0SzlyVjdR?oc=5",
      "when": "2026-11-13 06:41",
      "ts": 1794552113.0,
-     "flag": false
-    },
-    {
-     "title": "CGI Inc. Is Maintained at Buy by Desjardins Securities",
-     "source": "Moomoo",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNS10ZGJSYndsSWZPZWE5RmF0Sm9iZlNPVjR3d1JGRlQ1WUwtdUVHc1lxNHZET2UyazB3dWh3dVpIWWFHRDF1X2g5d0Y5LURyUzRnZkZTTURTaHdVNWlLeWVzVHNxRTlKSHhSU2FDNWJpLUpBazJZVUJlNElBVnpNT2JfNlBXamt3WmNDQzBpQmI0U0tLQll3S1I3RHgxdw?oc=5",
-     "when": "2026-11-13 02:29",
-     "ts": 1794536981.0,
      "flag": false
     }
    ]
@@ -594,11 +594,11 @@
      "flag": false
     },
     {
-     "title": "Can Thermal Records Boost Canadian Natural (TSX:CNQ) Production Growth?",
+     "title": "Is Canadian Natural Resources (TSX:CNQ) Strengthening Its Energy Operations?",
      "source": "Kalkine Media",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmYxU0hqME05algwaWhVd09JTV9nS3FVdlJoNXpIQk5KZ0NZV1B5OXlVQU1UT3EyVXRzal92Y0ZnS0VlNGNidVBhelc0V2liUnZJc21TSFRjdzNERDNicmVOREdITkczdEtidWxOS3VlSzkzalFsbTFpOUhibDNXTXNfZ2xjNE94Z255SFdNM1VQYTR3c0FIenZkUC0xZHZqbTJ4VnE1azdmRE5xOGFWRw?oc=5",
-     "when": "2026-11-13 18:53",
-     "ts": 1794595980.0,
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOG96UmlCLWJpRGVHN0pTYWowMi02N2VZYXI1SGFMWEM4R1lYYjRQX2JsckRfSWprTHBvZnNfdm96dDM5TWRGei13cnQtT3drMXdKbzBSQ2VTQ2E4eHZRTFREaDd6cXByVi1hMGowM0lXd25BeW1pdHZScUgyUV84Z1dQY0lkZkRnNlB0NWFTLWN2TmJucmlSUzBTdkNEOGRyVGk3bHBNYlN0QWRITS1PMllGWjVQdw?oc=5",
+     "when": "2026-11-13 21:34",
+     "ts": 1794605640.0,
      "flag": false
     }
    ]
@@ -618,19 +618,19 @@
    "deep": null,
    "news": [
     {
-     "title": "Mueller Industries, Inc. (MLI) Stock Forecasts",
-     "source": "Yahoo! Finance Canada",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcWdzUUFsQ3RkZEhheUd3czlNVHFPSGNBX1VmWGwtdVg1UWc2YkpKSWVwTjgtSTctTlIwdVhKcmFISU1qakFwejkweGRrYmJBc3RSaE43U1UyRGpsd0dGOVlyUmVUdVZEeUNhUjJncm8takFsNXhIMkljOS1YMUU0d3JGMzhJSGNNRkFZT2lEM0psN2c?oc=5",
-     "when": "2026-11-13 20:27",
-     "ts": 1794601650.0,
-     "flag": false
-    },
-    {
      "title": "Mario Gabelli's Top Q3 2026 Move: Mueller Industries Inc at a 1.",
      "source": "GuruFocus",
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWmtGdEt6SllSNTQwV08wckk0SmtydVl1TGVUM1JVNlRjSnNyNzNPNjdIUTNvaUhKV3dsTzdKeXVNeFVYTzF1bWN6bTdYNVN5OXRnb2JBbWduTnNzelU4QXBPZlVGczI2UWw2dEtta3ItX3o1eDZ6R3BFQ3d6LXF0LWw0NHNGSXpqYzJseG9mM2NDQWlzYzhBaDFETFpxY3NMU1VSZEF5MlpxSnE5UXA1S0p5dExmN0ZEeHRj?oc=5",
      "when": "2026-11-13 12:59",
      "ts": 1794574777.0,
+     "flag": false
+    },
+    {
+     "title": "Mueller Industries, Inc. (MLI) Stock Forecasts",
+     "source": "Yahoo! Finance Canada",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcWdzUUFsQ3RkZEhheUd3czlNVHFPSGNBX1VmWGwtdVg1UWc2YkpKSWVwTjgtSTctTlIwdVhKcmFISU1qakFwejkweGRrYmJBc3RSaE43U1UyRGpsd0dGOVlyUmVUdVZEeUNhUjJncm8takFsNXhIMkljOS1YMUU0d3JGMzhJSGNNRkFZT2lEM0psN2c?oc=5",
+     "when": "2026-11-12 04:19",
+     "ts": 1794457192.0,
      "flag": false
     }
    ]
@@ -1130,14 +1130,6 @@
      "flag": false
     },
     {
-     "title": "NXP Semiconductors (NXPI) EVP & Chief Sales Officer Andrew Hardy Sells 1,643 Shares",
-     "source": "GuruFocus",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa1ZZY2FWa1VwXzNUUkRwUTBxOS1HZkZjZlRWZVRoRWZfSHhQZElSclZfMHNJSXNiMk1zdUlJWG9rYzFXeGROQVRMMWJ6NW00ZGtzQXktM0ZwaUlTN3hPQ0VaNWFYa3lxTnVEWmRKNEV3djVuSTVuQ0tDc2hSY1BUeGEwWnZkYWxQZDQ1ejkwajdERWtlUkhfNDlrV1lWNnZ0SS1vNmhlcVV6cTA2eTVaaVJnRTJCckFU?oc=5",
-     "when": "2026-11-13 17:47",
-     "ts": 1794592030.0,
-     "flag": false
-    },
-    {
      "title": "NXP Semiconductors slides as soft outlook overhang meets broader chip weakness",
      "source": "Quiver Quantitative",
      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZW1HQkY5Rjd1MkVuTmJKSW1rTm5xVnNjdnFzNHVIU2JBWGRIY2J1Z2FRcjk3em84Z0M2Ri1GWE5GeDJwOF9DR3d2TGlzdy1ObVdkWGFmMmdhR0ROckl1aEpiOG5HaktNOTlTNWhEQWdxejRsX1R4WEhJQ1ZqbVoweE9xT0Nha0hpeS1ubUdlY0RkRzZ2TEVjYWU1cU5hSDRhNmxZcFVyR3FSQURETTJvQg?oc=5",
@@ -1159,6 +1151,14 @@
      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmNCUjhRRU1HcXRsWlVzaDg3cjh2TWdock9RUFYzOFR1YW5wYW4wOHZIeDZLa09pMXdhMDBLUTAtWnV4NUxsUkJjZHN3SWQ2dzh2T1J1blZ0NWNEREh1MlZ5aWVjWDBRMXQxS3dGbks5VTBFUEU4anBTcDRwQWpGYkl4YTV3MWQ5Q0l2Mm5HUXI?oc=5",
      "when": "2026-11-13 15:40",
      "ts": 1794584446.0,
+     "flag": false
+    },
+    {
+     "title": "Form 4 NXP Semiconductors N.V.: Andrew Hardy (EVP, Chief Sales Officer) For: 11 November",
+     "source": "Investing.com Canada",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbDc0N29SanJzd01tc09VeDk2cnJJd3dkb3VRQnVWdGxIb3I5Nk9jZFpMZEZYVG9HTGZyQTVXY3I1M0s3V3V2WjB5S1RERjZMaHdsRld6WmZUVm82Z3dKblQ5VU8zZHYxTHJieERrb01KSE1lWnB3eGNrTnZSXzRpbklLY2dZRFdkczZnV1ZZSnlxRzA2b29OR0VwS2Vwd0lkbEtjem41Yzc2TU94dmtpOEJXck5SR2ZTTG80MWl0SjBjcTBaTFhBWEhlRUhjZ2puMDFhd3lnTmEyQQ?oc=5",
+     "when": "2026-11-13 13:53",
+     "ts": 1794577997.0,
      "flag": false
     }
    ]
@@ -1499,5 +1499,10 @@
     }
    ]
   }
- ]
+ ],
+ "crash": {
+  "SPY": -0.0317,
+  "XEQT.TO": -0.0161,
+  "QQQ": -0.105
+ }
 }
