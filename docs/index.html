@@ -66,7 +66,8 @@ ${extra||''}<div class="row muted" style="margin-top:6px"><span>Now ${w.cur}${w.
 <div class="det">${w.what?`<b>What it does:</b> ${esc(w.what)}<br>`:''}${w.story?`<b>Our news check:</b> ${esc(w.story)}<br>`:''}${w.deep?'<br>'+deep(w.deep):''}${ns.slice(2).map(n=>hl(n,false)).join('')}${src}</div></div>`;}
 function home(){const reds=allNews().filter(n=>n.flag).slice(0,5); const near=[...DATA.watch].sort((a,b)=>b.gap-a.gap).slice(0,4);
 const own=DATA.portfolio.pos.map(x=>x.tk); const ownNews=allNews().filter(n=>own.includes(n.tk)).sort((a,b)=>b.ts-a.ts).slice(0,4);
-return summary()+`<div class="sec">📰 About what you own</div>${ownNews.length?ownNews.map(n=>hl(n,true)).join(''):'<div class="muted">No new headlines.</div>'}
+const c=DATA.crash||{}; const sp=c.SPY||0; const lvl=sp<=-0.3?'🔴 −30% rule: buy another C$5k':sp<=-0.2?'🟠 −20% rule: buy C$5k':sp<=-0.1?'🟡 Correction (−10%+): get ready':'🟢 Normal';
+return summary()+`<div class="card"><div class="row"><span class="name">🧯 Crash meter</span><span class="muted">${lvl}</span></div><div class="muted" style="margin-top:6px">S&P 500 ${pct(sp)} from high · Nasdaq ${pct(c.QQQ||0)} · XEQT ${pct(c['XEQT.TO']||0)}</div><div class="bar"><div style="width:${Math.min(100,Math.abs(sp)/0.3*100)}%;background:${sp<=-0.2?'var(--red)':sp<=-0.1?'var(--yellow)':'var(--green)'}"></div></div><div class="muted" style="margin-top:6px">Plan: at −20% move C$5k from Savings into the index, at −30% another C$5k.</div></div><div class="sec">📰 About what you own</div>${ownNews.length?ownNews.map(n=>hl(n,true)).join(''):'<div class="muted">No new headlines.</div>'}
 <div class="sec">🔴 Important news on the watchlist</div>${reds.length?reds.map(n=>hl(n,true)).join(''):'<div class="muted">Nothing important right now.</div>'}
 <div class="sec">🎯 Closest to a buy</div>${near.map(w=>stockCard(w)).join('')}`;}
 function port(){const p=DATA.portfolio; let h=summary();

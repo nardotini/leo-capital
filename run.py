@@ -127,8 +127,25 @@ port = dict(start=book["start"], start_cash=book["start_cash_cad"], value=round(
 if today.weekday() == 0 and EVENING:
     send(f"📊 LEO CAPITAL weekly: paper C${val:,.0f} ({port['pct']:+.1%}) vs XEQT C${bench:,.0f} ({port['bench_pct']:+.1%}). Tap 📊 Leo Capital for details.")
 
+# crash meter: buy-the-dip rules (written in advance): -20% -> put C$5k into the index, -30% -> another C$5k
+crash = {}
+for t in ("SPY", "XEQT.TO", "QQQ"):
+    try:
+        h = yf.Ticker(t).history(period="1y")["Close"]
+        crash[t] = round(float(h.iloc[-1] / h.max() - 1), 4)
+    except Exception as e:
+        print("crash fail", t, e)
+dd = crash.get("SPY", 0)
+for lvl, txt in ((-0.30, "−30%"), (-0.20, "−20%")):
+    if dd <= lvl and not st.get(f"crash{txt}"):
+        st[f"crash{txt}"] = str(today)
+        send(f"🚨 CRASH RULE TRIGGERED: the US market (S&P 500) is {dd:.0%} from its high (rule: {txt}).\n"
+             f"Your plan, written in calm times: move C$5,000 from Savings into your index (TFSA). Buffett: be greedy when others are fearful.\n"
+             f"Also check the Leo Capital app - great companies may be at their buy prices.")
+    if dd > lvl + 0.10 and st.get(f"crash{txt}"):
+        st.pop(f"crash{txt}")  # reset once the market recovers
 watch.sort(key=lambda w: (0 if "BUY" in w["verdict"] else 1, -w["gap"]))
-json.dump(dict(updated=now.strftime("%Y-%m-%d %H:%M UTC"), usdcad=round(fx, 4), portfolio=port, watch=watch),
+json.dump(dict(updated=now.strftime("%Y-%m-%d %H:%M UTC"), usdcad=round(fx, 4), portfolio=port, watch=watch, crash=crash),
           open(os.path.join(H, "docs", "data.json"), "w"), indent=1)
 json.dump(st, open(D("price_alert_state.json"), "w"), indent=1)
 json.dump(seen, open(D("news_seen.json"), "w"), indent=1)
