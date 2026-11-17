@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-17 22:41 UTC",
- "usdcad": 1.429,
+ "updated": "2026-11-17 22:53 UTC",
+ "usdcad": 1.4295,
  "portfolio": {
   "start": "2026-11-12",
   "start_cash": 10000.0,
-  "value": 9950.51,
+  "value": 9950.67,
   "pct": -0.0049,
   "bench": 9715.16,
   "bench_pct": -0.0285,
@@ -23,8 +23,8 @@
    {
     "tk": "ITUB",
     "cost": 500,
-    "value": 466.98,
-    "pct": -0.066,
+    "value": 467.15,
+    "pct": -0.0657,
     "px": 7.03,
     "buy_px": 7.32,
     "cur": "USD",
@@ -658,6 +658,14 @@
    "deep": null,
    "news": [
     {
+     "title": "After a cash option exercise, Advanced Drainage Systems (WMS) officer proposes selling 13,800 shares.",
+     "source": "Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRkFRNkNldTVyS1BOOXRmUkV4TzJqdmhKOEdFQXFzUXMxN3lMSEJmemVYb0hnUnBqTjhyeE1oWTZOX181OHFxZFdKaWJ5Q001ZnowOFhEZ2Y1YWd1MWFVYm04TjZwcmdtaWlVUVQtVDBUSll0RVllYkE4R3JhTVpSOEVhQ0FkLVFkLUNsanppazZrT2xJZ21IQVpKVVEtcHZsR1RPSnJfckQ?oc=5",
+     "when": "2026-11-17 22:40",
+     "ts": 1794955253.0,
+     "flag": false
+    },
+    {
      "title": "Advanced Drainage Systems Officer Sold Shares Worth Over $615K",
      "source": "TradingView",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdWx5OGtQeUJIVVEwSUJwdk1IeVh4UHg3UHNWNnlHRXhJck9ReXdkQmpiN0JRSE1POGhUQkdyaVlma0ppRmxHMFRIcGRkWHhrbzBUbEx3NzhMQ0ZHVnR1RFhwMDFIMHk2RWZkMENnQ1c3d2N6RmFRY2RqVThiVTRjaThlREtsNmVLQW5IRWwtQ3VjZWRJbGx1NjJtdUphVjczejVkSTg0OTJ5b2xzLXVaZmNLcmV4dGtmV2ljbGhpc3k?oc=5",
@@ -687,14 +695,6 @@
      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZG9PWERWOHNNSVpLQklQQXNxN04zcV9lX1BSbmJzODVWVVJrQTVlbFBjZFFRZjltQjdLSVkwQlNkRUROUjJQWUc2dTV5dXNPTGdCczlGWHNlS0tZYkNHdGJIVjZKUXc0Q2VSbW1uNzIwTHBKeUdPRW1vdFZtbWRyN2dKNnp6Z0xydFlzTTh2X2ZUaDRXd2tsbW5TWmNUZms0RW40cTlZNHgwaklCWS0yUA?oc=5",
      "when": "2026-11-17 06:37",
      "ts": 1794897438.0,
-     "flag": false
-    },
-    {
-     "title": "Is Advanced Drainage Systems Inc (WMS) a Bargain After 3.5% Drop? GF Value Says Undervalued",
-     "source": "GuruFocus",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa2xqbFJtcWUwanFsMjdsSEFfM212MmU5MFkzLWtuLXQ3cDBNWWFhV2FkLU1Sam01SnhjVkRSOXE1RUJsZFZ5b1FTZGdBeFpyNjJRU19nVG9QQ19JXzYtOUdCVE43NHU3OGg5VWx4RXRId0NxMFc4NnlrSjFzQlRtaXVLZ2JQcTVNVkZxaWdSUzRkTFZIakxQNUJHbVZpOW9acEdlLWctb2d0V2VKLWpmT09qY2R1UzYwV2owbklxY0wyOVU?oc=5",
-     "when": "2026-11-17 01:40",
-     "ts": 1794879601.0,
      "flag": false
     }
    ]
@@ -907,10 +907,10 @@
     },
     {
      "title": "Adobe, DocuSign, Intuit, MongoDB, and Workday shares are falling, what you need to know",
-     "source": "TradingView",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa0o2bTBLU1ozeXNfRjdWVy1yOElFX2JyMlVJSHFRS2hCQjdJcVJMdTY5YzJ0VjZpNmx6X3UxYXBiRHhwekt0Y1J3aDFiR09pMnZYNnZuMGl3eEhaZjlWa3d0cVlBdXBSVDRuZE1TMEpSQi03c1NQa0RsMjNRWG1rRmdVWWc2SVVFLWpVZUdlWE8tb0xOOVBWaXhrOTNkTlkyUlZEXzZQS1pUNzNOWi12UFlGMHNoRFNSVmgxZTQwWXVpRXNQRHM1Q3V5cnJJSUZUcm5iQ28zQWJMdzA?oc=5",
-     "when": "2026-11-17 20:00",
-     "ts": 1794945643.0,
+     "source": "The Globe and Mail",
+     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPd0pPdEdpU3diVGVJSmM0bXBBSHJmblN0QWRBd0J4V296UEZGa2szX0tsamhOeXF4SjludWh1UENvcUlHMEE3WXpPdzNiQzI1OXNraFpoajkwSUJNX3NKMjVybXJVY1RaOGlqVHN2VUl0TVhKLWY0MU0wM1daZjlnNS1zdmFsR1JlX1Rsa29weV9yM0tXUzR3Q3A4T1V2Zm8wR1hzMzlyZlVwQUtZYzJRam8yNDVvejRXUHhXXzlIVVlrZmdHak5jb1Nzc01pVS1MMWpjYkdBWGRJQmllRF9GY2t3MEEyMV9vZWVRZEpBZGEyLVVTNFVZX3dB?oc=5",
+     "when": "2026-11-17 20:13",
+     "ts": 1794946400.0,
      "flag": false
     },
     {
@@ -1416,6 +1416,14 @@
    "deep": null,
    "news": [
     {
+     "title": "US bankruptcy judge approves Spirit Airlines data sale to Google",
+     "source": "KFGO",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnVIaTEyOWZFX1JEbDF4Z3pUZ25nUjRPSTVhcjVJRF9pdTJ6SnM2VVNIZzBSR0c5Tk1pLW9RSW1iOVVFTWJrNjBockJHOGZwNkxrVVk5SjlvN3Y3WmJ6bEtHMThtdWVkTEZMZ2h4aFllYkhtV2prc2VqRXg3bllYb2NJZXhSWXBya1pzYngyOEJFSlE3bTROeQ?oc=5",
+     "when": "2026-11-17 22:43",
+     "ts": 1794955383.0,
+     "flag": true
+    },
+    {
      "title": "American billionaire Stanley Druckenmiller dumps $120 million Alphabet stake and buys SpaceX",
      "source": "Billionaires.Africa",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWVUxeFVVdVBnNVF4ZFF0ZUFjcWRjVE1qZ0VuOGkxaGRaMGZnWnAtNGFjdDlPYXBFUzg0cS01MzBxQmhLNG9RRmd4VTE1UDBwUE9fNGNxUDBxNnYwVlNfYnl5a2lSNmVMMzJoZFE0cWloTTd3R01KUThsWjN6cEdFck52TVRoWFRVNkR5N2pJek1QdExOS1JLbEZIeF9SRkR5UTl0aHY5S2pUNlpWanZQenZJbHlWRUdVeXAtUnRBQm5fZHZvTXlwMFNJTGt2WVQ4?oc=5",
@@ -1429,14 +1437,6 @@
      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV1p6RXNvT3UwN0JXclBwRTc0dk5hak13a3Z3QUFsaDlyNGpJWHJKUlVnd0xrTlhNUGNrM0lUMW9DQzhXZHAyZm1Wd01DZnE4Wm9HbHg2Q013VFRCbWJ4eE1oeEthWFM3T1kzR1RZNkttTjNiTTdKa0hyVVZWSWRZT2tPcGQ3SnFrbWZQZ2Y5Mk0tVlFkUUE?oc=5",
      "when": "2026-11-17 19:28",
      "ts": 1794943698.0,
-     "flag": false
-    },
-    {
-     "title": "Google Labs is buying an AI email scheduling startup in its latest agents push",
-     "source": "Quartz",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IM2ZyQ3hMbGJUbGhjQk10SHY2QjZuX2pnX1Y4dWtTZDI4c0VPTGhCUTJOUUs0YnZ1Zm4xcHMwSWo0bk9OQnVTMlNvMktvUWJ0NGI1Q2tjLXQ1VDNReGwyTVpLV3VCb0xHeTdpd0h3?oc=5",
-     "when": "2026-11-17 18:34",
-     "ts": 1794940442.0,
      "flag": false
     },
     {
