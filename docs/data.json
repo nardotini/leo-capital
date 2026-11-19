@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-19 22:28 UTC",
- "usdcad": 1.4335,
+ "updated": "2026-11-19 22:41 UTC",
+ "usdcad": 1.4336,
  "portfolio": {
   "start": "2026-11-12",
   "start_cash": 10000.0,
-  "value": 9894.51,
+  "value": 9894.54,
   "pct": -0.0105,
   "bench": 9482.91,
   "bench_pct": -0.0517,
@@ -23,7 +23,7 @@
    {
     "tk": "ITUB",
     "cost": 500,
-    "value": 445.79,
+    "value": 445.82,
     "pct": -0.1084,
     "px": 6.69,
     "buy_px": 7.32,
@@ -42,7 +42,7 @@
    "name": "Ita\u00fa Unibanco (Brazil bank)",
    "cur": "US$",
    "px": 6.69,
-   "chg": -0.0248,
+   "chg": -0.0234,
    "buy": 7.34,
    "gap": 0.0972,
    "verdict": "\u2705 BUY SMALLER (half size)",
@@ -65,14 +65,6 @@
    },
    "news": [
     {
-     "title": "Stablecoin Development Corporation Falls 7%",
-     "source": "StocksToTrade",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUklMc1hMQjNQc2x5dW9YbnFZcU0xeGh1ek5LbjMyQXNUeHI3eVJrUlpOdDluV2xpZ2ZsdDZ5YnFhRlZmbVZFb1cwcWctcmRSSlotWWF4VDlkdVNyWk5RR0dSX1hhWjBBdE9xWDVoNlc3b2k5eTZEZ3dQUnhIbXg0SFFQeEZ0UldHbkF6VmktTDg?oc=5",
-     "when": "2026-11-19 14:50",
-     "ts": 1795099800.0,
-     "flag": false
-    },
-    {
      "title": "Bradesco CEO Says It Is Time for \u2018Prudence\u2019 at Brazilian Banks",
      "source": "Bloomberg.com",
      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRWl4RDVDYXRjaGw5c1h3bUhFUk5uWFNyUmhpZm5lN2VIbms0c2VJQXZCdV94b0xBWWpvSktkd3cwRFhoWENINUN0N2ZFc3Nzc1hqamk4SlZhaGZTTU1RMk12TGlhS0RPd2hsbTIyckhVcjhRbk5XMzJoT2hxb0I0c0FlV19aUUZhdWNMdnQ1bzNxZDVKSHhkZTlsUkJhRVB0T3QwWVF3R1lXN1FIZERDYw?oc=5",
@@ -94,6 +86,14 @@
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT2NlLU10RTRoLUctd3ZTX3lEenQxcHRFclRWWVdSaGZlYUV5Y1Z2SWxDRjBDNm9CWW5tOVh2eW1WOUZOdVJOQjNJZkVkOUV3N1R3c1E4ZTZFMkxuOWJjQkFWZ2RaUWt6WmVDcEdKNG9DX0xxTHNHR0F0YlVkYUtweXFXek9TZFFwQm1fdjNyTVNTLUFMdjBjZkpFem9TNDZWOW55bWZUT3VsOXZhdXpuV1RtZ1lTcnppUl9pcVhta1k?oc=5",
      "when": "2026-11-18 16:45",
      "ts": 1795020300.0,
+     "flag": false
+    },
+    {
+     "title": "StreetInsider.com",
+     "source": "StreetInsider",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16ZU5CMVNILVRrSWdVWVBNZHp0eDNQbTlMVXZpRmEtZk9VMUk4OTRwRlRkcEJwcmpiV2E1aUY5VlREclRITW93TDFjRHpjZjVPeE0ybTRkUkJhTVdmbl9hanFGT2NZckl1?oc=5",
+     "when": "2026-11-18 06:10",
+     "ts": 1794982249.0,
      "flag": false
     }
    ]
@@ -137,19 +137,19 @@
      "flag": false
     },
     {
+     "title": "Fairfax Arm Buys 11.8% Stake In IIFL Capital Services For Rs 1,540 Cr",
+     "source": "BW Businessworld",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObGtNMEJORFNseGUwZkI0S0p4Mjc2enRuc3FFU3pDOGZyY2k4ekx4Sk9YWmJMTnpHVG40TlotVzJrOU5zNFpacl8wWTVSRWhQUEs2Mm5JLWtxLWVIY2JIa3RHRHJFR1ZNRWdIR1g0anVYckJscVNBZVQyVWZnM1NRMDlZN2xBRUFVX0Q0YW81azNFNDg0aERqRmlOVjFMNDRJQ0h0QXVxcU9WakZvUEhFVXB3?oc=5",
+     "when": "2026-11-19 16:40",
+     "ts": 1795106404.0,
+     "flag": false
+    },
+    {
      "title": "Fairfax raises stake in IIFL Capital Services to 52.63% with Rs 1,540-crore acquisition",
      "source": "Moneycontrol.com",
      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc3k0T1ZsalNCWndMSjlfVmlnc2hKZTRXNElfNkFOMXBhSE9SdTRBOXhFVW5pOHY3Vk5qT1h2Q2kyVlRYanNIazN3ejZlejNtd1ZRbTFrcHN4WGFJZTd5Wng2SVZ6NjJlUUNXTVQ0b2tvR0c5WkttVmdVVWlldExEVGc3T0tGZjRGVktBdTlTTURrOHByank4LWJWZFZ4TUZQODVULVF0ZWZfNFlyd29vQnFFeEVUT19Ibl9sOFMyUlM0eENZVS1sMUF2QzdCaGJ5ZHhzbDlJeVd2TEJOaWVrYWoyMm1ZUdIB6wFBVV95cUxOdnRQRUd2Vk1nM3NHUC1Fa0dvTmF5Q05QZzduYllWQkxpTzFMNEI1RzRneTh5Yk1PSjBNeVBmTktDWmREVm9aRzl5akNaY1RQVFZveVgyY3c4N1FhREh4VEM5b1FnMTZFTU9pV0g4OUIxYzdQZzl0U2F3cDNDaWZ5cnQ5ZFo1UmFFTWYzRjROSUhqa0I1bFVUZjdfekh5UWN2ak1fdjhUbVdrOEw0OEJ6OHNCN3N5dl9pSXNDZmhnNWtnYkowWkt2Zm93bUJWendqRjZtUUp1QnBJcXVWMWttb0RBN3c2aTA3bDk0?oc=5",
      "when": "2026-11-19 16:15",
      "ts": 1795104912.0,
-     "flag": false
-    },
-    {
-     "title": "Nationwide Strike Looms as Unions Oppose IDBI Bank Privatisation",
-     "source": "Rediff",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOamVOSlVlT0ZiNXRqWGh4LTZtUVV0XzBmNDdZZE1aSk84cHBZbExzUEgzU01ZVWRoNTd3MkdTdGlpVHZQMVZkQUhMLS05blBkNnVGNENKeTFPSnhIdkVNUExkX3VlRG50aEJKTkNWZXBYSEkwYzhKa1JjWGFEemZpQ0w1YzExMFE0aXlQbG5odE1NdUV6eTdJVHNUSTFRMi0yVnZaYVc2S3gzbi1CZEU1YmIzbWjSAbcBQVVfeXFMT3BCX3VWMVJDUlg0MkZRajFGOFNOeExwSkREb3g0Rk5qNlVaWTFoaUpyRDFCOEpYM1dRRkNmRUdHck1xSURsRmlMb0t3VHRpX2ltTG9pdzJCWWExQzIxUTByQnZ5ZkVoeUQwdUdrTzZUU01zdzJydnNRSkRTZFI1OVR3SUpWQ0d4b0szQVhjVEtGODBlMldhakJ5RFNGQ1p6eUdua1VXbnVxWl9HYUNUTkZEN1RxbjVv?oc=5",
-     "when": "2026-11-19 15:05",
-     "ts": 1795100750.0,
      "flag": false
     }
    ]
@@ -394,9 +394,9 @@
     {
      "title": "YETI Holdings Drops 5.9% After Goldman Sachs Downgrades to Neutral",
      "source": "AlphaStreet",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZmNCZzROeTJqOFJBcmxBOEhsYnhUM3h2NDNTZlEyY0lFZUhud0x0ZlNydzl4WFc3WTVwbWdYalhDWm9scWgxYmw5dEJxWXlEMjVwUWlZeEhIX2JIX0lvMXBhQUZVNjhSSVJWVU1kdkZhZkk5SjRDMmdTREdBTlU4OXV2WVMyNUh0dUx1bm5ITUNNb0VtSWZOb3drMlZ4VmpM0gGgAUFVX3lxTFBmY0JnNE55Mmo4UkFybEE4SGxieFQzeHY0M1NmUTJjSUVlSG53THRmU3J3OXhYVzdZNXBtZ1hqWENab2xxaDFibDl0QnFZeUQyNXBRaVl4SEhfYkhfSW8xcGFBRlU2OFJJUlZVTWR2RmFmSTlKNEMyZ1NER0FOVTg5dXZZUzI1SHR1THVubkhNQ01vRW1JZk5vd2syVnhWakw?oc=5",
-     "when": "2026-11-19 20:02",
-     "ts": 1795118577.0,
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUWRhNDdnN0V1cGtyX3QwVVZPd1lwTVA2dEJRODFZOW1IajZzREVWZXJoLUxoVEE3UWhTS3ZWejRrR2RtYlZtalV5QzZzUmRiSFZrdGwtVGdfaWFxZUdwY0ZlcWgteE94RDJsNE1ZbmNnSk9Pd2JySXlyMmtOMUI0LTNmdWRfU0tiR2JQaVNGZEMtZ083VGpnSU5WNNIBmwFBVV95cUxOUWRhNDdnN0V1cGtyX3QwVVZPd1lwTVA2dEJRODFZOW1IajZzREVWZXJoLUxoVEE3UWhTS3ZWejRrR2RtYlZtalV5QzZzUmRiSFZrdGwtVGdfaWFxZUdwY0ZlcWgteE94RDJsNE1ZbmNnSk9Pd2JySXlyMmtOMUI0LTNmdWRfU0tiR2JQaVNGZEMtZ083VGpnSU5WNA?oc=5",
+     "when": "2026-11-19 19:42",
+     "ts": 1795117326.0,
      "flag": true
     },
     {
@@ -418,9 +418,9 @@
     {
      "title": "Kendra Scott leases big industrial space in SE Austin - Bizwomen",
      "source": "The Business Journals",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNDYyM01sb2kxMUZCY0FqU0hHWFNsMEZPTVkxdGZpMVdrY2dwMFVpeGc5aU93VDNjN0Fvd25wTWlHQ2JhYkVONnRsLWwza3BRR0otbGk3MzlJY2RHdnZyeWFPOHgtME1LVlk3azNUZFZ3Q2lFZDlJbjJOZE5MYy0ya05pQzdUVWRUUHlhR24xd0tyQUFrekQwbzZaSTVrR1dNTnd6R1ByelNPZmEwOG5xdUJBdDJnTWNrclV2OENsRzc?oc=5",
-     "when": "2026-11-18 11:58",
-     "ts": 1795003080.0,
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ1ctUmE1X1V2Vnc5NnBFM2JXY0NWcjdLcVNEQWltMUJpX3BPdTBfNm5lVFhKbnZyN1FuQV9DN2JUNVA2X25VSUZUNEVwNWVrSjVMWVJ6RUdCMDlsNzQtMUFPbkNTS01mVTdxN0w2cllXQTFLNERnVHltYmJhZWRNZkc2c2JxdEVmYjN6SnNlaEZDc3VKY0tTVWhab0ZZb3lsVURXVFp1UGtCSVVwRjc1TGNFNnN0VU12REl2NEhwd0tmUQ?oc=5",
+     "when": "2026-11-18 16:07",
+     "ts": 1795018050.0,
      "flag": false
     }
    ]
@@ -582,14 +582,6 @@
      "when": "2026-11-18 07:21",
      "ts": 1794986482.0,
      "flag": false
-    },
-    {
-     "title": "After a cash option exercise, Advanced Drainage Systems (WMS) officer proposes selling 13,800 shares.",
-     "source": "Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRkFRNkNldTVyS1BOOXRmUkV4TzJqdmhKOEdFQXFzUXMxN3lMSEJmemVYb0hnUnBqTjhyeE1oWTZOX181OHFxZFdKaWJ5Q001ZnowOFhEZ2Y1YWd1MWFVYm04TjZwcmdtaWlVUVQtVDBUSll0RVllYkE4R3JhTVpSOEVhQ0FkLVFkLUNsanppazZrT2xJZ21IQVpKVVEtcHZsR1RPSnJfckQ?oc=5",
-     "when": "2026-11-17 22:40",
-     "ts": 1794955253.0,
-     "flag": false
     }
    ]
   },
@@ -632,19 +624,19 @@
      "flag": false
     },
     {
-     "title": "Every big company that split its stock in 2026, up to 25 shares for one",
-     "source": "Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zb1MxY1RjdkoyRVFnZ3JPeC1wUVRlYzZRZG5rR1dXZlBYVUFnNjhVRVo4S3c3Z3hvV1JHWnZQN1laMnNMY2pUaExuNFFsay1rR19ZbHdDbVZ3YjhBX3NVYUJHT2tfWTNNTVJXNDNDaF8yb1ptdU5lM3RJc2o?oc=5",
-     "when": "2026-11-19 14:56",
-     "ts": 1795100209.0,
-     "flag": false
-    },
-    {
      "title": "Obituary: James \"Junior\" Speer of Caldwell",
      "source": "Wynne Progress",
      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2UkVfdDVLX2YzdEw2RlFqVlR5b1ZvT3N0QlBPdFNPbzBCaUhycHBKWHFsTnlxQjNQaG1mYXVZZjkzRUtjbmM2RlJwUWdVeU9JWHNjTVEtNHdLcE5Ndl9xNEw1aFdvNENaZzN3MnVyVFN5VzNFU2R6Yg?oc=5",
      "when": "2026-11-19 13:00",
      "ts": 1795093200.0,
+     "flag": false
+    },
+    {
+     "title": "Mueller Industries, Inc. (MLI) Stock forecasts",
+     "source": "Yahoo Finance Singapore",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU0dOd0pRZGtacmVQOVNzR3BEZnpKaDJzalRtQXZ5YTdtUFQ5RDlrRTl6UWdoRFEybVdocDlrYno3NkpvaDRhdEc1U0FqU2R4U0JPRnlRbGp4aW13bWV1UEFPbFN0UVNrdDVRcDM0ZEhrRXowdGNEZXVQdG1DMmh1S1BKZ2YwaG9FSFJYcEg2SlMzanM?oc=5",
+     "when": "2026-11-19 11:19",
+     "ts": 1795087195.0,
      "flag": false
     }
    ]
@@ -720,43 +712,43 @@
    "deep": null,
    "news": [
     {
+     "title": "Intuit agrees to sell Mailchimp to Bending Spoons for $3.68 billion",
+     "source": "Mezha.net",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeF9KNURZbWJNNlpDWlBsajI5NUEwdzcxQjVrU2JHNi1YS1RVbG0tcjBUVDFabm01UVdIcFJ2OV91MHRSOGhrLVJfM0pFeWpJd19mLTc2VFBNMmpBRDRKaWw2TVNkVmhJdGZjY2lsZ3pyTUtwUkh5aEk1UlFCTG1JVw?oc=5",
+     "when": "2026-11-19 22:39",
+     "ts": 1795127971.0,
+     "flag": false
+    },
+    {
+     "title": "Intuit Takes US$8.3 Billion Hit On Mailchimp As Shares Crash Following Sale",
+     "source": "ChannelNews.com.au",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcnkyeFVBVTREeEtwMjY2MXFxalB1bUhNWlVqdHNmVVpVU19KQTdRU2xpdmxpdkxXMDJscWRQS3U0UkhNbGQwOGVNNGl5OFlLcEc0SVlnSTVoU2dQbjBJMXdhMnN4S0ZQeUw5U3pwX3JRZnVwc0JjczlnY0FfaDRDMFQ1a24tYW1hdjZvbkxranJHOEdNdE9RQ1BwelVHZkt3azFadlozYVNLdw?oc=5",
+     "when": "2026-11-19 22:36",
+     "ts": 1795127802.0,
+     "flag": true
+    },
+    {
+     "title": "INTU: Intuit Inc. filed SEC Form 8-K: Entry into a Material...",
+     "source": "Quantisnow",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeDBVTjhTY1BNSEJuODF6VlgwWmE4Uk1uRnRHV01vY0x3VE94TkF1bkRXWEpPUkJXYkFteUF0NUhIeTRpVXY2Q3NiSUxNVGVQU2VwM2d3emdzS1FjdFZqT3QwZm1JU1VhdkZCa3dFTDlsWDVyRWVKd1FPa05uVUZmdXJTd1lpMUNmLU1zaHpnRU5GVEg1T1Z2Y3Rn?oc=5",
+     "when": "2026-11-19 22:35",
+     "ts": 1795127714.0,
+     "flag": true
+    },
+    {
+     "title": "Intuit Sells Mailchimp At A Steep Discount",
+     "source": "Finimize",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZOVBPelZRMW5Udm1DSTRFVmZPa3FFdjVCZXZzVEt2d1R0S3RJeHJ2S2Rnd1UyWHRSVThCZHJUNDE1OVlxTzZla29oeldYbWNyRHpPRXRWeUwycjdKUjI1X0JvbGVYbktIcnRxa195TkNwNWQxUXgyTnM5MA?oc=5",
+     "when": "2026-11-19 22:32",
+     "ts": 1795127521.0,
+     "flag": false
+    },
+    {
      "title": "Intuit sells Mailchimp to Bending Spoons for $3.68 billion and trims its outlook",
      "source": "Startup Fortune",
      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWFBZVjRoOEJoNGdIdkpmbkJzRXBjWUw0bk1iQ3pVVmlYT0VxWGRfQ0twZTNCRzI2YUprMXpVZHFRRHN4NXJxTzBndU84TDhZREpMSm10NlpCUVlqS3N2UzBYd3I3LWRab1BoaE5hR0lVNWh6V1NVSk9SOFJxTjhtazFzUktuNFF3OFpsOUdKVEwwZkcwYW1zTWFBQzBSeHBiVXM2QTA2VW5iQQ?oc=5",
      "when": "2026-11-19 22:25",
      "ts": 1795127117.0,
-     "flag": false
-    },
-    {
-     "title": "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion",
-     "source": "news.lavx.hu",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNVJjNGJlM3dvc29TODRtVGo5bjFLMC1DTWJ0Q0NBTVFUbUxaWUQ0YlcwS3FOdGlpanZDVDhGTnp6QzdHZTVHWDQ2ZGk2SWFLTFVUWnZtbmpBSHZORks5eTNrYi1sbk9SVHlLdnEyaVF6c0c2cFptWXByR0JXdVdwZjJPQTZFRlpmSmJmUmMzWHEwdw?oc=5",
-     "when": "2026-11-19 22:18",
-     "ts": 1795126732.0,
-     "flag": false
-    },
-    {
-     "title": "Intuit (INTU) Reports Q1 Results, Revises Outlook; Shares Drop 1",
-     "source": "GuruFocus",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOEZDczEtZTJBc2dHZzlhbklrdDlwanZhNUdRU3dmS3lqRHdOd29waUNHeW1uZVhieG9WTm1Ob3E5ZGh1QXJxQWdyMlotTHdPZWplN2NiV2FxbWJ3R2V6N3k1TnRYM3oxYzVrUTRMM0FjN01fUjdYVHpoZ2gzeXd4SXN6M3BEOEtZaTczaFhnLUVlNnRLRkxkRzg0WWNTZTJPbUE?oc=5",
-     "when": "2026-11-19 22:13",
-     "ts": 1795126407.0,
-     "flag": false
-    },
-    {
-     "title": "Intuit (INTU) Q1 Earnings Beat Estimates, Shares Fall Amid Modes",
-     "source": "GuruFocus",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQlhCRHM4ZHBJNEkyTVJDbFdfX1dCd0JoRktaUzFlcXZtSDlrbG04aXY0Y1ZORFpPOTNCOC1rcGNKbjRxV29FajRkdmprREMybGZYVmxzMXE4WUY3M3dsS2lLRW4tSTVLVzBzSWlkanBuZ2pwSGhSOEJNNEJ1U1MtREZoUUFqYXloT3dpWkEtaHJibWtrN3ZyY3lYOFBHdS1sWFNHeERGU2tDSHZrS2pkajlDUUZkdG52?oc=5",
-     "when": "2026-11-19 22:13",
-     "ts": 1795126407.0,
-     "flag": false
-    },
-    {
-     "title": "What to watch Friday, Nov. 20: Anthropic's second day, Intuit's Mailchimp sale, Fed's Cook and Waller, and Japan CPI",
-     "source": "MLQ.ai",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObG1WcHlmOTFVd3A2RnJKbjdRaGRCVWZ4Q1FZUVAzMFl3YjgtdkIwZjlZdDlCeUh5NWdFRG5IdGowU1VhcU15Q25QNF9xTlR1SlJfc2Z3clpHM2R4QTgxTEFHelg4ZUhJZlRMVTZma1ZKRy1WeGYybmJEWU9sMWdOXzc4STlXbXNZVU8ydmRnNERta0pXbHEzU0phdldfRDREYkZDYU1SVXhRWXBkYXRHV0JZUnVsbXJxYUdyN0ZvWnJtakJlZlEw?oc=5",
-     "when": "2026-11-19 22:03",
-     "ts": 1795125817.0,
      "flag": false
     }
    ]
@@ -934,47 +926,14 @@
    "story": "Recurring service revenue +11.5% (52% of sales, 90%+ margin), no debt; stock -20% after hardware miss.",
    "src": "https://sec.gov/Archives/edgar/data/69633/000110465926121107/nssc-ex99d1.htm",
    "deep": null,
-   "news": [
-    {
-     "title": "Why NAPCO designs access control for dealers short on trained technicians",
-     "source": "MarketScale",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR2p0SzRYR0Zjb05KRTZxeldUTWY5a19OZTVHVVRfdVNkZXplNDBGMzMtNjVsekcwZWpRbnU4dU1OSmtIeWJOb2VSVG1yOUExbzhoY2JhZWV3eTVsNHU2cUltZEgyc2U3X0prRFBvbm8wdWNsY3BsOHFtaWtvVmdPTEVsSGMwaGJyR3dVNVZyZmxCUjRuZWVzcXpNbllYclBROFhCbm1OR21lcEZTMHlzQlc4SEVaZjA0b0p0Zmh2MXV0bVJGMjJ6QjRxNnc?oc=5",
-     "when": "2026-11-19 20:17",
-     "ts": 1795119420.0,
-     "flag": false
-    },
-    {
-     "title": "NAPCO Appoints Stephen Connor National Accounts Manager for Western U.S.",
-     "source": "Security Info Watch",
-     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUHdCT1h0dW83dG8ydXZreXVLRlY1TDdNdG55Q2l5YWRXMThKMElRX1o4cnlTRHZmQmlqVUtheG9wNzA2QnpCand1Yi01b3A1V1RMV2QxaVhOWDg2VEdQM1hGb29MblNFNUl6cG8zaE9XU3BVVW1iWlBQakFYZ1cyLWs2czJRelg4OUliUkZBR0Ztbl9UNUFkeXFHeDd3d3p6RTRRMnJvZW91MWgzYVNEVndxeE5DeXRGMnFhQTZOQWdQQ3U0cFVqREl6aGkxX2JicG9UenV6SGZDc2ZGSy0xcnQ4T2d4VGpCd21hRlpMYU5fMjlMRjNwX093?oc=5",
-     "when": "2026-11-19 19:15",
-     "ts": 1795115703.0,
-     "flag": false
-    },
-    {
-     "title": "Access Control\u2019s Real Hurdles: Labor, Cost and Awareness",
-     "source": "Security Sales & Integration",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUFLZ080WU9jU1hWaEFwbzgtYWpYaEhSVG1hbnBhWGNSanJRVlVFNE5KUWJ1V0FuUzZ6RXZLc1NmTTlpaEh0ZVFSOFAtdWRpVXNDb2pSSFJ3eUs3bnd2eVpuU0x0QmlwaHFiUmJiV0pTbVRPNjZsODZXWTR0UmdpbjBJaXBHRVR4bm5yTjJYSnJhdTNRMGNPTjJNMEFEZFdVbTBOQm1TVi03UQ?oc=5",
-     "when": "2026-11-18 20:07",
-     "ts": 1795032467.0,
-     "flag": false
-    },
-    {
-     "title": "NAPCO Security Technologies, In (NSSC) Stock Forecasts",
-     "source": "Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTjYxT2phR25QVGk2eGNfWWxhZmZiWkN4OWJzZ0hsZHIxRmRQenZyNzdrWU5pU29hUE5GdU9QaHI1SUxoVzZnU1p3RjN5bVJDamIwQVlWTzctTlhZeHkwcjNvTzhkM1U5SDhNcmNTSlJrWWRld09icFlwSkJEY3V0LWJsZlF2aV9MMzVFakJBbw?oc=5",
-     "when": "2026-11-18 19:39",
-     "ts": 1795030783.0,
-     "flag": false
-    }
-   ]
+   "news": []
   },
   {
    "tk": "IBN",
    "name": "ICICI Bank",
    "cur": "US$",
    "px": 34.9,
-   "chg": 0.0003,
+   "chg": 0.022,
    "buy": 16.67,
    "gap": -0.5223,
    "verdict": "GREAT - wait for price",
@@ -1318,24 +1277,7 @@
    "story": "Sales +11%, strong pricing power, $390M cash; P/E ~29 - far too expensive now.",
    "src": "https://ir.lemaitre.com/news-releases/news-release-details/lemaitre-q3-2026-financial-results",
    "deep": null,
-   "news": [
-    {
-     "title": "LeMaitre Vascular Inc's Dividend Analysis",
-     "source": "GuruFocus",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ0tvRkFwYTB1cGd4RG5nVEw1clpjcW1zTXJlNWZRVnNNdU1TcU1lcjM3U0NPeW8wcUZyWHB0cWw3WjRMSlQ2NVVVblM3Y2pDa1JFeThQc1VOVW9zTk9LWHoxTndTRXZBdWpDY0g1VXdLSmVjOUJYT090QmdKTHRGNGo3Z3RFQQ?oc=5",
-     "when": "2026-11-19 10:34",
-     "ts": 1795084446.0,
-     "flag": false
-    },
-    {
-     "title": "LeMaitre Vascular, Inc. (LMAT) Stock Forecasts",
-     "source": "Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSFBPYzF5M3B4MHFZakxRZURYUEhFZGhsODJRUzZRbWhVRDFzbTZONTY0SEc5amNGX3RHV3FJc0kxTm1PSlJsYWthYjdUanl3WlAzTHNuNWVjNU9RUktteFViQkYxVGdYcEtEelU2cEowZkQ1Znc0cmhjUmlsRkRIcDBKeGZmTENqT1VXUkx5SQ?oc=5",
-     "when": "2026-11-19 03:51",
-     "ts": 1795060267.0,
-     "flag": false
-    }
-   ]
+   "news": []
   },
   {
    "tk": "GRC",
