@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-20 21:59 UTC",
- "usdcad": 1.4341,
+ "updated": "2026-11-20 22:14 UTC",
+ "usdcad": 1.434,
  "portfolio": {
   "start": "2026-11-12",
   "start_cash": 10000.0,
-  "value": 9847.63,
+  "value": 9847.61,
   "pct": -0.0152,
   "bench": 9195.88,
   "bench_pct": -0.0804,
@@ -23,8 +23,8 @@
    {
     "tk": "ITUB",
     "cost": 500,
-    "value": 434.65,
-    "pct": -0.1307,
+    "value": 434.62,
+    "pct": -0.1308,
     "px": 6.52,
     "buy_px": 7.32,
     "cur": "USD",
@@ -89,6 +89,14 @@
    "deep": null,
    "news": [
     {
+     "title": "Fairfax Announces Early Redemption of Senior Notes Due December 6, 2027",
+     "source": "GlobeNewswire",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdXFXTGxFNXg0UTlIYlhXTWZFNWtuY1paT3ZVenVsRXBJb1NJRkktX296eGdoclpVS1ZwTk5uYkZGbWRVTnJvRnhJYnNSOEpmN0lJc3BZcnRhT2pQQUNjclBLYTUzcEJObVRKWUZkTE03bUw2eUttQ0NzTF9LMnVYOFdaTFFqRl9WRm05bGl4ek14bFVBM290UF9CbDAyX21XeW5MZWxQSWR4VzluLWdMX0FpWmY3eHZzNjZERGFDTFE4UHRwRWl3SDZJNTdoel9xMDFTVWdWTm9adw?oc=5",
+     "when": "2026-11-20 22:02",
+     "ts": 1795212120.0,
+     "flag": false
+    },
+    {
      "title": "Gold is crashing but Canada's Warren Buffett is betting big on it",
      "source": "The Economic Times",
      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLVlXUFYtVVhYSzQ2YVZVR2NIZEdwN0x2TXpBTnNCU0RGWFB1Q2lOYmNaTXFiYzNlV2liNjZwUlhHYmFLT1REdDdNXzF3dXhRVk1vRW9takRMTGhMTFFzei1iSDdpQ0kyWjJUblNMa2JZMVZ5SkFBdm5tVFJGN3BCWlRlSGQ4RGVCUm44NENMTjN2dnB5NVdXQXFNOE1YN1FMTWVjenA0WVZmMXVFM0Y1alkzemZjbTNzZlBlRUhfV3R6SWd6dENwa3VKYkRud1FnZGZreVd6d2xqNGlpbkZR0gHkAUFVX3lxTFAtVWJPUVFDUGFoWDVKMnk5R3AybDRvYTE5dUp6YUJfaDVvc1llMGp6Zlcxb05JX2VVbmVPT3VTaWl0YW9CaVJMYkJxQWYweUFnenhSZ3hsWGtaUUhPNXhqYmpwUXkyNTR0X1dJWVlMcVEwbDdPbzFKZ2E1bTRPRjFRSjY0akV4UUNUYWJSdmxNZVc0b2hvY3V2dXhzYlAyZzQ4NnZFU2ZCZS1EN2R6d0REQi1Jd2F6WUhmS0F5eGpoOFdPVFFMenV0OHozSFcyWS0zU04tX2RxSzNXeEpUVXNWUndwdA?oc=5",
@@ -118,14 +126,6 @@
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVnROeFltUUxZR19IN19XaWQ3VmZnR1ZWR3BBdkw2eGRIN1E0S0t4enpXejY1Wkc0UnYwM1ZMcXpoc0ZpZVhFbFcyZFhaRkpGOVRJWjVLUVVqaUlLOVp3eG4wbmpyYWJqSWV2bG03M0lpemFNODBxUkszX1hjLV8zS2NvLWRySGhrU0MtTV9lQmdHXzVJejcwRUw4bjRJSXhpVjl3STJ0WTBRM3E4OXYxbGNJOHdobWdfSGxLRWNfT0drcGgydk1j?oc=5",
      "when": "2026-11-20 09:10",
      "ts": 1795165854.0,
-     "flag": false
-    },
-    {
-     "title": "Fairfax Raises IIFL Capital Stake to 52.63% After \u20b91,540 Crore Block Deal as Shares Fall 4.99%",
-     "source": "Kotak Neo",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDF5eDViRks1bUM4cTVxS2lQVGVaQ2ZiMnpyMS16ZHd4NHF2RjI3VzBBNDgya0RIVW8zRnBLVm9UbUFrS0lOOFBhQmVOWGkyYkNzblQwUnQ3UlNTbXBuRkhKNzhsaU9xaE5XbUhQanFmOUZ6a2lKaUo4d0JRYVJmbWNIbWtaMncwM2VkZkNia3hsSlNFaUh1d1hDMy1heTJCWllxaGtReDk2OTRyWUlKVk5lWVp2TmZiNUxF?oc=5",
-     "when": "2026-11-20 05:11",
-     "ts": 1795151492.0,
      "flag": false
     }
    ]
@@ -237,16 +237,7 @@
     "canada": "NYSE 'ABEV' in US$ (use USD); Brazil withholding lost in TFSA -> non-registered better.",
     "why": "Best moat of the group, but currency + tax eat returns. Small slice only at US$1.94."
    },
-   "news": [
-    {
-     "title": "Ambev SA (ABEV) (Q3 2026) Earnings Call Highlights: Revenue Up 7. ... By GuruFocus",
-     "source": "Investing.com Canada",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOGhyWm9acS1mc1NIdk9VMzVCckxGdV9wQU5TX2hxaVAxTzAzeE44bFozN1lGWndRc3l2bzVtaF90c2NYUkRfZGNiSFZNVnV6NURRMGlKZHNaSHgza0NkZURGTmZ2U1FyUDhyMEJ0UmdQRFJTcWh5V19uQlg5SnpnanBHSHd1cjlxVjlyVTlkNEg5NWpTMm9WLTBJaEpwOUg2aEdnRTlxZVJNYW53Q1gwVQ?oc=5",
-     "when": "2026-11-19 23:18",
-     "ts": 1795130318.0,
-     "flag": false
-    }
-   ]
+   "news": []
   },
   {
    "tk": "CSW-A.TO",
@@ -371,7 +362,7 @@
     {
      "title": "YETI Holdings Drops 5.9% After Goldman Sachs Downgrades to Neutral",
      "source": "AlphaStreet",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUWRhNDdnN0V1cGtyX3QwVVZPd1lwTVA2dEJRODFZOW1IajZzREVWZXJoLUxoVEE3UWhTS3ZWejRrR2RtYlZtalV5QzZzUmRiSFZrdGwtVGdfaWFxZUdwY0ZlcWgteE94RDJsNE1ZbmNnSk9Pd2JySXlyMmtOMUI0LTNmdWRfU0tiR2JQaVNGZEMtZ083VGpnSU5WNNIBmwFBVV95cUxOUWRhNDdnN0V1cGtyX3QwVVZPd1lwTVA2dEJRODFZOW1IajZzREVWZXJoLUxoVEE3UWhTS3ZWejRrR2RtYlZtalV5QzZzUmRiSFZrdGwtVGdfaWFxZUdwY0ZlcWgteE94RDJsNE1ZbmNnSk9Pd2JySXlyMmtOMUI0LTNmdWRfU0tiR2JQaVNGZEMtZ083VGpnSU5WNA?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZmNCZzROeTJqOFJBcmxBOEhsYnhUM3h2NDNTZlEyY0lFZUhud0x0ZlNydzl4WFc3WTVwbWdYalhDWm9scWgxYmw5dEJxWXlEMjVwUWlZeEhIX2JIX0lvMXBhQUZVNjhSSVJWVU1kdkZhZkk5SjRDMmdTREdBTlU4OXV2WVMyNUh0dUx1bm5ITUNNb0VtSWZOb3drMlZ4VmpM0gGgAUFVX3lxTFBmY0JnNE55Mmo4UkFybEE4SGxieFQzeHY0M1NmUTJjSUVlSG53THRmU3J3OXhYVzdZNXBtZ1hqWENab2xxaDFibDl0QnFZeUQyNXBRaVl4SEhfYkhfSW8xcGFBRlU2OFJJUlZVTWR2RmFmSTlKNEMyZ1NER0FOVTg5dXZZUzI1SHR1THVubkhNQ01vRW1JZk5vd2syVnhWakw?oc=5",
      "when": "2026-11-20 00:34",
      "ts": 1795134868.0,
      "flag": true
@@ -625,6 +616,14 @@
    "deep": null,
    "news": [
     {
+     "title": "The Art, Science and Theater of Modern Marketing ft. Thomas Ranese",
+     "source": "ADWEEK",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUx2SThqXzlkN0lCTGJHdmZWTWFDalZmUm82cWV1MUN6SzlKbGs5TGNtS3RWNWp0QlMyZjI5bjl1OEpYYWhVSFBvcFVqMElJN0FYZVVfR2V0ZzBrcUZDdTJrVlRiRFBPX0hhdE10VGNwSTRQODVmcUw3WjdfOUJOMlk1RmhJWEhUbDlXTkhRU2prbldnZDJONXhZUnpEUlRtR0ptYW43VQ?oc=5",
+     "when": "2026-11-20 21:56",
+     "ts": 1795211761.0,
+     "flag": false
+    },
+    {
      "title": "Anthropic, Nvidia, AMD, Micron, Sandisk, Bloom Energy, and More Stocks That Explain Today\u2019s Market",
      "source": "Barron's",
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPcGZSWnVMVkQ3b251M19WRk1UaENsQklYWmc5d3ZBTnQzQXowY1hoSTAyWlZCWFdBZVRBbV91Y0syanZNc0tWV2ZEeFVqX05pMW51cXhCd3U0X0NicXZXaDhGdjg?oc=5",
@@ -633,11 +632,11 @@
      "flag": false
     },
     {
-     "title": "An internal memo says Mailchimp staff are 'unsettled' after Intuit announced a sale to Bending Spoons",
-     "source": "Business Insider",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMTRfYWFpRjhqWG9NRmxfaVdBTDdpSWdSb080eUxtNi1kRzVCcExzcWF2Qm96YTZudldJVGI0WlpVNU9OUGlZYVVnNWxuSDRzRkhMdS13YVRrWFF5OVBGODM0VzV0UXk1V0tWQzRtaF9GVThvWjROUHpBUFE5bHgyRXBQYnhKNk1xMzFVR09QX0w?oc=5",
+     "title": "Intuit asks Mailchimp employees to 'care for one another' after Bending Spoons acquisition news",
+     "source": "Business Insider Africa",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTmJfby1Fb0ZUUDU1Q2gwMUprSW9LcmlTSjg0MWZmaklvZVVlMFZlbURMSmNlZ1pkV2steG42OUVYYTFkSjJZU2ZCX2RiTzZiUHVTcFJpb29kY0NRZjh5NVF3VTczdzlSb05HUmlLS2JNQzBoWTdhbnlsZ3B4T2ZrQXE1MkdSVU5OWHljWmNhb29vNlhOY2FiYUJwVFN3aXdMZkM3S0NCNEpkMEw2dWVFaHVZRWdiRlpwM052aGxTcGNYdw?oc=5",
      "when": "2026-11-20 21:51",
-     "ts": 1795211460.0,
+     "ts": 1795211488.0,
      "flag": false
     },
     {
@@ -654,14 +653,6 @@
      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM1EyamVILVp5NXdKdDBUSW1JVXlXb2UwTGEzNDI0RDdkQ0VjTk1YcmVUVnhwRU5LZEZXb0pGRXJTeUJOSW84M01Jd3hjclhMVXMweXFYMTV1VUgtaXVBRXk0R2kzTlZISEgyQ0hFWW5wYkpZektJdnotdldETm5POVJ1ZmFzQWtyb09GeWhyajFLNE5ocnFVVk1KMkN1aTRuY056Q2FmQmdYUzlZSk56dkdMdWh6WVRyc0ZVcmRyd3U0ODM1WUQ4cmVrdw?oc=5",
      "when": "2026-11-20 20:20",
      "ts": 1795206016.0,
-     "flag": false
-    },
-    {
-     "title": "Mailchimp to be sold for a fraction of previous price",
-     "source": "The Business Journals",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN3VJajlVR3dod2tuaUwxS0wzSXlHcHpmeU1qZmNSN0p0b0E2MUFNUkUtUV9PWUdtUDN0S0VvNEJfYUExR25IZmR4dk9PcnhTaW1nbEVJZlV6Rkh3SHVpZ044MW9GSGZGUm5LTEJQUldSTVZLV0JQRGRVcUpFT2JMYjlycllmS1FoUk1ValQ2Vldub3ZjMUwzYg?oc=5",
-     "when": "2026-11-20 20:19",
-     "ts": 1795205940.0,
      "flag": false
     }
    ]
@@ -793,6 +784,14 @@
    "deep": null,
    "news": [
     {
+     "title": "Form 424B2 ROYAL BANK OF CANADA",
+     "source": "StreetInsider",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdlNHeVpMYXlKWTB6SGRsM04zRGp1cWxsNVlVbV94U0xMMzBDa21RTlY1NnM1RTJ1OVIzMDZxUFdqc0pBXzZyc2JHT3dkQXZyV055b1hJUndjU29ub284UmdFOU44VEJSdURwR0hjemZXQWJ3clVXTDlqMDBuX3VmeDgyS0tkX0RIVy01c1E1MXo?oc=5",
+     "when": "2026-11-20 22:05",
+     "ts": 1795212324.0,
+     "flag": false
+    },
+    {
      "title": "Why Royal Bank Of Canada (TSX:RY) Matters in Canada\u2019s Commodity-Led Reset",
      "source": "Kalkine Media",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR2doYjA5OXdZSmNBbDhtdnk2bjg1RkhxRm82aWxqempxWUdhTHJISWZWRFRzYlJKb2xxSFVfcThrMGYyaUdkNnBZY0N1YTJQV0t6TlFfNjJrNWE1WElQM1JoYTF0N1ZWSG93WlRwM3JVTElrTlp3Y3liVXpaUURhS2NwdTNZa1VWcE5kSDlrMWhyTkp3UHRzb2ZHUGFqOVhkc1Mwb1hFVkhSRkRVQjB2blBBU0g?oc=5",
@@ -822,14 +821,6 @@
      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQlczaVFIaFVJTFRodFN4RFhpb3oxTTRyeWpUZGlYX0VTcDVjLXNWV3J3d3p0RjhwbFoza21LZy04QUh1OHM3ZGZqRWZlYU5qQ2hXTU82aVhZTW8wanVVeFZkOWNjYkY3a0JrdjFhd2Z2bnRzNloyU0E4TmdoNmNXLUxmYXVDdjFxUXRaMXB0cDhvLVE5X0JqVzNwWXdkWGwzeHBIYUZwbkZjb3hpS1BYZmwybUQyd3RncjNzUUxJRS1BZmliVlJYWU11MUhNOGRmTFBpSGlfNEM?oc=5",
      "when": "2026-11-20 18:06",
      "ts": 1795198000.0,
-     "flag": false
-    },
-    {
-     "title": "Form 424B2 ROYAL BANK OF CANADA",
-     "source": "StreetInsider",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTFJsSXlGUlVvNFltb3V6STZ0aDRXRlZNdjFiaHczRjM3MGhla1pmTi1acG1QTkd0bnFIS1FoSk1xQkF5VW9pSkIzS0VPazZGc19wVlk2VmtwRFZ0ZF9yaE45T1lnZ2VKQ1RuSE9vb29uSFFrcGx5VTNfY1lTc1Q5ZzVfd21QaElBZFAwZ0ZPNDM?oc=5",
-     "when": "2026-11-20 17:41",
-     "ts": 1795196493.0,
      "flag": false
     }
    ]
@@ -1073,11 +1064,11 @@
      "flag": false
     },
     {
-     "title": "What Could NXP Semiconductors (NXPI) New Robotics Platform Mean For Investors?",
-     "source": "Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbkc5WWxScEtsWnhtS3BTWmpQcjNtOHBIWjB5Mml3OWlIT0hqME0zamlHUXhTNEZGNEZyWGZlSkF3eEdqV09RQWNyWkNUanR1YldnMzMxVXZ0aFFER0NvUnVONkc1Y2ZNUmJYT1BReUhlY2VxWUFNTDNnbTZFUjFaNmR4MExaRGlVQWJVR011SlBOaF83RlRQam1FVktQSWtPazBpUQ?oc=5",
-     "when": "2026-11-20 12:17",
-     "ts": 1795177055.0,
+     "title": "NXP Semiconductors Appoints Felipe Vieira as Senior Director, People & Transformation",
+     "source": "https://hrtoday.in/",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWkFLbE1NaE85Wlg3YzNrcnNEbUlUSHc0NVdBMFlic1ZZWk9TUVlmSWhWODZYLVd3SFZwZHNLQ0FsdzlVZG1NcWVJT1c1Yjc3dGZ3WWNWLVZjaHZQZDRoQldTSWRDdnlwYURmSWFQYWJSUzhvejN5eG5jYU9kNFVfUFNvS2F4bzltU0pzVjZjN3ViT3JtLXZIRG1MVXgyU25BZVN4cA?oc=5",
+     "when": "2026-11-20 17:20",
+     "ts": 1795195215.0,
      "flag": false
     }
    ]
