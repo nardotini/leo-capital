@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-24 01:55 UTC",
- "usdcad": 1.4353,
+ "updated": "2026-11-24 02:12 UTC",
+ "usdcad": 1.4358,
  "portfolio": {
   "start": "2026-11-12",
   "start_cash": 10000.0,
-  "value": 9901.64,
+  "value": 9901.78,
   "pct": -0.0098,
   "bench": 9548.64,
   "bench_pct": -0.0451,
@@ -23,8 +23,8 @@
    {
     "tk": "ITUB",
     "cost": 500,
-    "value": 446.36,
-    "pct": -0.1073,
+    "value": 446.5,
+    "pct": -0.107,
     "px": 6.69,
     "buy_px": 7.32,
     "cur": "USD",
@@ -137,14 +137,6 @@
      "flag": false
     },
     {
-     "title": "3 TSX Stocks to Buy and Hold for Decades",
-     "source": "Moomoo",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcEx3OUpVNGtTVDU1dVFQbUJ4eGpJbnl5VlJhaThOUGp3V2YtU2UyWWdpT0FSazJKNlBpeUI1RGFkNGFuUnRrUVh4dnJuVGdjZzI0ZGdsbUdOX2hlTl95Ykl1NEE2LWZjaTNLVXB6ajJCQWZ6bzdHVmJpX2lSUTV5RVNJRWtZX29yVnZyRA?oc=5",
-     "when": "2026-11-23 19:03",
-     "ts": 1795460582.0,
-     "flag": false
-    },
-    {
      "title": "Fairfax on the S&P/TSX Composite Index: What Does Early Note Redemption Change?",
      "source": "Kalkine Media",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWFFnWktFOGg3OGFzcHhKdFRNOWtuMDc2bmMwTkg4bkhzVmVpd3JYZGd4RUFTUGk3WEVCTUtrbzFxN1lMWkFKS1JLNXo5TFJMb1BnQ0VBQVM5V3pVWklReDJHemV5Wnp1R0RwZ3BJNEliMFR6TGprTG5CLW9aOV9fMl93djdBZXRFOEk1NkpRSF91SGd5YkJwNGdFUFZEQ2ZLWGhKeThSVDJaR1pQaW1xcUpyeDVWMUViQ092Qg?oc=5",
@@ -158,6 +150,14 @@
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ3I5YU9ZMEhXWllRajFGbGx1U1MxTXBCN3ZlbGgtVm0zLXE4M3JqZm9UX0lDMzFucXVTVkF6SVNrcTZ6Q0pjUEN2elBTb0pyYnRxT0kyYVNkeG0tVXc0YXZOMGVvSmExYi1OOU5CMzRiZUo3M1pWX1lpdkNlQ2w4RHdtenQ2bXhVRnRKbmpiaEQteGJZZlhhWlJnbXY3M1lycXc0M2dTWVExbTdKQ2Q0UHFONW5uNEU?oc=5",
      "when": "2026-11-23 16:01",
      "ts": 1795449702.0,
+     "flag": false
+    },
+    {
+     "title": "Fairfax Financial (TSX:FFH) Stock May Be Undervalued As Notes Redemption Nears",
+     "source": "Simply Wall St",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX1JIWVVWd1hXZGZXNmVCRFNpUGVjekZidWJQOFFwOVFXSXVPeTNXNDBtbUNqRmZXdXdYV0UxQW5qdUZvU09xYVlfRUs3T01XU1o0b2MwNVNwRWYycU9Qek1GR0xsbGlMc2c2Y1dLY3NiWDNYUWRVaWpMUHZ5VWo3YS1oa3p2LXVHbmFZaWpxQUhCeDQ2b2lDUjJPaXZfQ3ZVbzAzVTFMVzR0aUM5MEdzaHN3X3lDcEZONzhrSzE0Wk9sTHN3ZG55bkVmVUhSdU5fWHF1WFhxREhGNlBPbk04QkVPRdIB6AFBVV95cUxNaE9MQmhPUERPQlNJaldKVGswSXBUcGlaVmFjOGs1TnU3LWM2UGpWTXloc1FUSndwVzZwOHQ1aTBpR08zQnYxTi12bE5meXJEc2Qxd2hTMlREODFZRDJSYWpubFZfTWluQkZFcWVuS2pZaTZBd3M1VmNheW1WZDZsNGJtNDRZbmNzaHJ1NjR2OVNYa25lV2oteTU5VWEyczNBMTRybHFFSnJXRldlR3VDX3hPYzF2cGdhZnVQOVl1V0pGV01MVktidGYxRUdmOGlmcHRjMlV4Umc1bndFSk40Z2ZTNE9uZkpV?oc=5",
+     "when": "2026-11-23 15:10",
+     "ts": 1795446644.0,
      "flag": false
     }
    ]
@@ -552,11 +552,27 @@
    "deep": null,
    "news": [
     {
+     "title": "Intuit Selling Mailchimp for $3.68 Billion to Berkshire Hathaway-Backed Bending Spoons",
+     "source": "WSJ",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUFlmLXRMU01PMnc0NWFXWXhPck5ad1pSR2xQMUdlTEhvam9pZmdXamg4eFlqaktJX2RvZWtYVjR5ZW9Xd0IxdHNSNHdBeHpnQkhQVjBvVzVLSjM0Y2d1Ukg5SS03V0hxV2hzRWptTTJFTEJqeGcyekZUQjVhdjJxRC1wcHNUeUR1N19fMEkzYTc3UQ?oc=5",
+     "when": "2026-11-24 02:08",
+     "ts": 1795486118.0,
+     "flag": false
+    },
+    {
      "title": "Upstart Is the Real Loser in Intuit\u2019s Credit Karma Guidance Cut",
      "source": "Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNjdUYW0xSExRVjVyOVlqbEM2Q2ZWMmw3S0xuN2k5UTNpM01kQVJQb296RUhxX1h1YWJIUTQxZV8xMVRWQW9GNWhVS24zQ294Mk9PRXRka3B4d1RPU3d2NnctNmZoOEZxWkxDYTA2RVZFOTMtTUZ2RmVmSUFncDZFVmtoWUZNTFZDZjBXTnVWc2lBRHNRYVlsT1hCQ3JSZw?oc=5",
      "when": "2026-11-24 00:50",
      "ts": 1795481400.0,
+     "flag": false
+    },
+    {
+     "title": "Intuit Stock Falls 12.8% on Revised Forecast",
+     "source": "Wisevoter",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ3R5cTFOcEZiOTlSS1JoMDcyWlNQOVowbHVTWTh6Z3hQdlNMUE0taVd3cDZ6ek9aYVA1SUlMQ2hJV2JVX0l6Nmppekd6MlpIa3JUa3Rkdkc1eFlrQzduYkRuZmc2TXdNOEt3WHA0ckVBLVdHNFNuT1dISkhJUVpCTk1IVVJ1SWJ2?oc=5",
+     "when": "2026-11-24 00:32",
+     "ts": 1795480323.0,
      "flag": false
     },
     {
@@ -573,22 +589,6 @@
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZFVocDBBcVQtbmZnd1NnOHBNUlNaRjQ1OTFLV2gwaE5XZk0zWFRmSldXQlE3XzVVdzFwUjhEWm51TDE1bHJQMFBGUkhHUU15OS1vY2VwN1Nac085OUVxNnpzWW1mSmhkeFQ3c1Exak5zOTVqMDd0NEU1dkxHVld5VTdnVEtvTHZFLThTcHlNd0NDckN3XzFwdzFQZlhkN2tPaXJ0TnpjNmFMY1E?oc=5",
      "when": "2026-11-23 22:14",
      "ts": 1795472040.0,
-     "flag": false
-    },
-    {
-     "title": "Can Intuit (NASDAQ:INTU) Turn Portfolio Changes Into Stronger Business Growth?",
-     "source": "Kalkine Media",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLVlYRi14WlJBMU1rRXFfR0VvSjJWc25QVjROZDZ4Z09lM3RIX0JXaEN1Z2R0RldUN2hwc2VwS0trRDdzekctZGJqSmRPaFBDQjd3MVZQYUJnME9nQUkxN3h6a3ZvSmUzZnRfelYwbkNHd1BWeVR5eTlXODhZOGtsRklOTU9Zam1CYjBWN0JZcEwydFJhdE9JSjhGalZDM2RBMUtNNi1VOGpFSW92eldtSnV4cFZuRlpDMjk0aw?oc=5",
-     "when": "2026-11-23 21:45",
-     "ts": 1795470300.0,
-     "flag": false
-    },
-    {
-     "title": "Intuit Inc. stock rises Monday, still underperforms market",
-     "source": "MarketWatch",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTWdSdWdIbFIyRU1STGVoSWNBRHRlMFdXdjBOa095RGNkcDdkeW1ISDVWd1hzbTRPeWJiT3ZFdFE1b3pBd1JwMmRJbTEyWDk4ZERJQUE3ODhhYmhvMXc2TVAwdTJHT3ZCMWhIT0RjUllLNkRHN2pYd0pLNHFwbV9TeUdhN2RhV2FhT0ZLYks4VG5TVldVSklxaHhhRW9QRWdHdkJOQ3BNdXdlcnVldjZkcFlGYjFFNUxtY19uLUROMG8zelNIU2NJNDEtTXYxQkk?oc=5",
-     "when": "2026-11-23 21:44",
-     "ts": 1795470240.0,
      "flag": false
     }
    ]
@@ -632,19 +632,19 @@
      "flag": false
     },
     {
-     "title": "17 Financial Services Companies in Chicago to Know",
-     "source": "Built In Chicago",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYlc1Z0xXdFBkS0JnZXBKWFBHSUlIZzY2dUd1VUpfbGJ2Qkk2MlNaZzFhN2JURTVuZUxEcV9FcEcyUHNmWWpOcl9sZUR1eXZpbW1keEVOWWJrQ2NsQ084bXBZOXJaTXIzV1ZfSUZtSUFkMWExTWFOb2pCR3QxNmRZNVF3?oc=5",
-     "when": "2026-11-23 20:24",
-     "ts": 1795465471.0,
-     "flag": false
-    },
-    {
      "title": "CIBC exec Eric Price and singer Debbie Gibson set scene for 'Miracle Day' event",
      "source": "qz.com",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GZHgzNnJHWm9sV25FWHhPbWczVTZFWi1ka0FsakpNQmFjRHNzSk1hX2RYNXdWRHpiRFRRa0liSFBvR0hrb0pCLWdsV3RWTFBJVkt4TWl4SkEzOV9WZVV4VkYxSnR1Umc?oc=5",
      "when": "2026-11-23 19:48",
      "ts": 1795463321.0,
+     "flag": false
+    },
+    {
+     "title": "CIBC (TSX:CM): Why Did Large Canadian Bank Shares Slide Recently?",
+     "source": "Kalkine Media",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWhBc3FZSXFTcXlhQ3dGOURHT2VFWHo1dHh0eXpacmQwMDRxYlUyZTZoYlRsOTlBd3VtczVOUU84M3BBMm92QnlhTE9aSzcyMV9hcXkxNTFoX1N5YjJxemJlcjRxVk8xWlhRNF9qTE1hRjl1X3Jha2hNd2RUMVRZQldZY2RFYXhsQmplWk1tTmZyZkhxM1RVX1luclpkUm14Wlh0SE0wSlQ?oc=5",
+     "when": "2026-11-23 18:34",
+     "ts": 1795458840.0,
      "flag": false
     }
    ]
@@ -664,19 +664,11 @@
    "deep": null,
    "news": [
     {
-     "title": "Early Black Friday steals: 10 tech deals under $25, at or near all-time lows",
-     "source": "PCWorld",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3JlQ2JwZERSV3ZYZFl2bTBWS0ZXTWYtb2hZU1FJQURPeW5rX3RhYThvQXd3ZWgxQTdSWVE0S0xUektaV0p0LVQwSk5MT0pRd0xfcmtOS2RlZkZTZVBNZkx1TEdSa05YX0FaVjJkSkRRY0EyczhLM3VSZ2VtT3o5bF9FcTR1Rldob2NTNkpYOThQckU?oc=5",
-     "when": "2026-11-24 01:42",
-     "ts": 1795484548.0,
-     "flag": false
-    },
-    {
-     "title": "Logitech Launches Logi Game Day for Employees",
-     "source": "Wisevoter",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWGVET25PdmVjQ2ZsdmdwdlVCZVkxbVlSX1NoX0o2TzRDWi1tMXkwTFZXbmpSVW9nSUVHU0ZQR0RNUmViUEdiTF95YWhteGE5eE9WbElPYmFMT2VfUXVrLUtXYmZjWWdYQUJ0dE83QWFEc1g2UXcySDB3Z25RdmxpSVh2dw?oc=5",
-     "when": "2026-11-24 00:49",
-     "ts": 1795481397.0,
+     "title": "The 6 Best Gaming Headsets - Black Friday 2026",
+     "source": "RTINGS.com",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wajd4UVBadzFfRUlmUXVDTUwxaWNLa3NsVGxUSG5uSmxYdDlkWHJXVnJnYmwta3M2cmFRZDhLOFRGYVB1ZGpRS2RVS1dhbjdoOWs5NTJzZkViVzJHUE5WWjFScDlFWjNsa1hDNC1vWQ?oc=5",
+     "when": "2026-11-24 00:33",
+     "ts": 1795480439.0,
      "flag": false
     },
     {
@@ -688,19 +680,27 @@
      "flag": false
     },
     {
-     "title": "13 killer early Black Friday deals on tech accessories you actually need",
-     "source": "PCWorld",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUGd1REhZWlFocHhzUGZRYnc3SXREaDQ1S1lmTWVLcU5iaTROdjh6a0ZfN0xyMU1uRlRCSzBFR05EZV9KaU9FSzF1Qzg4RFJEZWg5ZG4wa1FUU2F5MHdsalMwQzI3UzJSTnlFa2lFMUtDeUZpd0kxeTI0ZWNLWVQxUFEyaVlNay1qNi1OeUVjYnNHUTVaWktWWWFqZXQ?oc=5",
-     "when": "2026-11-23 23:13",
-     "ts": 1795475605.0,
+     "title": "Logitech grants staff a dedicated day off for gaming",
+     "source": "FutureFive New Zealand",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd0lrWEZEbnNOWU12ODZabmtOcWtBX3JFUUdmUUFXZ0k1WHBGQmU0XzFzQmt4S3ZsMnhhalgzZEVtUlRNOHFmbG0xb3JhR2lWWnp5dkF1YXZydEFURXFneGpVSzZycWgxMjlubS1nN3dBa3M2QUtiYzM3SlZZOGJ3SDc0Smp4Mzg0VHRz?oc=5",
+     "when": "2026-11-23 20:30",
+     "ts": 1795465800.0,
      "flag": false
     },
     {
-     "title": "GameStop Black Friday 2026 Deals \u2013 Headsets, Games, Controllers, and More",
-     "source": "Insider Gaming",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kYnJDNVg2LTd3eUdReUYtdEktcjBMQ0Vjc0Z5WFdnUzdYaDljSU9fTWRTaWRkcFpudkxHdWVtLUhveXE2RjRCdlZMcXVFeldlOGJzSk9WLWVQeHp4OWV1MTUzckI?oc=5",
-     "when": "2026-11-23 21:02",
-     "ts": 1795467767.0,
+     "title": "Early Black Friday Keyboard Deals: $100 Off a Sweet Asus Split-Body Board, Plus a 20% Saving From Logitech",
+     "source": "PCMag UK",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeWhoUDhRVmhHajMxLVZSNDBoSlJzbzQ2VWYzcktQNFVXdllPYUlIazYzQ21kbkxlZUJYVmFsYzlyeUdKb3ZycGk3eTdqN2tFbEp4U2N4UWhzb2t0MWV4VUxrN1ZMX0piTUQ3aWpLZmEzTERPbEhGblBINF9pQmJRQ1hsYmVsMDRmblJscDB1LVdDVVVBQ0hhNktiN293TWlhQV9uMGJZcGVyQm9wS0ZaeGp0MTVnZmpEWnpiRk52ZlJud0h2NHNDVTNCT1E3b0JaMGFGSg?oc=5",
+     "when": "2026-11-23 19:56",
+     "ts": 1795463765.0,
+     "flag": false
+    },
+    {
+     "title": "Logitech Brings Limited-edition MX Master 4 Creator Edition To India",
+     "source": "BW Businessworld",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeWdsWkZUbjVKRHlhNnZENEI5RmpMbDlVTERadVZBeVQ0bWU3a3ZvYWNsWGlYY1VueWhfVURNanNzYS05eU5BRjAxNmdOcWJ5aVlRWUtvNWVteDR6Y3Ewd3RVRGluLXlFSGV1VmkwMDQxN3p4b1JaN3BOWmRCbzJHVFFPM3ZPb2h4TncxZ09JbndvWGtJNGxLRTNBbm1xVTR3YV9Kb3pJak5aaEhyd1FIb3Fn?oc=5",
+     "when": "2026-11-23 19:45",
+     "ts": 1795463123.0,
      "flag": false
     }
    ]
@@ -736,14 +736,6 @@
      "flag": false
     },
     {
-     "title": "Form 424B2 ROYAL BANK OF CANADA",
-     "source": "StreetInsider",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVE51TWlqc3NxZ2ZTaElvdG1pYkFvRThSSzZaM2VBRTdvdG80Q2JDd1MzQ0g2OWRXUjY3dlhtamxmZFJrWnd4R0ZiaHVrd1BWZWQ5SUhwaDVUTVlfejZCcHlfUjVlUk9kSmJNTGRQX25Jbm5CQkZmaTJUYjRSazNnV1BRTklhUGhOTm1OR0RxSWU?oc=5",
-     "when": "2026-11-23 18:51",
-     "ts": 1795459903.0,
-     "flag": false
-    },
-    {
      "title": "Best SME Banks 2027 | North America",
      "source": "Global Finance Magazine",
      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oRFVGLWVjOTh4QnBrLUlRSXphekNMU3F5ekl6VnIzYlYtN2dtRlVDaldRQzc0VWRuUUZxTVQ2RmhKVmd6TFloMDVJTWNxc0V1UXFjNk5ReUlvZHJOWmpfTGNwdndWREYwaVhaT1M4Y2t1Q0tUVndxbS1zYUo?oc=5",
@@ -757,6 +749,14 @@
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOHJnWU5WUGVVLTcxOUR0YXVpTFg4WUU4U1dZNTFFd01EeTJXejRnazlUVFhXMDJZZGV2VWpEX2lHRDRaLW9nOGtjYVdnXy1vZWd2VzBBdGMyMEdNNWpZVU1XbWVvSmtiREk1SmJtZFJoSE5NbDlEcWdUUFZveE5ELXplX3locl8xa3ByUi1KWWIzZHhRYXZ5Z2JVRUM0X1g3Y01ydVh0by1tU3M?oc=5",
      "when": "2026-11-23 17:55",
      "ts": 1795456500.0,
+     "flag": false
+    },
+    {
+     "title": "Royal Bank Of Canada (RY) Stock Forecasts",
+     "source": "Yahoo! Finance Canada",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYXh0X2VjWEdwTEdyOU1DTWZKUkZqRFBUaTFFMV9tRHluQTZlYnBya29tYzdCQXRqWjBmd3pncWExb05GNnc2SmlfUTJfQ1ZBTGh1THF2R184QnhTYmdlVXFSNndhd3hublhCZl9peGNIaVcxM1ctSzlFUl8yc04zVDVIT3BfTWFMeDctODZLSzY?oc=5",
+     "when": "2026-11-23 16:23",
+     "ts": 1795451029.0,
      "flag": false
     }
    ]
@@ -1230,11 +1230,27 @@
    "deep": null,
    "news": [
     {
+     "title": "3,416-space parking lot proposed for Columbia County data center construction",
+     "source": "WRDW",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbnZYT3FPOUoxemFPY0VXTWtzRmZjU2Y5Uk9BUWRHVUVGV0lXS05MLXhiOUNUTkFkdklkRHRXQ05nTS1LYV9yMTd5RlFfRVN2ajBzenFaMXNRTjRtUDNnN25Famw1ZldDME4wa0k2WUdqbzl3S2hMYmhMZVNYM2pjR3BFcUJsQ0NKcTVTS2hEWlZmbV9FWFFHTF9IS1czamdKRGdIdVo0V1d3eE9EMGhFS3JFU29wangxbGFRaNIBvAFBVV95cUxNbnZYT3FPOUoxemFPY0VXTWtzRmZjU2Y5Uk9BUWRHVUVGV0lXS05MLXhiOUNUTkFkdklkRHRXQ05nTS1LYV9yMTd5RlFfRVN2ajBzenFaMXNRTjRtUDNnN25Famw1ZldDME4wa0k2WUdqbzl3S2hMYmhMZVNYM2pjR3BFcUJsQ0NKcTVTS2hEWlZmbV9FWFFHTF9IS1czamdKRGdIdVo0V1d3eE9EMGhFS3JFU29wangxbGFRaA?oc=5",
+     "when": "2026-11-23 23:54",
+     "ts": 1795478096.0,
+     "flag": false
+    },
+    {
      "title": "Social media companies not liable for Buffalo mass shooting, New York's highest court rules",
      "source": "NST Online",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTU1pU2pEY2g3OVotTUtRSEhiaExRd1lGQzZRbEhLV2MtOXk0Rm9WX0NueUwxSkktV1NmVk9XU3dkcXZ3ajRmQ2R6MmV3VFYxLWxjd0t3blVpXzRIeGxtNlFIZFZUcTRibmU3VWlHMVo1NHVGZ0ZCN1lJSkxJQWp5YTQ0czJFd2Nud0Z4NEZGYWpqVWNKZVdIMk9RTUh1ZThiUlQ2RFRTUXpLZjhMX3Q5Z1R5S0x1LW9HNXJTatIBvAFBVV95cUxPTU1pU2pEY2g3OVotTUtRSEhiaExRd1lGQzZRbEhLV2MtOXk0Rm9WX0NueUwxSkktV1NmVk9XU3dkcXZ3ajRmQ2R6MmV3VFYxLWxjd0t3blVpXzRIeGxtNlFIZFZUcTRibmU3VWlHMVo1NHVGZ0ZCN1lJSkxJQWp5YTQ0czJFd2Nud0Z4NEZGYWpqVWNKZVdIMk9RTUh1ZThiUlQ2RFRTUXpLZjhMX3Q5Z1R5S0x1LW9HNXJTag?oc=5",
      "when": "2026-11-23 22:29",
      "ts": 1795472992.0,
+     "flag": false
+    },
+    {
+     "title": "Nvidia Surges Past Microsoft And Alphabet to Become World\u2019s Second Most Valuable Company Following Huang\u2019s Return",
+     "source": "Tekedia",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRGZNZklnR1NieUY5ckplNFBuU3ZfeVRjbUl2dXJMalFRc2VJc0h6NE5BRHc2WVpJTnlhYklEUldRVEQ3WG9VeWQwd2t0dmhwcV9JM2FidHJydV9maXlsOTBQdEVKczdpb0NqMEZTZ0FDb2xFWUNCMWw5aDlCdks4a3hDMFRDNWdrRmxrSmJfa1MwYTJMcjZ5NG1EOU4yOVJXZXV1VWROQ3VabzVkY3BGMkI2V0F5eFpsOE9rZVliSTN4TlJzX2RuZlBwM1A0dU55ckE?oc=5",
+     "when": "2026-11-23 21:10",
+     "ts": 1795468255.0,
      "flag": false
     },
     {
@@ -1251,22 +1267,6 @@
      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaDVuYnM0cDBOeWdNa2F6V18wSTBYV1JoMGItQVZmOWFqOVVJMUd2WjE1c08wYnZHbThPaFBrVDVKckZWZzRzU0tWeExOWEw0UFlZbWVVbFlnRy1tbS1NSG1qWTJHZUFnTWtFRk9iWTcxX2FBdTc4SDV4eDhsYS1OYUI4S1c3azhWOFRwTF9EQ05ZTklqNGQw?oc=5",
      "when": "2026-11-23 17:00",
      "ts": 1795453200.0,
-     "flag": false
-    },
-    {
-     "title": "Alphabet Shares Rise 4.22 Percent on November 23",
-     "source": "SuaraGarut.ID",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EQmhrWFNDQW5TbW9QdUpnRHFBb0diS3VGY3VJSkotYTFlMEg3OTFuNW5LWlUwX3RaYnV0NVZaUTJWWThVQ0M2UjhJTHAwal9sVktpMFB0bmF5WG5sWHlCNDJIdXBYV28?oc=5",
-     "when": "2026-11-23 15:24",
-     "ts": 1795447483.0,
-     "flag": false
-    },
-    {
-     "title": "Alphabet Raises AI Spending as Search Growth Slows",
-     "source": "Demokratis.co.id",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZY3NnNk1PcTR4dEtGaks2ckpnakM4VUM1TlRQYlFxeW1CanRIU3Z1MlB6Q2VEdDhKbTNxRXgtV3VONXhCOVRRTzFvem9xOEl2RGp1QXBKQ2h1M2ZZMmhLdDdOVW12LTVOZkE1RjhKRQ?oc=5",
-     "when": "2026-11-23 15:16",
-     "ts": 1795447012.0,
      "flag": false
     }
    ]
