@@ -1,21 +1,21 @@
 {
- "updated": "2026-11-24 05:25 UTC",
- "usdcad": 1.4357,
+ "updated": "2026-11-24 23:39 UTC",
+ "usdcad": 1.4267,
  "portfolio": {
   "start": "2026-11-12",
   "start_cash": 10000.0,
-  "value": 9901.76,
+  "value": 9902.17,
   "pct": -0.0098,
-  "bench": 9548.64,
-  "bench_pct": -0.0451,
+  "bench": 9458.81,
+  "bench_pct": -0.0541,
   "cash": 7500.0,
   "pos": [
    {
     "tk": "FFH.TO",
     "cost": 2000,
-    "value": 1955.28,
-    "pct": -0.0224,
-    "px": 2686.93,
+    "value": 1956.49,
+    "pct": -0.0218,
+    "px": 2688.6,
     "buy_px": 2748.22,
     "cur": "CAD",
     "date": "2026-11-12"
@@ -23,9 +23,9 @@
    {
     "tk": "ITUB",
     "cost": 500,
-    "value": 446.48,
-    "pct": -0.107,
-    "px": 6.69,
+    "value": 445.67,
+    "pct": -0.1087,
+    "px": 6.72,
     "buy_px": 7.32,
     "cur": "USD",
     "date": "2026-11-12"
@@ -41,10 +41,10 @@
    "tk": "ITUB",
    "name": "Ita\u00fa Unibanco (Brazil bank)",
    "cur": "US$",
-   "px": 6.69,
-   "chg": -0.0194,
+   "px": 6.72,
+   "chg": -0.0,
    "buy": 7.34,
-   "gap": 0.0972,
+   "gap": 0.0923,
    "verdict": "\u2705 BUY SMALLER (half size)",
    "what": "Brazil's largest private bank.",
    "story": "Record profit R$12.6B, ROE 23.6%. Brazil rates/election + currency risk - insist on full discount.",
@@ -65,9 +65,33 @@
    },
    "news": [
     {
+     "title": "Nu Holdings Scales in Mexico: Can It Unlock New Revenue Streams?",
+     "source": "TradingView",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNGtmYVlYdUZhdjJtSEtma013MDRBWVdwcTR0TzhoNEl3WFg2d2VwR2JnY1pYczItVm9KazdZRUo0VkVrMUNMV3Z5c1ptSFJFNC10ZElfc0YwajBOclByRW5DSmVLT1dLNzFQbkxGWkhrQUdPcEJUSl9qUUJXaHF1VGlyNHFiMFFiN1ZQN0FjTi1Kc0xfamxSQTJvWjRNRGlhb0tTZ2J3OHZoSWF3WERUX0s1ei1pMXdxU1E?oc=5",
+     "when": "2026-11-24 17:13",
+     "ts": 1795540380.0,
+     "flag": false
+    },
+    {
+     "title": "Petrobras Lifts Spending to $122 Billion After War Windfall",
+     "source": "Bloomberg.com",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT1VuclM1UmdNREt6Q2RINHlKLTNjcXJmWGdOLVQtMUpYemNXYld3eUV6TnkzcF83Zzk2a000TlhJNDdZVnlfZTRpVGlKNXpkQnotUS1oNnJqTDgxTUd3b0ZmV1Q1YmJtek83U1hQUWk3RXdqQ2ltVlczWEUxU0JfX2NxelRBeGlLMXR5Ymx0c2pmOFFNcHlCZ2F1Rk1yMFBab250VXR6TGc1Z2F5MG9N?oc=5",
+     "when": "2026-11-24 12:51",
+     "ts": 1795524714.0,
+     "flag": false
+    },
+    {
      "title": "Weekly Recap: J.P. Morgan lowers target and Akua payment-tech investment",
      "source": "TradingView",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNHBzSW5qRGdBeXZUcVdTdHhkdTJDWUNQY0NxbmlQVXo0c1JJM1Z6WjB0YnRmbWNGb00tLWE3eFJXbTJ0alFKcFdOODRFbUYzcThjSnJnb0syNUNYZ1FXNlg0cXdpT3dRWXRwWTdwZzdybi02R013dXdCUTBZd0I4N1M1WFlpOUtpRUxtZW1CVlE5aFBvbjBLOGwwOXpBRHkyU3NpZnBldGRlR3hNOUhFU2hOQ3o1a3N1M2JZVXMtMldLaTh0enJNejFtRzI?oc=5",
+     "when": "2026-11-23 11:00",
+     "ts": 1795431600.0,
+     "flag": false
+    },
+    {
+     "title": "Copper Slump Tests Kast\u2019s Push to Rein In Chile\u2019s Fiscal Deficit",
+     "source": "Bloomberg",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUFdvZnJHVjQtbUk5TkZjcHFJOC1leEtMUGg4RGxJNjU2dW12ZGlHVTBYNlN5ckU5Y2czeHNSMExIa2VOS0NmUDNUVHRvWFN4OTAxT24wemJVc01ZYkxncE9zckVIbmFsMTUyQzFnaGRvRS1wUXhWVnNGa0lwQVd1WXZfMzNyTlF2SjJCU25mRlZ1TjJ5U0psUnBCWi0yeThrZExscGVyM3RNSnVUSi14eWdOeVNLUQ?oc=5",
      "when": "2026-11-23 11:00",
      "ts": 1795431600.0,
      "flag": false
@@ -79,22 +103,6 @@
      "when": "2026-11-23 09:24",
      "ts": 1795425893.0,
      "flag": false
-    },
-    {
-     "title": "Banco do Nordeste stock: Q3 net income falls to BRL 533 million - ad-hoc-news.de",
-     "source": "ad-hoc-news.de",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdUxkalZGRzFzdVpKalRTT3dFejlTcWt1ejRtQU9BcnVCU1BGczVzX2gtMlJaTUxMU3VVdnBuZHlaM01MNXhsUmZPemFfN2xVZjdWRGQ1WUljT3pHclpyOUtxSW4wa25oZFhsMXNxeXVlNDlnckV6T2tyZ1Z1em54SzR6ckMtMGVBT3VOUkF0RUVfRWtrenpUOGhqY2RHZzR6NzhaZHhld2NUWEwyb3NUM3pvSndWY1R4QmF0VXZn?oc=5",
-     "when": "2026-11-23 02:44",
-     "ts": 1795401845.0,
-     "flag": false
-    },
-    {
-     "title": "Brazil\u2019s Largest Bank Ita\u00fa Unibanco Launches Crypto Trading Services",
-     "source": "CoinMarketCap",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMGhSOWxyUzVsRm5BTFJNQkRReDEwSGJGVjl0NTRkZ1Z5eTg2UE9wbjUtUm1oeWRlT29JdHN1a3hVOWlvTHBDeU5qTENrU0pnVHM2dERpVDIwZFEtS3NCdGlzdFNvWDA4cHFmYklPTmUzUy1qSm84V1FqZEFyc1FYbFY5ODZYZ2FEWXhIb1JQNmhYNXpaZmZ0ZnVxZ0o1ZEU4S3FLM2t2QWtQZk5LNUE?oc=5",
-     "when": "2026-11-22 08:32",
-     "ts": 1795336347.0,
-     "flag": false
     }
    ]
   },
@@ -102,10 +110,10 @@
    "tk": "FFH.TO",
    "name": "Fairfax Financial",
    "cur": "C$",
-   "px": 2686.93,
-   "chg": 0.0168,
+   "px": 2688.6,
+   "chg": 0.0001,
    "buy": 2500,
-   "gap": -0.0696,
+   "gap": -0.0701,
    "verdict": "BUY",
    "what": "",
    "story": "Already a BUY (passes all 3 tests). Alert only if it drops below C$2,500.",
@@ -113,43 +121,43 @@
    "deep": null,
    "news": [
     {
-     "title": "Fairfax Corrects Senior Notes Redemption Price",
-     "source": "TipRanks",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZFJUdFZEMWV1UGU5ZHpBY1lBTks0RXBqNnA0cnZ6VktwNHRTSTZ6d3pKQ3BvLWF0dXJKUmVCbzFyQXJHYjFhcEdfOThsWDlBeDZNcFhGSndaZkdtQUktX3RaUzBnOUVwenJEYWJuMVBvOTdibnRNT3FJcHZWMVNxTmh2am1GcUZTMEhZVDd2dk43SnprYmlFS2k5ZEFsR3c?oc=5",
-     "when": "2026-11-23 22:39",
-     "ts": 1795473552.0,
-     "flag": false
-    },
-    {
-     "title": "News Release Correction: Fairfax Announces Early Redemption of Senior Notes Due December 6, 2027",
-     "source": "Toronto Star",
-     "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQWWRTV1BCdWxsb1VLY091OUoyRzZvSXlmVnBMSWJMakRGaGFnSzQ4VXR5V3dTYTRwMGVOM193NmI2aUI5dm1RT0EzVWVVUmtIQ0dsa1k0ZHNhT2lHTk5TTTV6Z1NpN2NIbTBMR29aZjlMYjh2TVc3SEZxZld3RTRrRko5eFlqTzJNRXVGVUtUNFM4QTBDdGdGRUZTM1M0UldqZzNhNjM2c3VkNTd4cnFzMHVoLS1qZzFOUV9kY0RsWGtwRllVZ0xDbDRyN3M3cVhNY1FQVHN0cW1rUW9RT0pxME9QZmpETDl1Y01wQ1ktTm5aaXlHb09GZ3hMclNick12R05WY1F5ZHBMWUE5MFNz?oc=5",
-     "when": "2026-11-23 22:02",
-     "ts": 1795471320.0,
-     "flag": false
-    },
-    {
-     "title": "3 TSX Stocks to Buy and Hold for Decades",
-     "source": "Moomoo",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcEx3OUpVNGtTVDU1dVFQbUJ4eGpJbnl5VlJhaThOUGp3V2YtU2UyWWdpT0FSazJKNlBpeUI1RGFkNGFuUnRrUVh4dnJuVGdjZzI0ZGdsbUdOX2hlTl95Ykl1NEE2LWZjaTNLVXB6ajJCQWZ6bzdHVmJpX2lSUTV5RVNJRWtZX29yVnZyRA?oc=5",
-     "when": "2026-11-23 19:03",
-     "ts": 1795460582.0,
-     "flag": false
-    },
-    {
-     "title": "Fairfax on the S&P/TSX Composite Index: What Does Early Note Redemption Change?",
+     "title": "Why Is (TSX:FFH) Fairfax Redeeming Its Canadian-Dollar Senior Notes Early?",
      "source": "Kalkine Media",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWFFnWktFOGg3OGFzcHhKdFRNOWtuMDc2bmMwTkg4bkhzVmVpd3JYZGd4RUFTUGk3WEVCTUtrbzFxN1lMWkFKS1JLNXo5TFJMb1BnQ0VBQVM5V3pVWklReDJHemV5Wnp1R0RwZ3BJNEliMFR6TGprTG5CLW9aOV9fMl93djdBZXRFOEk1NkpRSF91SGd5YkJwNGdFUFZEQ2ZLWGhKeThSVDJaR1pQaW1xcUpyeDVWMUViQ092Qg?oc=5",
-     "when": "2026-11-23 18:44",
-     "ts": 1795459440.0,
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbzdKb0cxOTVrQnAxVXBldTNGMGZwYmtNSHBhTnpibFFOLWNrc3NMOHJYSm14REVpVTl3eHZrOUVxWG9PWFJRaUkxSmx1bWVnUjkzZm5QR3V4VmRKcENWVDY0Z3FJa2RUd2QzajM0dXo3Y1prY3FGYVp3YUNOeHl2MmFxNGo5UlFsUlJ1QU1vRHZlazJmYy15bzIzYW5jcFdNc0dKU1l6ZVZEaDU3RlkzQUZTS0t4dw?oc=5",
+     "when": "2026-11-24 19:08",
+     "ts": 1795547280.0,
      "flag": false
     },
     {
-     "title": "IIFL Capital: FIH Mauritius stake rises to 53.09% after secondary purchase",
-     "source": "scanx.trade",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ3I5YU9ZMEhXWllRajFGbGx1U1MxTXBCN3ZlbGgtVm0zLXE4M3JqZm9UX0lDMzFucXVTVkF6SVNrcTZ6Q0pjUEN2elBTb0pyYnRxT0kyYVNkeG0tVXc0YXZOMGVvSmExYi1OOU5CMzRiZUo3M1pWX1lpdkNlQ2w4RHdtenQ2bXhVRnRKbmpiaEQteGJZZlhhWlJnbXY3M1lycXc0M2dTWVExbTdKQ2Q0UHFONW5uNEU?oc=5",
-     "when": "2026-11-23 16:01",
-     "ts": 1795449702.0,
+     "title": "Fairfax Financial Holdings Limited (TSX:FFH): Why This Large Cap Value Stock Is Trending on the S&P/TSX Composite Index Today",
+     "source": "kalkine.ca",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQWZlbk9wa2lXVmxmRU5kdzdBb3YtYUZISTlkUEw1d1VMZFhwQm5VWmlpUk5taHVYVDFUdlozam5uOUdTcUIxTlppa0duMllsWmhXWHlWSkUxNWlXVk9yRVlvQWdqaThRbXdJbXh5ZVF0eXRWWDh1b0JjRXhzSFpoR1N4R01vTE81b2lvd3VDRXd3NmRBV1RjWlcyS2ZBZjRaUFp2YVQ1TEF2ZWxFTkRGYUtvYURtWjlQdW9pZV9XeGhTV0JVQWxOZkRyaXA2ZGtOaDZGNTlyVVpvNGpaVGsyRmp5b2NoNHMz?oc=5",
+     "when": "2026-11-24 17:13",
+     "ts": 1795540380.0,
+     "flag": false
+    },
+    {
+     "title": "IDBI Bank staff threaten December 3 strike opposing Fairfax stake sale deal",
+     "source": "FlipItMoney",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMG5SWGVSOVY4aThKallwQW5YclpEYWRoVWNEN3h0SG1fUTVOZXFlMHlLQ2ZGNzJyNjZJMFNyRXJGYjNBX3NPamtQYVdONFVNaGMxOHNpWWtnSDh4by01dDJydXA3clB6bXc0MjI1TzhpQ2tVMmt3UzZNUE43VHFjVzlEWE5SeXpndkxKQ2twOWdFcHFPb1EwWnlGVWtVQ3h2UkhWZA?oc=5",
+     "when": "2026-11-24 14:31",
+     "ts": 1795530698.0,
+     "flag": false
+    },
+    {
+     "title": "IDBI Bank stake sale: Bank employees threaten strike on December 3 against Fairfax deal; Here\u2019s what they demand",
+     "source": "Livemint",
+     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOY3huV1Z0UThUeEgwWXJmanVUX3RsR3hxeVM1NnZweVdzaTVCbWRabmJydzA4OFBPQkJ1OENzSVdtUlpvcTByZmh5N1dNeUJMODhCT3M1cW5qWDh1dWljU2N2Y1BPMUExN2gxY2l2MERmWjZZcUNBdTFMMXo1WTlEZ2VtM3NybjcyU2JhR01pYS1QUS1Db05Lb2NaaWxVNS1pNkxvZUNOUEZ2ZXljRFZtQWd6bU1UbDkwRDY3SUFYXzBoS243MnQyNGZNb0xFREJCOGhyLXk3ejl6bTcyRnNnX2otQUxZWnVkVnpEeDZvTjJqVU1UbUpITWN2RnVqbnfSAYQCQVVfeXFMTXM3aTBlT1ZyYXdhSFpnR0stczFhSkRucUZ0cjZmNkRGQWg5UWlkcFhhYmJUNmFDbm91c0dnTWktN0M1Vkp5U1VOcWZac3JMMU5JVkZhdXNITndLWnNsQlJFWjVFZlZ6Q3BqN0NIWndxU2ViWVQtT0RjbHNNNExFZE9INS0zc1kzVGxmc2dvWTl2Y2tIaHRVUmpIOG1ORU9oZG5ITDlyeDNwcUNQSjEwb0Q2MjhnOWdOZ3c5d19pWDFtTHJLSUNON2JtQ3dkXy1CRWdqeGhzUHFnUjlnYk10M3BsQXZrYXBRcWduSVY4SEh0TG9rYS1oWUdGb05KNHl5OFFRWXA?oc=5",
+     "when": "2026-11-24 12:36",
+     "ts": 1795523793.0,
+     "flag": false
+    },
+    {
+     "title": "Should you buy IDBI shares? Is it a good banking stock to bet on amid Fairfax stake sale deal \u2014 what market experts say",
+     "source": "Livemint",
+     "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOUVNIOGlXdmxtU1dBMUZlVVdYZmJVa3c5bHN0ZE1aSHV4MjgyY2xXTHdETHNvR280T2k2TktPSEhmYUhJUlpyV1lGNTBic1NoTF9SREI4LUp2RzRZQ1UyLU1CUW5XdldiZHM1c28ySTM1b1R5bV85WkNWVUt3dDlZYlBCSXhpWGx4bGo3bkxodmZXZDlPTDN6WDA2UXFrZm5qc0N4djJ2Rmt6TGdQLWlKYkpnVHZMTVJTU0lyMnJOVWt2OUx6NTNDVXhWX0I3WFlEeTFqUmx6cVNZc2g5a2hsbjR1ZUFyRFd1VVA0ZDdYR3NjRHJlWHJaRkZ3NEtQbU1ialprWmlsZEgzNnVGdDRGclI2VnjSAZoCQVVfeXFMTVNXVWZCaE03RHN4Q3dOLTByX3dqOS1CcHJVdGk1OUttczJBczhNN2QtSjFidmVrWmZJOU9nWWJ2MWJuYmQ0UU13b1RtYUlvblhZWm9SZ1RpLWUxLTU1WUJGRGZabHgtLU1ucHoyQW5kVjZTbFpfejdYTzNlRFAwV1dETFppWFBzTGw1bnJ1NTdfWXFWd1BvVFViakYwT3ZnZm85cXVQUXNjUWhrYVg3S1oxSnZLN0VhR05FanR0LVF5NElVd3dhUFhKa1hmZFpwbjlqdkQyNUZtUDgySHVZdm1waUZOTjZqNEZkVmkxWVh6Y3RZR2IyVDU3dGcxVjJjejctTGZ3NUR4azlQSWRmOWxfUGxzbzZVaWlB?oc=5",
+     "when": "2026-11-24 12:26",
+     "ts": 1795523212.0,
      "flag": false
     }
    ]
@@ -158,10 +166,10 @@
    "tk": "GIB-A.TO",
    "name": "CGI (Montreal IT services)",
    "cur": "C$",
-   "px": 116.32,
-   "chg": 0.0221,
+   "px": 117.63,
+   "chg": 0.0106,
    "buy": 91.0,
-   "gap": -0.2177,
+   "gap": -0.2264,
    "verdict": "\u2705 BUY SMALLER (half size, at buy price)",
    "what": "CGI: Montreal IT consulting/outsourcing.",
    "story": "Net earnings +21%, book-to-bill 122%, dividend +8.8%; AI is the long-term question. ~5% from buy price.",
@@ -182,11 +190,43 @@
    },
    "news": [
     {
-     "title": "Special Report: Engineering Focus on Motion Control",
-     "source": "The Robot Report",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOWdhR1JOajV2Rzc4MTZSOXBHUkpxNElYLXNib2xHM3ZRMTcwR3B6ai02WmVQbEU3WmdPMF9ua0lSZFB4b0RXeF9ob2o5U0RhcUxNSFJRNjk5WnNrVGFYY2xjcGtsRFR6aXFQZE9hVFBqT0NHdTlfUmJkWG1TVjhDYUJGLTNucjhMYXc?oc=5",
-     "when": "2026-11-23 15:20",
-     "ts": 1795447254.0,
+     "title": "Bullish potential on CGI Inc.",
+     "source": "The Globe and Mail",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM2J4Y1lrMDM0STduNGRZU1BMcVRoMzgyRkFvamk1UmE1c3hjVS1WX1ZNdUU0NlRpblhkaFhxZ1dmaWNPVHN5QnFaaTlHU0MzNmM0QWRoVEZLeW5xeDVZRFFtaUlpUmFHLXlEa0lWa1M0SUpWckZDVy1ObkprWktqcmpfNVNHLVc2d25oOXRoQURKTl9kWnE0WW1VUWY?oc=5",
+     "when": "2026-11-24 22:13",
+     "ts": 1795558384.0,
+     "flag": false
+    },
+    {
+     "title": "Technology Focus: CGI Inc. (TSX:GIB.A) \u2014 S&P/TSX Composite Large Cap Growth Stock in Focus After Fresh Corporate News",
+     "source": "kalkine.ca",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUlVmZmtUaXQ3U2hNNzR6M0lLZUg3QzYtV1pTNnlJZjQ5VVZVSENiMHEyOFRlZURNMm85bUZlbmx2N2lGZEtmbkN3N2Y4QUdaWDJmMU15Y25oVnhjVl91aC14REgtYy1IWGxYSng1RU54WDRGTnNvSTY1M0lXV3dMYWJSY2JxNzk5cDRaSXFuZTVFWVhCN0FsRnRjTlhRQTNlMUU1S2NCTUZPNGx6UU50OVhCMTk1MmJ4eXdYZHp5WHNEYmFVRVRjaF9GWjhKT2JhLWtzdDRmN3BiZw?oc=5",
+     "when": "2026-11-24 16:48",
+     "ts": 1795538880.0,
+     "flag": false
+    },
+    {
+     "title": "Turnium Technology Group Inc. (TSXV:TTGI) Under Pressure as Investors Evaluate Commercial Execution",
+     "source": "kalkine.ca",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUWJlQktBcDNwbl9IYlI2Mk1mOEZ2RTdnSWljc19PaE5mcmtKSHZVVEZBOXNMQ2RZTGZYa0hyc1lGaUgzWEZNMGRaLTNHQUNyb3VtWjljRmdfVEhENUMtaWdQZnJiYnY4UjNIaE0wbVM3V183a2FRR3g1VDVOWUJnM1VYMGFHcUdiSGRQTldpbHZvWjhFZThZNk4zNk51S3haQnRqamJsNkVwSW5GZUhpWnN1TUM3OWNxWEtiR3Iybk52bHFLemRkNUtB?oc=5",
+     "when": "2026-11-24 12:50",
+     "ts": 1795524600.0,
+     "flag": false
+    },
+    {
+     "title": "CGI Says CGI AI Head Analysis Solution Certified as EU MDR Medical Device",
+     "source": "marketscreener.com",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb1BnNXZTajVOcVNUTENwRktJVWs0UU5hSUJJaWZfNkxTbk9teEpJVm5vV0xXUVM1Vlh0LXYzUGYzQ1gxTGt6MFZRVXUyWlREakRuWEd5S2NLdk9vSWFTRmlyWGxUMkxvN1JNTjVKQTUxOS1uQlpxWDNiY0FteXFRa2lDSmxDVE5nS2NKOGJnemRtUnc0Z1NqeWdUelgyLV9tT2FZZHN1STB1S0IybkJVbHJyYnBOaDFDWUlySkNHZTV4NVlB?oc=5",
+     "when": "2026-11-24 11:55",
+     "ts": 1795521317.0,
+     "flag": false
+    },
+    {
+     "title": "An AI tool flags possible brain bleeding on CT scans. It is certified for medical use in Europe.",
+     "source": "Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZHc3NzFIX2RLcFFjNHktQVM0cWFUMEZsWldCWXVYSFRhWW9OXzR0MWJBMTctYVhWS1QtNnBNNlBxTFM0VnVlVkhEVV92dUg2ZEZZeVJEbVBlX2FXS044eXppRl84aDY2Z2gtdzFqOE1MQmducVF5WGFmeGNBOTNQQVMzdExKWnh1MlNGazJLcHl4b2FLYnhpcTlKOW55WmIwUGNnejZZb3plWmdUZ0p4NmxVc1ZJTFBCRmc?oc=5",
+     "when": "2026-11-24 11:30",
+     "ts": 1795519800.0,
      "flag": false
     }
    ]
@@ -195,10 +235,10 @@
    "tk": "ET.TO",
    "name": "Evertz Technologies (broadcast tech, Ontario)",
    "cur": "C$",
-   "px": 12.53,
-   "chg": -0.0118,
+   "px": 12.58,
+   "chg": 0.0056,
    "buy": 9.61,
-   "gap": -0.233,
+   "gap": -0.2361,
    "verdict": "\u2705 BUY SMALLER (at buy price)",
    "what": "Broadcast video-network hardware + software (Burlington, ON).",
    "story": "Record FY revenue C$516M; 47% recurring software/services growing. Broadcast industry shrinking; Q1 margin dipped.",
@@ -232,10 +272,10 @@
    "tk": "ABEV",
    "name": "Ambev (Brazil beer, AB InBev)",
    "cur": "US$",
-   "px": 2.64,
-   "chg": 0.0115,
+   "px": 2.69,
+   "chg": 0.0189,
    "buy": 1.94,
-   "gap": -0.2652,
+   "gap": -0.2788,
    "verdict": "\u2705 BUY SMALLER (at buy price)",
    "what": "Ambev: dominant Brazil beer (AB InBev).",
    "story": "Revenue +7.6%, EPS +15%, margins rising; volumes flat; Brazil currency risk.",
@@ -260,10 +300,10 @@
    "tk": "CSW-A.TO",
    "name": "Corby Spirit & Wine (J.P. Wiser's, Pernod Ricard Canada)",
    "cur": "C$",
-   "px": 15.74,
-   "chg": 0.0032,
+   "px": 15.92,
+   "chg": 0.0114,
    "buy": 11.22,
-   "gap": -0.2872,
+   "gap": -0.2952,
    "verdict": "\u2705 BUY SMALLER (income holding, at buy price)",
    "what": "Corby: Canadian spirits/wine (J.P. Wiser's, Polar Ice).",
    "story": "Durable brands, steady dividend; reported Q1 EPS includes a one-off rum-brand sale - use adjusted.",
@@ -308,17 +348,17 @@
      "flag": false
     },
     {
-     "title": "Can Doman Building Materials (TSX:DBM) Build on Record Revenue to Keep Its Long Dividend Streak Intact?",
+     "title": "Can Evertz Technologies (TSX:ET) Sustain Its Dividend as Software and IP Video Reshape Its Business?",
      "source": "kalkine.ca",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbl9fNFkxWE9YdjhMWndQbllld1d5aDI5cU9hU2tSb1hBMl9GYVRUMEpCUEN3YU94VFM5MGpHajE2OHVhQ0ZpV2ZBOUc2MzVFRmxPYU5oTEkwR3FaVXo5R3h3dF9FZ1dUQi1HV2NqYW5ULUNUNG9oNjc3SkNaSzkzVTdSUWVFWHFCektsR2tqN1dRQVVTcGx1eEZWTWw2VmowR3YtNTgyS01MdHVfWUpRMzZuVTgzYkEzbUtzRlFETTNLUlBfbjhtb21JNWZlaHJ3Z0tLeUZB?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb3RvQ2pPcDRYMnRtTmVQS3JoUTltdjROSjRYTW1yQVphWVR3azRJbnpoU2FyY29jOE1EbkJJTlRGV0hwZlB6YWJoYkFJbHZBMm1wLWhBY2ZPVlRwNkJtTHVlODJINFFuVy1pY1h6T2x6VWtQWEF0dUh5NEtGN1BlOVp3dXpJejh3WG5DOFVRZTVfa1J6YkRYVE8yNy1Tc29CRVlOc19ubkp6TXRMSFo3RWZLMUlvSERma3pIUTRoVTFQaV8wdTNsS3owY21oeUd2S0E?oc=5",
      "when": "2026-11-23 14:41",
      "ts": 1795444860.0,
      "flag": false
     },
     {
-     "title": "Can Evertz Technologies (TSX:ET) Sustain Its Dividend as Software and IP Video Reshape Its Business?",
+     "title": "Can Automotive Properties REIT (TSX:APR.UN) Keep Driving Distribution Growth Through Its Dealership Expansion?",
      "source": "kalkine.ca",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb3RvQ2pPcDRYMnRtTmVQS3JoUTltdjROSjRYTW1yQVphWVR3azRJbnpoU2FyY29jOE1EbkJJTlRGV0hwZlB6YWJoYkFJbHZBMm1wLWhBY2ZPVlRwNkJtTHVlODJINFFuVy1pY1h6T2x6VWtQWEF0dUh5NEtGN1BlOVp3dXpJejh3WG5DOFVRZTVfa1J6YkRYVE8yNy1Tc29CRVlOc19ubkp6TXRMSFo3RWZLMUlvSERma3pIUTRoVTFQaV8wdTNsS3owY21oeUd2S0E?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWHo3aGdJSnpHQ1gxMWFTMzlZRlAza21RTWtudHEtOEYzTFN2d09pdHJTWUVENm4zVG1NQ2Z4SmtDU3d1R2lWOWlxVm5jZC03Mm9wX0MzZmNBZjZsRkZOMU9TSEMtX2Z6b2ZvWkVJbWMzOW9VZE9DcHIwSWh6Y09ZR1RwLUtxN1NMUlZtb00xRnFaMDhGYlB4VlJDYzktOVotNVNBWC1iYmZYQS1mLUhyWWthYngtdFRzSVB0WjdhbGlTN1NWSGJsUlRHRF9LdFFEZUpneFhmZFdWdy1CN1E?oc=5",
      "when": "2026-11-23 14:41",
      "ts": 1795444860.0,
      "flag": false
@@ -329,10 +369,10 @@
    "tk": "BBVA",
    "name": "BBVA (Spain bank, mostly Mexico)",
    "cur": "US$",
-   "px": 24.49,
-   "chg": 0.0426,
+   "px": 24.26,
+   "chg": 0.0054,
    "buy": 21.02,
-   "gap": -0.1417,
+   "gap": -0.1336,
    "verdict": "\u274c PASS for now",
    "what": "BBVA: Spanish bank, mostly Mexico.",
    "story": "Profit +19%; Spain miss; Mexico/Turkey risk. ~6% above buy price.",
@@ -351,16 +391,33 @@
     "canada": "NYSE 'BBVA' in US$; Spain withholds 19% (treaty 15%) - lost in TFSA.",
     "why": "Good bank but not on sale yet, and stacks Turkey + Mexico + Spain risks. Ita\u00fa is the better discounted bank. Revisit if it drops to ~US$21."
    },
-   "news": []
+   "news": [
+    {
+     "title": "Cajamar puts 500 million in green bonds with oversubscription of almost 2,100 million",
+     "source": "Dem\u00f3crata",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc2RISWNtX2lDRWgzTHJHQ0xrNk9abXhlT3pBamV6LW5kdW9fd1B5RENfYnF2cVRVZHdwYWo4VjRRNEZIRG5OWFFWaXZHcmlGWTEyNW5FSk56cGNQWEdOS0c0eDZDNUJvcjROOU1aSVA2eHdhWU5jSmFyUXhOVGs1RXhLUHlPcUItd3E1NGJDTUwzWGROblhTVnJsdWxLNkJHazg3OXFwTUhHZ21PajZzbzJVQ1Fidmp5UFplTE9wWdIBxAFBVV95cUxQekJTUWR4V05heFNzQWwzZldWYzNFVnE1SWpYVldUMXlWMEZNYmhtYWJOSE1uU1RiOFRtNEh3V2hMQjl5RjRFdkFYX2pEWHVYX0RvRXFTckw5UGw2UGxZandsc1Y5YzVfY3ZwZVY2YUFubHVtRDlNUGdZdUQ2SDJWRUNZWVllSnpKQjJaSUJWMllYTGl0dUVYWEpxN2tISFF1YXFORTVYV2JGUVpKbnN0WmZmZGU5a1RGZWU5cVZfekk1ZmF1?oc=5",
+     "when": "2026-11-24 16:11",
+     "ts": 1795536660.0,
+     "flag": false
+    },
+    {
+     "title": "Spain extends bank tax, sets tougher lending rules before election",
+     "source": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOWk4NUtYdVpPQnRKWjdRdU8xcEFiT3FFN05UdEpIcXlHTnFzRHFZbkdIVkJsbjJqeHlHWDFKWmstSnZTR0tNdWdrM0dCVW0zZ0RKRzJnZ2ZtTktxSkdRMzgzZThVSGU4SEpWNUNGOWRXcV9nY2ZlQkl0aTl6NmVwa3RVbDJVWjdPYXdDOGRKZV91THhRempWLXd1WTRZckZYaHp6TEIzSzJiV0JCX0Z3U1hseWJwTEJDekE?oc=5",
+     "when": "2026-11-24 14:07",
+     "ts": 1795529263.0,
+     "flag": false
+    }
+   ]
   },
   {
    "tk": "YETI",
    "name": "YETI",
    "cur": "US$",
-   "px": 37.8,
-   "chg": 0.0354,
+   "px": 37.75,
+   "chg": -0.0066,
    "buy": 26.93,
-   "gap": -0.2876,
+   "gap": -0.2866,
    "verdict": "GREAT - wait for price",
    "what": "YETI coolers + drinkware.",
    "story": "Strong brand, little debt; sales +4% (missed), guidance cut; one-off tariff refund.",
@@ -368,11 +425,11 @@
    "deep": null,
    "news": [
     {
-     "title": "Best Water Bottle Brands in the World 2026: Top 10",
-     "source": "Global Brands Magazine",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnlkYWdqdWdLWlFPWEdBZURQY2RXdll0TXhMa1BwUUVsTHNvQVp0U1VKOFFadjM3NlFJWVFqcWlYRnMwdDhGc1Atc1VFUzVGTzl1NTRRSHljSGN6azRzZDE3NEdudXdYWDZzUl9qZU1yZEJtZ2xJcTJJZkp5N01DZw?oc=5",
-     "when": "2026-11-22 11:55",
-     "ts": 1795348535.0,
+     "title": "YETI Holdings, Inc. Announces Participation in the Morgan Stanley Global Consumer & Retail Conference",
+     "source": "The Manila Times",
+     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQRGZKYmgzTmlneEpmODJOa0I4UHFtSDhTeElhWTZCSFRvdFBUV3ZTRVlEVFQ2SDFqSFU5RjQwSmFLVkE0NXEyaEdYcUhEWjBlcV9yazN2LUVPLWJ4U1NlYkU0RnB3QlAydm1xS1k2M2F5dnJ1UmctSzloZFV5Wm1EbVl5Q1BHeW1PQWVVbE1OUVJuSUlKdGlpd0VIdGRoXzdtTVRYMjFueXlIc1QwNG5jOUhVU3B5OXZGbER5WHczeW5pZmFLRWd4VkVoZ25mVTNNVDZxQk1HMGQ5T3NBRkliT2xNV2cxTm56Rml1bUFKMmRIcC0zRElYVDBPS3dacURkTVlzclhB0gGGAkFVX3lxTFBEZkpiaDNOaWd4SmY4Mk5rQjhQcW1IOFN4SWFZNkJIVG90UFRXdlNFWURUVDZIMWpIVTlGNDBKYUtWQTQ1cTJoR1hxSERaMGVxX3JrM3YtRU8tYnhTU2ViRTRGcHdCUDJ2bXFLWTYzYXl2cnVSZy1LOWhkVXlabURtWXlDUEd5bU9BZVVsTU5RUm5JSUp0aWl3RUh0ZGhfN21NVFgyMW55eUhzVDA0bmM5SFVTcHk5dkZsRHlYdzN5bmlmYUtFZ3hWRWhnbmZVM01UNnFCTUcwZDlPc0FGSWJPbE1XZzFObnpGaXVtQUoyZEhwLTNESVhUME9Ld1pxRGRNWXNyWEE?oc=5",
+     "when": "2026-11-24 13:21",
+     "ts": 1795526495.0,
      "flag": false
     }
    ]
@@ -381,10 +438,10 @@
    "tk": "CNQ.TO",
    "name": "Canadian Natural Resources",
    "cur": "C$",
-   "px": 62.93,
-   "chg": -0.0127,
+   "px": 63.82,
+   "chg": 0.0141,
    "buy": 44.0,
-   "gap": -0.3008,
+   "gap": -0.3106,
    "verdict": "GREAT - wait for price",
    "what": "Canada's largest oil + gas producer (oil sands).",
    "story": "Best-in-class, decades of low-decline reserves; profits at high oil + one-off sulphur income.",
@@ -392,43 +449,43 @@
    "deep": null,
    "news": [
     {
-     "title": "Canadian Oil Stocks Gain as Crude Prices Stay Elevated",
-     "source": "cwibc.co.id",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02MmFKZktOUWlEVEVWejVHeWJ4MmRPaENJN2lCQmlSNUFERE1hSW5aTWlLVFBlNkhiZExjOUVkVnFWZTF6ZXZpR0YzUWZtNEF3LVNuZ3B5UVFQU1gxOVZNT0FyOUNBQQ?oc=5",
-     "when": "2026-11-24 04:04",
-     "ts": 1795493096.0,
+     "title": "Earnings Estimates Raised Might Change The Case For Investing In Canadian Natural Resources Stock",
+     "source": "Simply Wall St",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZjlmc3hZbUJlbjN2UFVSeW5oQXZKY21mRDU5dmYydGJyVHRNYkROT3hsNjFYWEMwZUoyamxRUzFaeVV5VllucXZJUWVsTTZOZWFCdXl2TS0wWlFvSUdIaUcwX3llR05hOG5ia2YtU3k1ckJFTzlMVkRBVXBuelJTam5jYm5NcnhHclBBYVRGRlJvQ3FtbXJ0UDBnTmFQMnF6WGlma2JDSEw2dkZLMXdfbWw5YV9aNXZZRjRQSXB6LTFwS0tNWWVzdUtMbms2U1JTLUdhRW5ubjNJVVNRMGpN0gHkAUFVX3lxTFBjZGNsb2dadG9IZzlXQ0JFRTNqd1Q1NFFRc3k1VzR4a0R5bElacUhUOGQ4S1pZalBrUkt4bi15Y3dQUXlGZWNlTENNSEJmWDVLZHFBR0l1Ny1KaEVjdFU3Nkg2QTFMWGdYS0pFeW5YQVp0SWYwMjJuUC1OYTJPTVItaTRqdDU1RE1PNmFHajJqSzZ6eW1NbFU4UG43blhDRlFTa0c1S2Zod0d3RDBWdTluOTh6c1BpRS03dTNvaHJEOEpEYXlSZC1XUDRZVi1YUkdqSElrT2R3Z0ZzVkdDeW0xNzFPdg?oc=5",
+     "when": "2026-11-24 23:20",
+     "ts": 1795562409.0,
      "flag": false
     },
     {
-     "title": "2 Canadian Oil Stocks to Consider With $1,000 as Crude Stays Elevated",
-     "source": "The Motley Fool Canada",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNlFuRGV6VmVDbXh0aTNaTVlQel92ZDNOSWozOXBSVWE3dkY4T0wtWi1QS0NIcUY4d3lQc1YteTJaVnowWG1IbkYwbHc2c2pMRFVsRkRnZ2JXVkVRVnBHa05oYkd1a19sSEFHUk81NW9pNUVCd1ZvSGlBc2RGQjAtdE1rU3ZRYXhHYnNJQXhVY3BITXctemlXaGlWR251dGhw?oc=5",
-     "when": "2026-11-24 02:30",
-     "ts": 1795487400.0,
+     "title": "Canadian Natural Resources worker loses disability complaint after refusing settlement offer",
+     "source": "Human Resources Director",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVkVUS0RvR2hpRFJXM29fY2ZmbnVVX003ZGFfYUMtQTVyUGEzeUtVMjNYZ05BaHJ4RF9BMVRBdmpmYjQ0T0owY2dmUGstTmZmYlVSNjdEMW01THZLcW1kQTZ5VnVEbDM4SGcyTGdkYmZEbU9NOFdRV2FtYkpRNkVSbmllMXhYdHY4MDFMRmJqbUFqa1JtNDJiMEFpN283cmRWM2owcy1idDJTZlRDaHFCbHhGbUc4dlhBTy1vSFhGMmREOExCNGlzbVJYMTdCaDhGMXhNT3VFSERna2JtZVRnLThJZWxDZkNhczVF?oc=5",
+     "when": "2026-11-24 20:12",
+     "ts": 1795551127.0,
      "flag": false
     },
     {
-     "title": "Shell\u2019s ARC Deal Seen as Win for Mark Carney\u2019s Pro-Oil Pivot",
-     "source": "EnergyNow.com",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSWR2UUUyM1BNNmdwdDB1T1VicDRyVkhTdEFtRVNtbUpicW9JRU5iZW9OQ3pCR0YxZE14M2dqWUJPM2wycEFWY291UFdXNG9qZkdXSkNGbUJtbnZROExraFlOYlY3TWZkeUtJVjdNWEdEVEM1dGZ2T3JVQjFXMWFLREhQOWhyeW1FR2dXcE44aVlvZDA?oc=5",
-     "when": "2026-11-23 23:01",
-     "ts": 1795474901.0,
+     "title": "Why is Canadian Natural Resources stock up 2% today?",
+     "source": "Traders Union",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMmcwd2czY0xHdGRXSzhLX1dlcmRCMEgxZWFzOHV1UlJEaElJdVpYcFZ5TzdaRkcxOTdZbHFOM3Q5MGVPOVdjOUZvMkpIeVJsT2NyUXNUbEZqYmZ6MmJRcFJWSDBJcU1CbnQya2NrV0JHMmhJNnh1RkVsRzlxWnZYWWZvcUtHUHpCUUpJZ0hUaWZEa3hvaWc?oc=5",
+     "when": "2026-11-24 18:34",
+     "ts": 1795545274.0,
      "flag": false
     },
     {
-     "title": "Wildfires Break Out in Canada\u2019s Oil Sands Region - Energy News, Top Headlines, Commentaries, Features & Events",
-     "source": "EnergyNow.com",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnAxZDQyZDNDMlh4aTdCaUFFbnlNb0xEbkVoV09HVFZMaV9zM3hjWDEyM3dXYlNfZHk4WERpSnhMenN2eEpnNVZWMEpzbWtYZ2dIUTBIcEE1SDE2NjVkcjhUenJFS2tfU0NBaXlOMXVqdjFfR3RGZ1o3aXpjN0luQmtuY1g?oc=5",
-     "when": "2026-11-23 22:44",
-     "ts": 1795473855.0,
-     "flag": false
-    },
-    {
-     "title": "FACING SCEPTICISM: Kevin O\u2019Leary\u2019s Huge Data Center in Alberta Faces a Skeptical Public",
+     "title": "Canada\u2019s Oil Producers Target Late 2027 for Pathways Carbon Capture Decision",
      "source": "EnergyNow",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZm9SVlFwVHRhXzkycjNDbGl6Ri10TThqNlhLc3IxeThrUFlVLVhGX3ZIS1RUc1FLT284VGRNekFUTmhSRjZiZXZuVXFzWXpPYjJWZENCQlJLZF9Zb1JNZFVtM2NaUVB1cmp0VmVpbVRsUjZOaVNXa0o5N0hxWHJCX2dMbHV6TkZSOWpBMkkxSGlxd1NZd0tuMzk0TQ?oc=5",
-     "when": "2026-11-23 22:43",
-     "ts": 1795473808.0,
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV3BhSm52aExHdnhIdl9fNjFkZHlVZWpmMGoyM1JkYmZib3dabllpX0hxdGZTWDdOYkNJMGpCT0RLTXY4X0NCQVBXZGg3QmNqNkw3SW50UE5VZE94WE9ISXZrWmM1WTA2X21oZWUzT0RrVUdKdUl1YklZN011dzFYd0p2RWJrOUNzR1ZiUmNONzdxX3BHTkdRQmdwRzlwYWJKSHFQaWpzb1c?oc=5",
+     "when": "2026-11-24 17:44",
+     "ts": 1795542287.0,
+     "flag": false
+    },
+    {
+     "title": "Canadian Natural Resources Limited (TSX:CNQ): Why This Large Cap Value Stock Is Trending on the S&P/TSX Composite Index Today",
+     "source": "kalkine.ca",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZmxqNnRlLVR1cnEzVGJ0NF9SVmRCODdGa3ZrNDV6UGNZbjJvX2VjdlpCN3h0U3JaRHdRbFZKbnlhQVVNdXRVMy01NkFrMjRPU091Q3IyUFcxWkdOdWxyYlBXbjZ4b0VGUGJpZjMwQzgyVGIxZ0hScjBOUnE3VzZXS3VhcGRHUk5UcElyTjhzSV9xTVREczJSd0w4QVAwLWotUFg2R0VGTEtRVTg1WnB2b1VVV25Db2M4VzlDM2lKN01Fa2x5OGl1TkwwOXp2emdwam5zQnNUU1hpTmJ3Nkt2dkxLUXk?oc=5",
+     "when": "2026-11-24 17:13",
+     "ts": 1795540380.0,
      "flag": false
     }
    ]
@@ -437,10 +494,10 @@
    "tk": "GSK",
    "name": "GSK",
    "cur": "US$",
-   "px": 48.57,
-   "chg": 0.0128,
+   "px": 50.07,
+   "chg": 0.0309,
    "buy": 31.47,
-   "gap": -0.3521,
+   "gap": -0.3715,
    "verdict": "GREAT - wait for price",
    "what": "GSK: UK drugs + vaccines.",
    "story": "Sales +5%, guidance kept; HIV patent cliff 2028-30 being prepared for.",
@@ -448,67 +505,43 @@
    "deep": null,
    "news": [
     {
-     "title": "GSK (LSE:GSK) Secures Early FDA Approval For Nelkarmi: Is Oncology Now Its Key Catalyst?",
+     "title": "A Look at GSK PLC (GSK) After 3.1% Gain -- GF Value $46.48 vs Pr",
+     "source": "GuruFocus",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMHpmU3otS3puQVNZQjdFdWNmN0g4bjE1QlBYbWlHdHdNemFsck15LTVUWHM5Yi05dmgzclE1X2s1OGtWNEdlTFdZLTlKR1dBWmI5NERqYVZ6MlpLbDg1dFdlcUl6Rkp3Q09wallUU2lBdksyVUtINmhxNks3Mjd4QXFLWFdnMEhJWVJpaEFLaVNKMDkwQ21fQkZEalZ1NDRRWDhGYQ?oc=5",
+     "when": "2026-11-24 22:40",
+     "ts": 1795560043.0,
+     "flag": false
+    },
+    {
+     "title": "Why Is GSK (LSE:GSK) Drawing Attention This Week After Nelkarmi's Early FDA Approval?",
      "source": "Kalkine Media",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUXdtOWNrTEVySmRmRUtYYnlsTHJSSWVmV1ZpNFloZW9mLTYwNFpYWlVXTXM5dWlUN0RvZzN1UmtWU3BOb2pBRGU3bXhfdmplQ0tsbFhJdngtNG9FZWFxQlFxTktwdjN6RnBDU2IyOHVhWjJwbm5Zd2dJeGJQNmRveFM4MjJWU21YSU5UNHg4MWhDejFXVkRQb3NEbDNWWTNsY2I2QWtLeldJQkdKYk04Q09yR0FRUnRPZXluZFhFM3BDOFJKaDd1TQ?oc=5",
-     "when": "2026-11-23 07:54",
-     "ts": 1795420440.0,
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYXZuY0ZXMERneFF1bWdmNnkyS3FEWXJ3TUQtU2lDUHdGcXJBRlJCTFFxR0M0X2trSk5SQ3pBLW9mRFlHRGdnOUlBVkJTVXVFNTB6REVnR3UyRmZldUJVLTFUNTlKQzlvR3RLTHg3czA5UlprclY3djhwUHJkV2pyNDdLcG1DU1dmRk5aMHZXZDZfdkM5RHZIZ2ZKenRmbDBSRm9iX2Rhd19YcU51WUQxWkhrUXo4STNrU2dDZElIQ1N4WWhw?oc=5",
+     "when": "2026-11-24 16:44",
+     "ts": 1795538640.0,
      "flag": false
     },
     {
-     "title": "Weekly Recap: Nuvalent deal adds drugs and GSK sets trial and savings goals",
-     "source": "TradingView",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ2tZUVhVc0pFWkFWWV9icHJNVm9SVXE1aEdrejhnVFJMT1ZSbTR5VGdhQWRHU0VkMTJrS1pqNHBZVnFOZXJwOGtsbFpLUFg3cGxaOFZFV1VhZjRlY0lsUUFrVFJSR1haY3FzeW5CV2RfYzZGbUFSWkgwRjBpZFpEcFJuME4wU3piSWxCaENwYTFnZUU3X1h0d1lZWVJBejU2NnBvSWxraVNQYXlQTGh3RkVCZ2dFLTdHemlJUHVMb2pxbnhJSURXdXJPQ2dmWHNlWlE?oc=5",
-     "when": "2026-11-23 05:00",
-     "ts": 1795410000.0,
+     "title": "GSK stock: India launches BLENREP for multiple myeloma - ad-hoc-news.de",
+     "source": "ad-hoc-news.de",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNVlrM1YzWWg3SFYxeUZIZTYzNDZwa3R3QUQybmdwMjN2VFlOWG95N1R4NnpiRWxnYzFkMFZhQWFTYW9hZ1hENUFFU1VSRkoycEJudm9CVHdERDZyTTFCSVg2RjRfS0FNWVpsVkhiSVBvTW5MQWFkSHRvQmY4RlY1ZDV6aHdnSjRmQ1JDWDExcFBGSXZJVkhpWVBDdDE5ZXptZDFfYmhzMjhlSWR5TElRcGZleHR5Rm8?oc=5",
+     "when": "2026-11-24 10:48",
+     "ts": 1795517284.0,
      "flag": false
     },
     {
-     "title": "GSK (LSE:GSK) Wins EMA Panel Backing For Bexsero Booster From Age 10",
-     "source": "Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdDV0RHRhNnhwdFB3Z2J4cE1heWNWV3YxdklkRDlwQmxUWEt5WXBpQ0RkSHBsYUNyVWtocnlWaDBDZmZFVFZhdEZING5VMEdjUFRzSlFkOTQwUmFYaDN2Vl9pdEpva0lVdndYU0hIZElyTm1ybldwd29ydEM0R1RuRDJFdHhzY3Bi?oc=5",
-     "when": "2026-11-22 09:10",
-     "ts": 1795338606.0,
-     "flag": false
-    }
-   ]
-  },
-  {
-   "tk": "MLI",
-   "name": "Mueller Industries",
-   "cur": "US$",
-   "px": 52.08,
-   "chg": 0.0447,
-   "buy": 32.18,
-   "gap": -0.3821,
-   "verdict": "GREAT - wait for price",
-   "what": "Mueller: copper pipes + fittings.",
-   "story": "Sales +31% from data centers, $1.5B cash; copper squeezing margins.",
-   "src": "https://ir.muellerindustries.com/news/press-releases/detail/197/mueller-industries-inc-reports-third-quarter-2026-earnings",
-   "deep": null,
-   "news": [
-    {
-     "title": "The quiet equity rally hiding in the tap",
-     "source": "Paperjam.lu",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93M1NKeU9ieFlkMzVwanhSN0ZrMnZha1JwUlBoa2dzbE1PUWREZUJkMnNiV0F4d0Q2cS1FalFlLUZ3SW5NTXU2YWg4dElSeFRubVQyUWg4QnNCc1pKVlkydU5vakNUcFg5RjdqZXE4Z0JBQ3dV?oc=5",
-     "when": "2026-11-24 05:06",
-     "ts": 1795496777.0,
+     "title": "A More Selective UK Session Brings GSK (LSE:GSK) Into View",
+     "source": "Kalkine Media",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU2djMGg2TzRvb3d0bFBpRFVsbFVYM3l0WTI2TWpFeHVnY2s4ZWV6eUpfMzF1WG1qNGR5NFdjNWRUc0ZjU1VFTmhBOEk0elg0VlFnbkJ6SXdNa2tabTB5X2NaUTBjdkZPazNIa29yYkVQR1pFZG5jQUxKbWVMLTdlSEI2WjdaTzV6cHZpT2p5TnRCRlF6QTJWREptMk9PZ2lSdHVv?oc=5",
+     "when": "2026-11-24 09:15",
+     "ts": 1795511700.0,
      "flag": false
     },
     {
-     "title": "Ausbil Global SmallCap Fund Discloses 68-Holding Portfolio as at 30 September 2026",
-     "source": "Kalkine",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWt2WmRsOTI1N3BBV0R3STduWFRxTFVzam9ZQnctd09ZWGRndlRzRHpRSUgxUk5xQlgwdF9BNVNwWWVIV0RzRm41aWNmdjd6VUlEVExxdFRqUWR4dGxLaDRJVlFXT3VtU29keTVjWERZZmxjS1ZoaWNHeHVVUnlqT0tlZHRmMC1tTGFkdUlZQS00VVNQd2FGQW1lQy00TVBzR1pJVnZXVXcyblZqWjdSdGlDVVZuVkFsei1aQ0Z4c0J5Zw?oc=5",
-     "when": "2026-11-23 23:15",
-     "ts": 1795475701.0,
-     "flag": false
-    },
-    {
-     "title": "Understanding Asset Allocation ETFs Heading Into 2027",
-     "source": "ETF Database",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS1FoWk44WWUzQ3lXeEJEc1JmX1dGN1ViWnZicHY1MDNhRnZPZlpDcE9hdFViSktxc1p0eWpUWVNManVPQ0pieXdLcGprSEJ2dmJIR0Ezd3RSUjdKaGpReEs0SFZWT1loOUN4YjY0aUNKSm5iM2pyeTRLWWpFYjlYbmVUZ3NoOThjMUVXZzBqM2pQZUtaemdWVTI4MzZVNjQ?oc=5",
-     "when": "2026-11-23 14:28",
-     "ts": 1795444107.0,
+     "title": "GSK launches BLENREP in India for relapsed or refractory multiple myeloma",
+     "source": "ET Manufacturing",
+     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbHZiUTN6enhiMlVSOUppdkFWa19QZjlMUkRUVUVWVDhlcUNEeXE0SkRZR3Jwd1Y0T0tEOUF5aDJVUEp0eVdXZUdQaVRKbUNDVkJTbTNvWEVRc0oyVVlQZ1dJYkpEU2RMcGFLX092SUFzLXRianF1eW91VVpFRHlsdXNtS3lwU0hxNlJITHVYMXVmRHdQakJwRVJIOE81OTM3Y2Q4Zno3NFVuQ3VCdHhocTZKZkVReXFwREJoTW03SE5hcm9jcllybzVoWFZCU05oU0d1bjdkRDZIaThyMDV1dkl3ZXBGTllSclRrd0N30gHuAUFVX3lxTE1sdmJRM3p6eGIyVVI5Sml2QVZrX1BmOUxSRFRVRVZUOGVxQ0R5cTRKRFlHcnB3VjRPS0Q5QXloMlVQSnR5V1dlR1BpVEptQ0NWQlNtM29YRVFzSjJVWVBnV0liSkRTZExwYUtfT3ZJQXMtdGJqcXV5b3VVWkVEeWx1c21LeXBTSHE2UkhMdVgxdWZEd1BqQnBFUkg4TzU5MzdjZDhmejc0VW5DdUJ0eGhxNkpmRVF5cXBEQmhNbTdITmFyb2NyWXJvNWhYVkJTTmhTR3VuN2RENkhpOHIwNXV2SXdlcEZOWVJyVGt3Q3c?oc=5",
+     "when": "2026-11-24 08:05",
+     "ts": 1795507504.0,
      "flag": false
     }
    ]
@@ -517,16 +550,24 @@
    "tk": "WMS",
    "name": "Advanced Drainage Systems",
    "cur": "US$",
-   "px": 116.7,
-   "chg": 0.0502,
+   "px": 115.49,
+   "chg": -0.0104,
    "buy": 71.5,
-   "gap": -0.3873,
+   "gap": -0.3809,
    "verdict": "GREAT - wait for price",
    "what": "Plastic stormwater/drainage pipes (replacing concrete).",
    "story": "Leader with scale + recycling cost edge; construction weak, 23x earnings now.",
    "src": "https://finance.yahoo.com/markets/stocks/articles/advanced-drainage-systems-announces-second-114000589.html",
    "deep": null,
    "news": [
+    {
+     "title": "Ottawa family, Findlay company awarded for water stewardship",
+     "source": "LimaOhio.com",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLWt0LVFZelZrR3NGV2Q5bW9naHozTTFHeHc2c1hZSnZSQ1Nhai1fT0hIS2RWX1VieGZjVHU5dEk1M2NEQ2ZGQmpwZVBtZ3E4RmlneEJVSVQtalN4dzdyZmpCQUdDcm9OX0VXQWFrdC1WMkdLMWcxMmZzVk1MWVdPYzk1SGtZWmxBd3U1Q2d6bDlYSS1FSVJZOGQ0UTFtaFVQN09KZU1nOTdnS3BX?oc=5",
+     "when": "2026-11-24 23:00",
+     "ts": 1795561200.0,
+     "flag": false
+    },
     {
      "title": "Virtus KAR Mid-Cap Core Fund Q3 2026 Commentary (VIMCX)",
      "source": "Seeking Alpha",
@@ -546,13 +587,69 @@
    ]
   },
   {
+   "tk": "MLI",
+   "name": "Mueller Industries",
+   "cur": "US$",
+   "px": 52.63,
+   "chg": 0.0106,
+   "buy": 32.18,
+   "gap": -0.3886,
+   "verdict": "GREAT - wait for price",
+   "what": "Mueller: copper pipes + fittings.",
+   "story": "Sales +31% from data centers, $1.5B cash; copper squeezing margins.",
+   "src": "https://ir.muellerindustries.com/news/press-releases/detail/197/mueller-industries-inc-reports-third-quarter-2026-earnings",
+   "deep": null,
+   "news": [
+    {
+     "title": "ATI (ATI) Stock Is Down 6.2% Today Without Company News",
+     "source": "GuruFocus",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdzY4amdsSlR4QlZRYnFieTNaS3ZlT3Vvcmt4bWFHT29WT0NTZjFNU3RCczhsNFlobVM3S2ZyaVdraU01Sl9GalNDT2JTb3BNSy1oSWVHb09oai1XclF3RzdPdWRPZWEtUHF1NE5VdENoc3B0RmFlMzU5N3VzWDJaSW13a1Zsd21SMmdXTDQxWGRoUUpi?oc=5",
+     "when": "2026-11-24 21:22",
+     "ts": 1795555350.0,
+     "flag": false
+    },
+    {
+     "title": "Mueller Industries (MLI) Stock Looks Below Fair Value As Its 294% Run Slows",
+     "source": "Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUVZpZk5WWTgwTWdwR3NCWFNoRkJGZEVoT2F2dkV6WjVWWmxROC1LOW5aYzZHVVRlejFOeU5pRkpwVHltMGp5eXlfMzNOakRVUXlndEl0al9hOGI4WkZMWWQ5Skx4SklUT1BIa3JfOTRZR3VVeGhhaFNtclNTb3dpcW4tN0JwV3V0dUh1Ti1MSDNyT2R4Z010SkRHMjBsRUhr?oc=5",
+     "when": "2026-11-24 08:13",
+     "ts": 1795507984.0,
+     "flag": false
+    },
+    {
+     "title": "Ten Brass Valve Manufacturers Ranked for Global Water and Gas Buyers",
+     "source": "The Des Moines Register",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdkZ3RWF5MTBibG96YnBxTDVlSlczLWx1V1FvOHJMQ0JnVlJ0NGhjY1RGQUpDMU1GMjljYnNLalJvTTRuTXlMbzh4YWM2cXozYnJ6QVFDQS1SRnJqUmRKOFlTbVFnNWxlTzhTR0FXajVya3pvX1lwU0p6R2trdHExeEFzRUgteWQyQ2xUNVJQdWNxQ0dWeHE0NThzbTF6dzZySWZPYW5wQzV6NkdJSjN3VEY0eUZJeF8waVQ5Y1hjaS1xeHZjNWlQU3FB?oc=5",
+     "when": "2026-11-24 08:01",
+     "ts": 1795507263.0,
+     "flag": false
+    },
+    {
+     "title": "The quiet equity rally hiding in the tap",
+     "source": "Paperjam.lu",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93M1NKeU9ieFlkMzVwanhSN0ZrMnZha1JwUlBoa2dzbE1PUWREZUJkMnNiV0F4d0Q2cS1FalFlLUZ3SW5NTXU2YWg4dElSeFRubVQyUWg4QnNCc1pKVlkydU5vakNUcFg5RjdqZXE4Z0JBQ3dV?oc=5",
+     "when": "2026-11-24 05:06",
+     "ts": 1795496777.0,
+     "flag": false
+    },
+    {
+     "title": "Ausbil Global SmallCap Fund Discloses 68-Holding Portfolio as at 30 September 2026",
+     "source": "Kalkine",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWt2WmRsOTI1N3BBV0R3STduWFRxTFVzam9ZQnctd09ZWGRndlRzRHpRSUgxUk5xQlgwdF9BNVNwWWVIV0RzRm41aWNmdjd6VUlEVExxdFRqUWR4dGxLaDRJVlFXT3VtU29keTVjWERZZmxjS1ZoaWNHeHVVUnlqT0tlZHRmMC1tTGFkdUlZQS00VVNQd2FGQW1lQy00TVBzR1pJVnZXVXcyblZqWjdSdGlDVVZuVkFsei1aQ0Z4c0J5Zw?oc=5",
+     "when": "2026-11-23 23:15",
+     "ts": 1795475701.0,
+     "flag": false
+    }
+   ]
+  },
+  {
    "tk": "INTU",
    "name": "Intuit",
    "cur": "US$",
-   "px": 275.46,
-   "chg": 0.0075,
+   "px": 279.42,
+   "chg": 0.0161,
    "buy": 159.3,
-   "gap": -0.4217,
+   "gap": -0.4299,
    "verdict": "GREAT - wait for price",
    "what": "Intuit: TurboTax, QuickBooks, Credit Karma.",
    "story": "Revenue +14% to $20B; AI-agent disruption fear is the key watch item.",
@@ -563,40 +660,40 @@
      "title": "Intuit Selling Mailchimp for $3.68 Billion to Berkshire Hathaway-Backed Bending Spoons",
      "source": "WSJ",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUFlmLXRMU01PMnc0NWFXWXhPck5ad1pSR2xQMUdlTEhvam9pZmdXamg4eFlqaktJX2RvZWtYVjR5ZW9Xd0IxdHNSNHdBeHpnQkhQVjBvVzVLSjM0Y2d1Ukg5SS03V0hxV2hzRWptTTJFTEJqeGcyekZUQjVhdjJxRC1wcHNUeUR1N19fMEkzYTc3UQ?oc=5",
-     "when": "2026-11-24 03:38",
-     "ts": 1795491519.0,
+     "when": "2026-11-24 23:08",
+     "ts": 1795561723.0,
      "flag": false
     },
     {
-     "title": "Upstart Is the Real Loser in Intuit\u2019s Credit Karma Guidance Cut",
-     "source": "Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNjdUYW0xSExRVjVyOVlqbEM2Q2ZWMmw3S0xuN2k5UTNpM01kQVJQb296RUhxX1h1YWJIUTQxZV8xMVRWQW9GNWhVS24zQ294Mk9PRXRka3B4d1RPU3d2NnctNmZoOEZxWkxDYTA2RVZFOTMtTUZ2RmVmSUFncDZFVmtoWUZNTFZDZjBXTnVWc2lBRHNRYVlsT1hCQ3JSZw?oc=5",
-     "when": "2026-11-24 00:50",
-     "ts": 1795481400.0,
-     "flag": false
-    },
-    {
-     "title": "Salt-N-Pepa at the Intuit Dome, Inglewood, CA",
-     "source": "Music Connection Magazine",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUW5saHRPY1ZMU3JNSnMzYlR4TEktZlFVS2VBMk1qajlsQ1J4Z0NnbG9PSm1LYjlTWFE4ZHNMTlhKTklFMzlRZHVxWHRnVlZRYmF0Y0lQNndZVWk0R1dfQkZTdWhyRzk4VXItTnh2dl9tM3NqckE1Y25BWTI2MVU4WUln?oc=5",
-     "when": "2026-11-23 22:41",
-     "ts": 1795473677.0,
-     "flag": false
-    },
-    {
-     "title": "Can Intuit (NASDAQ:INTU) Turn Portfolio Changes Into Stronger Business Growth?",
-     "source": "Kalkine Media",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLVlYRi14WlJBMU1rRXFfR0VvSjJWc25QVjROZDZ4Z09lM3RIX0JXaEN1Z2R0RldUN2hwc2VwS0trRDdzekctZGJqSmRPaFBDQjd3MVZQYUJnME9nQUkxN3h6a3ZvSmUzZnRfelYwbkNHd1BWeVR5eTlXODhZOGtsRklOTU9Zam1CYjBWN0JZcEwydFJhdE9JSjhGalZDM2RBMUtNNi1VOGpFSW92eldtSnV4cFZuRlpDMjk0aw?oc=5",
-     "when": "2026-11-23 21:45",
-     "ts": 1795470300.0,
-     "flag": false
-    },
-    {
-     "title": "Intuit Inc. stock rises Monday, still underperforms market",
+     "title": "Intuit Inc. stock underperforms Tuesday when compared to competitors despite daily gains",
      "source": "MarketWatch",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTWdSdWdIbFIyRU1STGVoSWNBRHRlMFdXdjBOa095RGNkcDdkeW1ISDVWd1hzbTRPeWJiT3ZFdFE1b3pBd1JwMmRJbTEyWDk4ZERJQUE3ODhhYmhvMXc2TVAwdTJHT3ZCMWhIT0RjUllLNkRHN2pYd0pLNHFwbV9TeUdhN2RhV2FhT0ZLYks4VG5TVldVSklxaHhhRW9QRWdHdkJOQ3BNdXdlcnVldjZkcFlGYjFFNUxtY19uLUROMG8zelNIU2NJNDEtTXYxQkk?oc=5",
-     "when": "2026-11-23 21:44",
-     "ts": 1795470240.0,
+     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNamFXLUVkc3hBWTlJUEJ6THFXVVM3V1lqNk5yU3NOX2hiY2ZFSGpJUE9xN3g5aXVFSl95V3FrdXBuMU5vUFhpRFVBaU5yYUxtNzcteUdSY3M0V2ZqeVR4SXdlS2F2SHZ1VlRzbkY4cmN2TnZ1WHR1cDJ3MVBjQ25hSlhuQzYycjNKOU1ZUXlKMWllR0M2NU9DSUlMcjV4UEdjX1VBS2d0ZXJrYjNfYXFNMl9YeDVHTjJkZFBoS1ZWWkJMdWJIVWpJaFlNTzF0bWpfd2trVlhfOXFoOGotUmhrRnlVNTFQMkRkWEVRNEpTb05xT0RjY2RDNQ?oc=5",
+     "when": "2026-11-24 21:44",
+     "ts": 1795556640.0,
+     "flag": false
+    },
+    {
+     "title": "Intuit CFO Sandeep Aujla to Present at the UBS Global Technology and AI Conference",
+     "source": "StreetInsider",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWk5sWkRyYU5lc3JheDBTelNNLWJEYlVBX0Z1M01sczExbHNiSVJ2VjVHTW1rbVZKbzVSd0RFT1F1V2FlT1JCVnN2Q2Jzb3d0MnVicUZ6NG5mVWJpTVJMM1BaNk8xSS1IVng2ZFo1VHlxaWRES1NCZWFRUUNJWi1LbUpnemZzR0FEdnFXYlFJeWZMeW90RDRtY002NUFFTUVaeGRJY3VaNlF2d08wWnlacDJnQmh6X3ZtTDhsQ24xZHZwQjlyMHFlLWlWanoxSF8yVzJuaVpVNA?oc=5",
+     "when": "2026-11-24 21:02",
+     "ts": 1795554160.0,
+     "flag": false
+    },
+    {
+     "title": "Intuit CFO Sandeep Aujla to Present at the UBS Global Technology and AI Conference",
+     "source": "Business Wire",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTTZpdTRGWW0tXzRhaUlTb0wwakpyR3NQU1pkbU94aVo1aDdlXzh6aEtvWEdkaUJlYWtsUkVHazQ5eWFybEV6dmt4N3UzSXhFQ3NRMHlHcHhmTUNJOU9KUWY2b0h3V3lfMHNYWGJGcDFXbG8tdmFnS01CMl93UC1WekN2OTdYUDZpcTdtaDNDREc1X0ZIcHVpMzRXay10YVZONmdZa2pXY21LYndtMU1tYzEzMHh5d2RudjBhc3hKcS1MS0NUY05Xa2tRM3VROXNlYmpPY3ln?oc=5",
+     "when": "2026-11-24 21:00",
+     "ts": 1795554000.0,
+     "flag": false
+    },
+    {
+     "title": "Intuit and Palo Alto Networks face off as top s...",
+     "source": "Pluang",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQXRlNkVxR2x2aGtJbVpkc0sxMlE0LTFpSXF3c2k3RkdQU1BMeEltN21DWTBFR1Y2eVQ3T09PSmxXR0wyOHVoRlV3VzJ5TFRDWXpSTjdYcmczTUg4Z2dkLXFMLW5uU1RCOFluZVBSMHI1Und4RTZrQVVrVS1XcGJrRzZQZlMyQmpEa3ZhQjJ2WnhDOUhJMHc1bzZR?oc=5",
+     "when": "2026-11-24 19:20",
+     "ts": 1795548005.0,
      "flag": false
     }
    ]
@@ -605,10 +702,10 @@
    "tk": "CM.TO",
    "name": "CIBC",
    "cur": "C$",
-   "px": 151.48,
-   "chg": 0.0255,
+   "px": 150.93,
+   "chg": -0.0057,
    "buy": 81.57,
-   "gap": -0.4615,
+   "gap": -0.4596,
    "verdict": "GREAT - wait for price",
    "what": "CIBC: Big-5 Canadian bank.",
    "story": "EPS +26%, ROE 16.8%; most exposed to Canadian mortgage renewals. Wait for a credit scare.",
@@ -616,43 +713,43 @@
    "deep": null,
    "news": [
     {
-     "title": "Sienna Senior Living Issues $250M Debentures",
-     "source": "Wisevoter",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSEdKNExWd0lOazFuc1FZX3Ywa1FSdk5WaEZSMVVxWmJhN2RidGNNd1VuVVpWemZGWG5XczhQUWpRWjFYTVRaRHlGNkZCbDBPcm13UUZnOTFpV0ljU2xBVGJOcGFfSkN5M1RCSUJSX041LTV2X0JKNU5pbm16aHhJMlVxVDBiVXE1VnVkRTRKWEttaWxP?oc=5",
-     "when": "2026-11-24 03:58",
-     "ts": 1795492718.0,
+     "title": "Canadian Imperial Bank of Commerce stock: CIBC plans Abu Dhabi office - ad-hoc-news.de",
+     "source": "ad-hoc-news.de",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSG9Ua2tmaFgySC1RQzRaT3RLYkpFSW9KejJ5QWZhYmt3MmhUM1hINmc2UUJhQTBhYkU0b0gwX1lwTzBpdXNOejJicDFrQUZlLXFOSk9SM2VDakpRa0NaVDFseE5VREY1eFhXNTlodzVRTzNScEZzVjlPcV96UjVVcC1LdmY3OGR5TmFzcGVqNmh4Ylk1M1ZtRERwc0wtRmZKODRjUmVCdzBqcWFWV25Yalp5TFplTzF0MUlnajFtODNjaXRneVo4aUY2dw?oc=5",
+     "when": "2026-11-24 21:17",
+     "ts": 1795555045.0,
      "flag": false
     },
     {
-     "title": "17 Financial Services Companies in Chicago to Know",
-     "source": "Built In Chicago",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYlc1Z0xXdFBkS0JnZXBKWFBHSUlIZzY2dUd1VUpfbGJ2Qkk2MlNaZzFhN2JURTVuZUxEcV9FcEcyUHNmWWpOcl9sZUR1eXZpbW1keEVOWWJrQ2NsQ084bXBZOXJaTXIzV1ZfSUZtSUFkMWExTWFOb2pCR3QxNmRZNVF3?oc=5",
-     "when": "2026-11-24 01:10",
-     "ts": 1795482656.0,
+     "title": "CIBC flags December rate hike as Macklem doubles down on inflation concerns",
+     "source": "Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPejNpWG9sVEw1eE0xb0UybTBnNFZaakEtR0I1TmFBR081T1BXU2ZsNEM0ci1kX2ZZWTQxYWdraW5qcGtOMUh4QmxJQ3YxUng4MFlhdk96bEFJSVZneE5aRnpHNWtSRXhTVHB5VkcxZmJFTDdoNzVNczdHdHd2UGRKRlA0b2U1dDNLNGlZYnYzYUtHYjh6TEY5eUt1Y2dLb1VzdWgyWmx5cENtRmhZR3hrbjA3eWtKRlRCaFlGcFJXc2RrOTg0dHc?oc=5",
+     "when": "2026-11-24 19:57",
+     "ts": 1795550254.0,
      "flag": false
     },
     {
-     "title": "CIBC Caribbean Introduces Sip for the Cure",
-     "source": "Magnetic Media",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSGl3OUY5QWZtMkJSTlU0SmxVaUZJR3RabVVhbkI5ZUJScU5XczM3Rld5dnp1d2F2QjMtcC1jNHJYcHB3YTZfZmN5aDN5bm9sSjJiOW10LXU5aUpBTzNUZWVoMzRfUllGYTI1a2liMVdGX0RqMFdvN0VCUXJFTnk0akFOX0V4SmJrNWlOSjNR0gGOAUFVX3lxTE1IaXc5RjlBZm0yQlJOVTRKbFVpRklHdFptVWFuQjllQlJxTldzMzdGV3l2enV3YXZCMy1wLWM0clhwcHdhNl9mY3loM3lub2xKMmI5bXQtdTlpSkFPM1RlZWgzNF9SWUZhMjVraWIxV0ZfRGowV283RUJRckVOeTRqQU5fRXhKYms1aU5KM1E?oc=5",
-     "when": "2026-11-24 01:06",
-     "ts": 1795482366.0,
-     "flag": false
-    },
-    {
-     "title": "Canadian Analyst Updates: November 23rd, 2026",
+     "title": "Canadian Analyst Ratings Updates: November 24, 2026",
      "source": "The Globe and Mail",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNS05MXJmZ0hLa2dBenN3TzNrNHZKbVRpN3dnTWpiQklzTG85cnh6bXROejZiakhnT19ISTlCZU9tZlhuVEFKSmxocGZIRkNsOTBGTEJmZzNYNlhpd0d1MjFMUk9iNlQ1ZE4wd29HTmRrRjRPaFd0RVJ3MmlBbVFnWldDVU5SSl9IXzg5TUZzMlNjNVoxZEU2a3pyU2FrV2lKRkxrN0FqazYxSE5yMVZwdlY5am5vS0lNZ3hpZDFjRFdyclhJUFE?oc=5",
-     "when": "2026-11-24 00:33",
-     "ts": 1795480425.0,
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNU3ZFWGZONExFY1ZyeTI4cFRsamxlUVdyRUhlUmNvT2Rlek00M2RINW1COElaNDgzMkVhT0NXRFpZOWpsZkVWNTVpbFZWWWMxa2ZpMTVmamJyQXM4YmxhVV9wdUlCZk9YVXUyM0pwVWtVeWJMS0NJdDNDcVUzam9ySncwbVpDZVlUMXVIS1kzMXU0Z2REWnA5TUZEREZpRkRldVRvcVJiWUdsQmF0UVphanl5Y21GWENuN2dKN1NWQUI3eTRaWmhyZS1namplb3ZM?oc=5",
+     "when": "2026-11-24 19:24",
+     "ts": 1795548290.0,
      "flag": false
     },
     {
-     "title": "NTB: Butterfield sells $600M subordinated notes to fund CIBC...",
-     "source": "Quantisnow",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbld3Q0JRb2tMdm9JcThVMUFRLWxQSU1aQlQ2TTk4V0FaRmkyWEtubm1vZF9QYllnOTRzZUFSWEJaVXhJZkJBS0xuaWo0UHlDMUowX3NsUDUwanJnUUVlbGFjbFBJczVQRUZyb3I2SDRDZkJma19JR2ljbTcwYjdCRHQ1c2R1enhtMWVJeDdNbTZramp3VHQtMw?oc=5",
-     "when": "2026-11-23 21:55",
-     "ts": 1795470945.0,
+     "title": "Alberta natural gas act a potential risk to TC Energy\u2019s NGTL growth plans: CIBC analysts",
+     "source": "Global News",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdDdscElCX2tIVTQ3YnBEajhSYnQ3OFotTUdWTk9rRVJHenpGVmVhWDBEM3ZFcmZsOWVqMTlud1lXT0hmYmVqenE5WWpkOUpFSUtqMkRDWjg0WkpOQm5sbXlBY2J0UXc2WkVlNE16Vkp2UFdGR2x3V3l6TXF0UUJFbV9Sd19FVVpuSnZnb2tyNlRMdGN0a21FYWd4aVg?oc=5",
+     "when": "2026-11-24 18:39",
+     "ts": 1795545557.0,
+     "flag": false
+    },
+    {
+     "title": "Rubrik, Inc. Class A (RBRK) Receives a Buy from CIBC",
+     "source": "The Globe and Mail",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb3ZZUzBpQnFvWkZYUDFDSTctNnhSeXk4WnVoOF9ROEhNaW5rakdRbWZsX0lGaTJORkNKbkhGSEhudy1tdHBPUWRSNDZGbDFqYTVTNWhVY09RV1BjbnU2ZHp4TTRJS0FHRGc4Wmt1Z21VdE8yOEN2a09oTmwzeVJoRE5nX2NTaWtkR1ZVN0liQVR1a2JLTDJCNEVYaUV2RVo2R1JSTzBKQWFhT0FGRjhlNlROZEhDTFBUQTVHR0g5TVd4VnV6c1I2UWd4cWNYSG5B?oc=5",
+     "when": "2026-11-24 18:06",
+     "ts": 1795543585.0,
      "flag": false
     }
    ]
@@ -661,10 +758,10 @@
    "tk": "LOGI",
    "name": "Logitech",
    "cur": "US$",
-   "px": 100.37,
-   "chg": 0.0325,
+   "px": 100.16,
+   "chg": -0.0021,
    "buy": 51.02,
-   "gap": -0.4917,
+   "gap": -0.4906,
    "verdict": "GREAT - wait for price",
    "what": "Logitech: mice, keyboards, webcams.",
    "story": "11 straight growth quarters, almost no debt; supplier outage temporary.",
@@ -672,43 +769,43 @@
    "deep": null,
    "news": [
     {
-     "title": "Early Black Friday steals: 10 tech deals under $25, at or near all-time lows",
-     "source": "PCWorld",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3JlQ2JwZERSV3ZYZFl2bTBWS0ZXTWYtb2hZU1FJQURPeW5rX3RhYThvQXd3ZWgxQTdSWVE0S0xUektaV0p0LVQwSk5MT0pRd0xfcmtOS2RlZkZTZVBNZkx1TEdSa05YX0FaVjJkSkRRY0EyczhLM3VSZ2VtT3o5bF9FcTR1Rldob2NTNkpYOThQckU?oc=5",
-     "when": "2026-11-24 04:42",
-     "ts": 1795495348.0,
+     "title": "Logitech G champions gaming as valid experience for the resume",
+     "source": "Foro3D",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnN0cGhSLXdVZDJCTXI1ZzJrZGdhRGNxS0gxaEZwdlRuR3dQX0VYR1BiTzVtLVFRa0lGNXNFdGZlLU1QSF9WSDJULUVISlloZ0NTTjdXa2NrQnhzTGYxc3VXRGxxdE8zVFZKeDF4Y2ZXWUplMmVFTGkwMjRoWUFXODZHbE1rLUVuVnFVdUFrbU96ZVNhd0lhRnBIZzBBV3FneGtKaTNYa0Q3b3dsSkxSa19R?oc=5",
+     "when": "2026-11-24 20:07",
+     "ts": 1795550821.0,
      "flag": false
     },
     {
-     "title": "13 killer early Black Friday deals on tech accessories you actually need",
-     "source": "PCWorld",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUGd1REhZWlFocHhzUGZRYnc3SXREaDQ1S1lmTWVLcU5iaTROdjh6a0ZfN0xyMU1uRlRCSzBFR05EZV9KaU9FSzF1Qzg4RFJEZWg5ZG4wa1FUU2F5MHdsalMwQzI3UzJSTnlFa2lFMUtDeUZpd0kxeTI0ZWNLWVQxUFEyaVlNay1qNi1OeUVjYnNHUTVaWktWWWFqZXQ?oc=5",
-     "when": "2026-11-24 04:28",
-     "ts": 1795494523.0,
+     "title": "Logitech MX Keys S Mac combo is $161.49, $38.50 off and $96 under Apple\u2019s pair",
+     "source": "The Mac Observer",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15STBZNF9SUW43NFY4QWQweWhOYTVJdXg2ZmFrSE03T21jT0lfV0FJOVJ6d19UT1pNa3g5bU1MMkRzY3d3WVlTbzdJZ2l0TTJYUTdDb1AtVmtWSGtiSEs5V0ZCZDJfVkRLMllEQUZ4R0tGMGtYcmctY2kyZ1E?oc=5",
+     "when": "2026-11-24 18:11",
+     "ts": 1795543906.0,
      "flag": false
     },
     {
-     "title": "Amazon offers 3 headphone deals starting at $63.99",
-     "source": "Technobezz",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTzNYdTdVNjFIaEUyanRDQUNTak94SHpGVzctVWtkR2FDTUNNNHM2SW5BZ0lYRnhkcTFCaWdNeGM2RVgtc2RtbVhmVVNPb1JGYUlVeC1fUTdsZ1JvUE9ZR011UmlYallXZjZEQkh5RHliV2lVNGtfZXZCNXAyNzFSNy1NUDNhY3hP?oc=5",
-     "when": "2026-11-24 03:39",
-     "ts": 1795491554.0,
+     "title": "Logitech\u2019s G325 LIGHTSPEED wireless headset gives your gaming setup a clean look, now $64",
+     "source": "9to5Toys",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qUUw5TVNTNlNnWlNQbUtpOElObW5vY25DSl9YZUd1UlA1RUxiU3FSZHNlcUR5aDR2T1dzSjRoaFZ4ZWJEbHY2cVRJbnZkOFpNSXdlTnZDOXRweGJST21pN0UwaW5jLXlPVlNuV0tmYzZNaThFbGpOam5qcC1pSGc?oc=5",
+     "when": "2026-11-24 17:43",
+     "ts": 1795542180.0,
      "flag": false
     },
     {
-     "title": "The 6 Best Gaming Headsets - Black Friday 2026",
-     "source": "RTINGS.com",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wajd4UVBadzFfRUlmUXVDTUwxaWNLa3NsVGxUSG5uSmxYdDlkWHJXVnJnYmwta3M2cmFRZDhLOFRGYVB1ZGpRS2RVS1dhbjdoOWs5NTJzZkViVzJHUE5WWjFScDlFWjNsa1hDNC1vWQ?oc=5",
-     "when": "2026-11-24 03:02",
-     "ts": 1795489366.0,
+     "title": "I've daily-driven both of these Logitech ergo mice, and I'd happily recommend either at this price",
+     "source": "PC Gamer",
+     "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQeGhHQjhsWWt3Z0VUa0tQTndUQmtfYmltSDRmczUwX204QnJHQVdjbGRkSUhXNDJ1T2lXWDlGUC1fdmk3WTFvRE4zUUxnOWROMnU2TFhvWUdYcHJWNDN1R3JjUWpxYzdNeE1DX21TVzlkbDlkTDhNa2lzcm1IV29GN1FsalVJWXF4cWlJRnhvcHo2UVF2TEtHT1JPNUVjSUk0R2ZCRFNLVl9qOGtuTDdDckNPOW82VTFSckVZVFNvU2d2c2VlSl9LVlJxd2Fib0d0dnlGLV9MT1dJdUtuMGM4ckdMNzJUMHBqYVlKencyMXdIdEpYRWtneVZlODFMOXBwR0NJNEhwTEpsWHBsM2NZS3VVT1M?oc=5",
+     "when": "2026-11-24 16:31",
+     "ts": 1795537894.0,
      "flag": false
     },
     {
-     "title": "The 6 Best 75% Keyboards - Black Friday 2026",
-     "source": "RTINGS.com",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ueXJOTXViWm1Ja0I5VWVJcFpJa295V1k3bV9paXJHUzBFeVRpMDJobzhZRDlQdlJQSVF4aWVoLU9uYkkxUDdNTHdUOC1RU3R1Mnc5ejN3RUdBQjdrSjNCN0JiNFRodw?oc=5",
-     "when": "2026-11-24 02:28",
-     "ts": 1795487289.0,
+     "title": "Ready to Race? Our Favorite Beginner Sim Racing Wheel Is 29% Off for Black Friday",
+     "source": "Road & Track",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjJlUEthY0dCZEllQWhWWUxmUjktUWN2bkVOYkcyUUwtWmVZX3NDQ25WRmVER2dhd1B5eTVXclBuNHlQRy0yQ3g1UERBU29pYjhVN2FtcDVoNXdtMkZCMXlGcHVEb25BXzZPd0tKbE5qRk45TUxCb1JFQ1k0dU0xS0hMMnAwNlB2T2lrMnZMSzFIWVE?oc=5",
+     "when": "2026-11-24 16:14",
+     "ts": 1795536840.0,
      "flag": false
     }
    ]
@@ -717,10 +814,10 @@
    "tk": "RY.TO",
    "name": "Royal Bank of Canada",
    "cur": "C$",
-   "px": 270.29,
-   "chg": 0.0267,
+   "px": 269.64,
+   "chg": -0.0037,
    "buy": 136.44,
-   "gap": -0.4952,
+   "gap": -0.494,
    "verdict": "GREAT - wait for price",
    "what": "Royal Bank of Canada.",
    "story": "Record profit C$6.0B, dividend +14%; bad loans creeping up.",
@@ -728,43 +825,43 @@
    "deep": null,
    "news": [
     {
-     "title": "Toronto Dominion Bank (The) (TD) Stock Forecasts",
-     "source": "Yahoo! Finance Canada",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSDFiS1RNQTNSLU9SOG91cEhLR0JDQTZPRHd1ZnNOMENwZDhvNWdySkozd1BIaVFWVkk4eG9vY2lzWTlHVVdvV2REUFByUTBWczJwYlZZTmlFV1hfcEQzTFlieWF5Vl9TYy00OFNvNjl2VE0xclBmZWk2bVhjOU1oYVRndVlSakdQVlJHT2JqVzBhLWVa?oc=5",
-     "when": "2026-11-24 03:29",
-     "ts": 1795490999.0,
+     "title": "Canadian Analyst Ratings Updates: November 24, 2026",
+     "source": "The Globe and Mail",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZTJjOUpDSlQ4aERjRWpub01UZldGNDRicTJZalo3bGtRM05ScFVKZXlTOFpIek9ZeHdaa0xONEpKellMWG4tNmR1QUI1cjVtV2NIdHhEZERkQ0FJSlV0dERtcVV2NlF2Z0c0elVIZ1BTXzZucmFOVElWNTZYNzRHb1BlNHFFMnRGeEMxLTI0VUF3a3ZaclNkTTZSNkUzVUJ0ZzFLX0NSM1lFSXJVU2dMZkE2U1FxQ0QtdEphcjl4aFVub1I2Tmh5YzBZaGdEc2s?oc=5",
+     "when": "2026-11-24 21:42",
+     "ts": 1795556560.0,
      "flag": false
     },
     {
-     "title": "Best GIC Rates in Canada",
-     "source": "NerdWallet",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0eEZ3WjU5SzFOTDlVVzNDcU4tQTdyUG8xQXFmbU45UDZjdmMtR0tpa0tnVWR5S3ZkM0JKdldaUTJUb3VHWXAwNWw4MEdNQWRqYW1GRGUxMlN6Zk9GbU12aVZrRnlmeXJkcFl2a2x3QlNNWnV0ejU4TQ?oc=5",
-     "when": "2026-11-24 03:24",
-     "ts": 1795490695.0,
+     "title": "Financial Focus: Royal Bank of Canada (TSX:RY) \u2014 S&P/TSX Composite Large Cap Value Stock in Focus After Fresh Corporate News",
+     "source": "kalkine.ca",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNEF5dnhBY1RSeUhlYVNua2pmbXV3VnV1OEpTd2xTRjJhRW9jSm0tc1lkUXoxZTN3aFUyQTdadS14Q0ZKX2daU2tCbnlLN3dGU0NjUlNkaFg4RFREdHk0bUZOd21YbFAyWnlMVXZYdFg5bkRtaDFRSUlnS29JMXlKU2lFRTdJR1FsYUFSNFRxYnplR2F4M096QU04LVdzMGQ5STNLOUJHUUFxRk1NVlBjTGtHZVk1VERoSmRIMzlObE9JQVNMQ3BnbnFTVHQ4aVBrTFRSQkJSUmRXSU5VenpuQWVybFE?oc=5",
+     "when": "2026-11-24 17:11",
+     "ts": 1795540260.0,
      "flag": false
     },
     {
-     "title": "Canadian Imperial Bank of Comme (CM) Stock Forecasts",
-     "source": "Yahoo! Finance Canada",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWl9XRXZkQW9hYjRuaUd0SEIySURES21GUE5iQ1ZBeWxfN1h1MG1oUDBsbG90RVB4NTNkTzBOV3RJTmxuQ05DbUxPTEdUR0RwM3I5ZjllNVFYeXJnUUhjekdtWGk2eXF4bFI3eEE3NE5BT2Y4Z040ZEx6elVVQXpuMnhWNnRobnBuXzBnWjVrVkM?oc=5",
-     "when": "2026-11-23 21:42",
-     "ts": 1795470135.0,
+     "title": "Form 424B2 ROYAL BANK OF CANADA",
+     "source": "StreetInsider",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeGNwMkFXSWZZRW1GdmZzY3hwbWMxTHFkQUdiQ1ZSUGVNLTVneXN4Q1lpOFR3THJSVXh5cFdEYWlndnBBU2QyLXM3RkhZRGJXb2J4ZHFzTEZYT3UwdkcyRVBKOG9JTlB1dDdXU2JKTkFwUWlWelk0QVZMUHBhcDk4VmRUN3gzeVl5Tmpmd3k1OG0?oc=5",
+     "when": "2026-11-24 16:55",
+     "ts": 1795539347.0,
      "flag": false
     },
     {
-     "title": "Royal Bank of Canada Stock (RY) Moved Up by 3.28% on Nov 23: What Signal Does It Send?",
-     "source": "TradingKey",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPblpHU1lBX0RQeHhkMHJZcTBXWWFVT0dnVFEwb3JNZ1EwMVBpRENCSDhnMFNrMkxLcW9SOV9VZDJKUmphSWpyZUJyYVh2YmF6WmQwV2hUM1B3NXhObXF1WkRmbTRoRGNSV3BHRHAyMDZiQVlSa3Jpd1paTV9YRjVOTWJjWUVfYkcz?oc=5",
-     "when": "2026-11-23 19:16",
-     "ts": 1795461370.0,
+     "title": "Form 424B2 ROYAL BANK OF CANADA",
+     "source": "StreetInsider",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVNoRWNhV2dVQWthX1ZSMGRWTnZnaTdXRTlVNHBxX2Nad0ZzVVdteHZxTkRzT1JJLWxGeEhkTFF5OUl2S2hWeDVlWGdsb3dGal95UWh5QTREMlg2ZnN4ekJkYnQzV04yV1lSQktpTDVXRjVNN0FQcTNSbHFsRU5aUGFFY1hocmpqdlhua2ZFbmFObFdYbi1NVQ?oc=5",
+     "when": "2026-11-24 16:22",
+     "ts": 1795537329.0,
      "flag": false
     },
     {
-     "title": "Best SME Banks 2027 | North America",
-     "source": "Global Finance Magazine",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oRFVGLWVjOTh4QnBrLUlRSXphekNMU3F5ekl6VnIzYlYtN2dtRlVDaldRQzc0VWRuUUZxTVQ2RmhKVmd6TFloMDVJTWNxc0V1UXFjNk5ReUlvZHJOWmpfTGNwdndWREYwaVhaT1M4Y2t1Q0tUVndxbS1zYUo?oc=5",
-     "when": "2026-11-23 18:44",
-     "ts": 1795459471.0,
+     "title": "Royal Bank of Canada stock: Scotia raises target to C$313 - ad-hoc-news.de",
+     "source": "ad-hoc-news.de",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN0FEOHl6YWhoOW1IeDBJQUVRUHQ2OGdaN3FJOXZOSkdveXdhQ1VGZUZzOG1aLVBtT29aSnNNanF2Tk9lOEtRb1p2ZDY4NGpLYlpHcklWbWNGTGtxX0IzUF81YUdGd0xhNUtNc1JNUWdGcEpmcXFiUlZJQW91akZXNDU2QXBtbVRWUkpad2xxaWdCbk1jZVF2Y0N3aERmSzdwSktLbzJERDQyUkZodUxOaFpKaXhqYU9fdUNN?oc=5",
+     "when": "2026-11-24 16:20",
+     "ts": 1795537203.0,
      "flag": false
     }
    ]
@@ -773,16 +870,32 @@
    "tk": "YUMC",
    "name": "Yum China",
    "cur": "US$",
-   "px": 50.8,
-   "chg": 0.0199,
+   "px": 51.71,
+   "chg": 0.0179,
    "buy": 25.55,
-   "gap": -0.497,
+   "gap": -0.5059,
    "verdict": "GREAT - wait for price",
    "what": "Yum China: KFC + Pizza Hut in China.",
    "story": "EPS +20%, net cash, big buybacks; China consumer + political risk.",
    "src": "https://ir.yumchina.com/news-releases/news-release-details/yum-china-reports-third-quarter-2026-results",
    "deep": null,
    "news": [
+    {
+     "title": "US Pizza Market Sheds 9,600 Stores in Seven Years, Hit by Delivery Apps, Weight-Loss Drugs and Inflation",
+     "source": "BigGo Finance",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIT1F3UkptQlRoS3BKNmxvVTVoeVhlVVV5a1ZrRkN5b2VDaXN6MWRDd3pzMG92SC1kZ1dMbWVhaHdGbnlualhrVlpBSDFCZkxrSWlwb0xJN1piaHdJa2RoMHk2Y0l2ZW5FTXpvSm9VUG5jcFpxdmc?oc=5",
+     "when": "2026-11-24 10:25",
+     "ts": 1795515900.0,
+     "flag": false
+    },
+    {
+     "title": "U.S. Pizza Shops Close by the Thousands as Delivery Apps and Diets Bite",
+     "source": "Seoul Economic Daily",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTmhTT3BJUjdTRUdsY045TElPdTZVTF8tdDlpVlFtMDdkNUN5RGJHS1V5amg3M3BoTTh4T21SV1ZaLWpOSzJ6LUpIUWJTSkxvVDdFUWNoM2YxZV9xZkFCaGtTOUt4Z3dGeFQ0STlTMkItR1ZVX0o2MXFYdTQwZHB4S2NaUlR4bVIxVGp3TXFKdFZucm05V3dZTVJuZEdJbkE?oc=5",
+     "when": "2026-11-24 09:41",
+     "ts": 1795513263.0,
+     "flag": false
+    },
     {
      "title": "DPC Dash delivers growth with store openings in face of dual headwinds",
      "source": "Bamboo Works",
@@ -810,69 +923,13 @@
    ]
   },
   {
-   "tk": "IBN",
-   "name": "ICICI Bank",
-   "cur": "US$",
-   "px": 35.47,
-   "chg": 0.0062,
-   "buy": 16.67,
-   "gap": -0.53,
-   "verdict": "GREAT - wait for price",
-   "what": "ICICI: India's #2 private bank.",
-   "story": "Profit +20%, very low bad loans; India growth runway. Priced at premium.",
-   "src": "https://www.mid-day.com/business/business-news/article/icici-bank-q2fy27-net-profit-soars-20-per-cent-to-rs-1484303-crore-23655612",
-   "deep": null,
-   "news": [
-    {
-     "title": "ICICI Bank Share Price Declines 3.32 Percent; ICICI Reverses from 52-week Highs, NSE Nifty Drops 450 Points",
-     "source": "TopNews",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTGhYQmZSeENJbUZzbGY1amx2aVo2S3JyUnBCeUl1S3cxNldZS01wMnk4bkVCeFFSZ3I5SzFVOFZmQTVWb1IteVg0ZkVfdU5acWwwOG12NTBjc3JJemNVZGx0RVlibVJKeDRsbG82V3VKajJITUNhLUVsbkc5UllpbmFldEpGS2pFRVg2bVh6Zmg5NUtWM3ZTNXlXTldCbDdBVXlNMDgzN1pVZEYzNDNnRnJ0aGFhSDlS?oc=5",
-     "when": "2026-11-24 02:51",
-     "ts": 1795488675.0,
-     "flag": false
-    },
-    {
-     "title": "Big 5! ICICI Bank, HDFC Bank, RIL, Airtel, SBI drive 45% of Nifty rally",
-     "source": "The Economic Times",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa0ttelBTVEZleVdrYmNYaUVJc0dERDBlNlI4UUZHekNjMkRnVU1KWEdmcFFDdDRrckpIV1pFTXVPWGVCLXozb0h6NTdrbUpGQ0g1TFN2YzJ2cUhicWpTLS1lR0tTSGloMDlBWDRqdHZPMUNTbDR5dE1uQWwtY0xhSmszRWZEZkRhZnNOYy13QWMwZUpPLVJGNGhyTlhVS3djbEpQM0JORENyU3dtY0tsSk5aNDNVeHBvaXVjNXpiY2Y1UVJOZjNEXzNGYTVFaVY0bVJoX09memgtRzFBUkRfM2h30gHbAUFVX3lxTE55QUR6YUNXaDREc1ptZDA2YXp3d0NwLXJ5aE9sVHRNSFZpdkE4TU9sMU9PSUV0YkhaMnZzMHo4aXlVVDFFcm5KUjRuSXFZUWh4Q3NQTVpVbno0MUVZR1MySlZlcWxVZ0RDMWNhUUxlSzVpaGw3R1o2OFlicHJ0QmdJbFYxU2NqXzhERENtLUpPTHVvNEpDdUk5SUZic1dnM2ZuXzAtM1VZQ29IbkZTZTM0TEhtenB0d1hvLXp4WGJzLTZvU1VqTWYzTWdQYW1XbzRoMkpkS2t6dU5GZw?oc=5",
-     "when": "2026-11-24 02:37",
-     "ts": 1795487863.0,
-     "flag": false
-    },
-    {
-     "title": "Big 5! ICICI Bank, HDFC Bank, RIL, Airtel, SBI drive 45% of Nifty rally",
-     "source": "The Economic Times",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNllDaGJTWDV0ODRONXFvamRFMmlONm1BSkJSeFB0a3RXZVBkSFZkTThGbnp1Q2pUeXVyQjhKVGF6Y1huaklZWVJGdjdTYVRuUTdUYzFsZWlUdFhIQktRNkVIOWtyd3lZSkNEaWIzMDJWVkNzZ25yaHRmUncwdUIybEFPVGdfZjZ3aU5HcUVmamQtTy1GVjVVMDlVa3k4anBzQkxlU3pXcHVlYU5HQ0tKRFlEQ3FUR1djMm1ia3lBWVNpYXljS2hheDdHRkJ5Tzc2czIzUld30gHbAUFVX3lxTE55QUR6YUNXaDREc1ptZDA2YXp3d0NwLXJ5aE9sVHRNSFZpdkE4TU9sMU9PSUV0YkhaMnZzMHo4aXlVVDFFcm5KUjRuSXFZUWh4Q3NQTVpVbno0MUVZR1MySlZlcWxVZ0RDMWNhUUxlSzVpaGw3R1o2OFlicHJ0QmdJbFYxU2NqXzhERENtLUpPTHVvNEpDdUk5SUZic1dnM2ZuXzAtM1VZQ29IbkZTZTM0TEhtenB0d1hvLXp4WGJzLTZvU1VqTWYzTWdQYW1XbzRoMkpkS2t6dU5GZw?oc=5",
-     "when": "2026-11-24 02:37",
-     "ts": 1795487863.0,
-     "flag": false
-    },
-    {
-     "title": "Bank Holiday Today, November 24, 2026: SBI, HDFC, ICICI, Banks Closed For Guru Nanak Jayanti; City-Wise List",
-     "source": "Goodreturns",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT1pjZG1ucHk5YW1taTREWS1NTEd4MHRZVG5nS3lOYnZIS0ExZndUM0lkT0FHWWhjZmtmZzg0S0thbEw2RDY5TURabGptUkxWaUJLa2d3OVhWSWd6MXVITVB2bGVmY3ZRWHJyMnprS3BPeExZUFd6NzIzcllCY041SHJsblBHRFBEU1d1VGQ4cEE1dTZuQ19lbHotRDFzQlp0OEx4RWRNUGtVTXlTdUR4Q2UtVE5uSFUzNWdrWnNtVU5tQnVEVl81cEhXaUx5VUVpZmQ3TnZyQTkxdw?oc=5",
-     "when": "2026-11-24 01:44",
-     "ts": 1795484686.0,
-     "flag": false
-    },
-    {
-     "title": "Bank Holiday Today: Are SBI, HDFC Bank, ICICI Bank, PNB and other banks closed on Guru Nanak Jayanti? Check details",
-     "source": "ET Now",
-     "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOLWxjV2FrQ29JaUtaTVd0Ym56Vl94bUlvU0RidlB6Mks1ajU5VHpURnZMVkhpemVlb1lNWXh3SWhKeEowTkxyTWJYS3E1WEhQSmZvdkFFRWZyOTRDeGlUQUtqQjhGZkk5eGJ6NEcwYW9Ua3l0Zm9JRDl2dXJlcVgyVVExTTlvY3FrY3NrZy1KY3lYSl9ETWVMaWE5YkNoRXBVRVFteHkxeDFRbGY2XzliN2ZTZTltTlpqUGphRGtwSG1fZl9WYnBBYnJDb3p3YmVyUVduSHNGTU1acjM0azJsaGNUZzVaUnkteE9SZzFpNzZ2TEZScWc4M1FXVDUxSUhj0gGGAkFVX3lxTE9pSGhSR0x5SlBhdERzSnNFNlotZUcyVno1d3YwYkZEYl9lR1dyLXBzNUY2NWhqak10LWozclBrU3lKUm10Z3NzcE40YmxQWG5KSnFub29GVThhcTJGOGltRHdoV2I3TFhfTDFTb085bTc2cW5qcGZ1SWVYTEFWQkNrWEo4Skc4Q29OTmNSOGtvaHlaWTBIX21BMTJXekNZaVVjNUR2SHhaMDFYUlE1bmg4b2NOMnIwTnZlbUlNQ3p0RWNObzNjdmZFT1dROFNzVHh4ZjlxS204WXpxMWhiaDFLZmI2U1c2b2cweWV6UEw0SEt1Y01SQjcxeE5hd0FqVWlDclVENWc?oc=5",
-     "when": "2026-11-24 01:31",
-     "ts": 1795483873.0,
-     "flag": false
-    }
-   ]
-  },
-  {
    "tk": "NSSC",
    "name": "Napco Security",
    "cur": "US$",
-   "px": 30.38,
-   "chg": 0.0596,
+   "px": 29.87,
+   "chg": -0.0168,
    "buy": 14.27,
-   "gap": -0.5303,
+   "gap": -0.5223,
    "verdict": "GREAT - wait for price",
    "what": "Alarms/locks + high-margin recurring alarm monitoring.",
    "story": "Recurring service revenue +11.5% (52% of sales, 90%+ margin), no debt; stock -20% after hardware miss.",
@@ -881,13 +938,69 @@
    "news": []
   },
   {
+   "tk": "IBN",
+   "name": "ICICI Bank",
+   "cur": "US$",
+   "px": 35.9,
+   "chg": 0.0121,
+   "buy": 16.67,
+   "gap": -0.5357,
+   "verdict": "GREAT - wait for price",
+   "what": "ICICI: India's #2 private bank.",
+   "story": "Profit +20%, very low bad loans; India growth runway. Priced at premium.",
+   "src": "https://www.mid-day.com/business/business-news/article/icici-bank-q2fy27-net-profit-soars-20-per-cent-to-rs-1484303-crore-23655612",
+   "deep": null,
+   "news": [
+    {
+     "title": "HDFC Bank, Kotak, Axis need faster retail deposit growth for share re-rating: Jefferies",
+     "source": "The Economic Times",
+     "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMzJjeXNvSkxfb3NiRTFlZ1U4NkR4bjBfeUJibzFEVm0ydGw3RllhaEY4dEN4SHdCWDVpTEV1MDd5U2RRcHBVRHZzcmkxMk1ZZTVBTVRJa0kxWmhiZDhKTlhHUGE4QTE1MXZrTHBNUDBodGQwSDNOR3c3Sy0yV2JzX2pRNU5TRGVOc29lb0FEd3owR0I0aXhZVkxWTUhtRE5JbVpzelJWTUFTUnJGTUhRejdFRVcyMHJPeThWVjZreUhCZWNJdlpleUEwSS02LWtqUWxaVUx3dGNrcXJScDhaLU40bnNQWEVOQWJVNkNtV2MxaW5aazRwSi1lVXd1M1ZS0gGGAkFVX3lxTFBDY1d6VXdHTTQ0RVJJVU0zcmdVUk9WQTdHdGo4UGxFVXEycWh0aDJCSHVobDk3TjcyZ212dFdYVG83SktQT3lscDJjcEZEN0RsSEx5LVhmNHA4emdqYy05YmxHLXo3YUxla3FZX1hHSkJ6RERPc09LSmxSS0JNTGV1UzJuREQ4WDhmU1ctNEg4RlgtLXQwd2hGZHdVazUzbk54UnFHWm9LZXhISVlFblNSSjlkak9HYlA1aUswbVBOS1BKaVV4MHB3cjB3MEQzeTBGSmpxdU9zLUt2eXJNQkxKVmtUdGkyajZXbGtFa2llUzljOEtsX3I2R3FDcklEby0tMk5PbFE?oc=5",
+     "when": "2026-11-24 18:59",
+     "ts": 1795546751.0,
+     "flag": false
+    },
+    {
+     "title": "Bank chiefs\u2019 bonus recovery faces legal hurdles",
+     "source": "The Financial Express",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ2dPaXNsVjNqUXN4N2tsX2JXNVF1OGhTX3Vlak9rUmo4c0hYb0JqeTk4N1V0d3JIZG5HdGpMOWFnMXlsRjN3V0JuazlHVVpzUGJuZXZOVmE3bUljQ0xiOWVjWklpUC1yX0FvUXk4U2d2Y0VrZm1lUjlqeEVVRTZIWnVyTmxNQjFnb2F5dy16SkhUWHExX3p3VlNoMnl3aW9xTS00SEVCbG5IQVZSbFJzeTZqZ9IBugFBVV95cUxOU2NkS3ZhaVV0ejR0NkxEZ1NoNnpLTlFsZDgxTWFhcFFhelVlQXZDTXZwbU85dTQ5ejZ4R1hmVDFWZXhTdmhFU3BkNlBlZ3QwYWNvbWRvcEdaRldXeHQyb2pMRUduUzFvQnV4VlB6WE80alB3SWpDUV9DX0pYTVgzT2JabTdReVN1M0l2cVhiNzh1TUFuMHItZFZzZHB6TGVHdHFldmRxeW9na0Y4WXFVU1F1Vmk4TC1namc?oc=5",
+     "when": "2026-11-24 13:35",
+     "ts": 1795527305.0,
+     "flag": false
+    },
+    {
+     "title": "SBI, HDFC, and ICICI retain systemically important bank status",
+     "source": "Retail Banker International",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQS1CRF9jbDlkbld2NVJvZkRqblQ3UGtaa2Z4MXpyOVpHX2p1RHJMOHhNTjhGLW5SMkVIMVhhTnFwTElVUnlqdEFRVmhJTG9Ia1pIREsxNHlaZ1pMa0hCVE5aRjdFRGVuTlhkVmNtWUJXM21pZEZ4NVlpZHd5Z0pUNkZOMWJodFBZa2RhN3ZpNWdzQmd1?oc=5",
+     "when": "2026-11-24 11:06",
+     "ts": 1795518419.0,
+     "flag": false
+    },
+    {
+     "title": "ICICI Bank - HDFC Bank, Reliance Industries among 10 stocks with highest DII holding in Q2. See full list",
+     "source": "The Economic Times",
+     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTkdtRWtBc0JTOS0yTnNheUo2YkVsZDFsZlN6ZUVMWk80dlRfV3dfOWRlNXJ6S25WbGpUWk5HQXplQXRzN2FReWJBV2phdDN1aWpleXBXVkl1WjZMbW51MUVlbDJoZ1hhMDJLaWlxNGxkVmpHdHFvNTMxcG11SWU5Y0w5MWw2bS1rcG9CVExZY0czYk5pTE5ZNkg2OUVkYzZXVmxVbW1TdHBVYzZjTXc1N0dYeU5tbFpIZlRCMTV4SE9YbksxVS0yQmdOVVFJRmY4YXQzZ2poazBxQ0dYQWc3eHgtNlBKNm1xaE40SlpWMDJOVER0SGl0ZU40YTY2MlpuR0JJ?oc=5",
+     "when": "2026-11-24 09:54",
+     "ts": 1795514051.0,
+     "flag": false
+    },
+    {
+     "title": "SBI, HDFC Bank and ICICI Bank Retain Domestic Systemically Important Bank Status in 2026",
+     "source": "Adda247",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV29pejhQZGllWDF2VWxMc0NfT0lDOHIyVWdaOEdCcEl4MWtWN1AwQ08wcDBYZVhha29Rb0RIcTRzV3ZmLWoxLTdFaU1RWnp1V092RWVidDBVaWxXc3R3aUdtWDRhUzhZOUtxb3A4MGl5R1NmVDBrR1piUm5abThhdkN2WkNLTXVzbkpZM1l0S2VBUWJNQ3BocnpMaXp1Q0M5UzRsZkFqX0tWUmkySTBaenNpZ1RiVUlNR04wejlwZkNaLXZ6QUE?oc=5",
+     "when": "2026-11-24 08:57",
+     "ts": 1795510633.0,
+     "flag": false
+    }
+   ]
+  },
+  {
    "tk": "CPRT",
    "name": "Copart",
    "cur": "US$",
-   "px": 31.62,
-   "chg": 0.0167,
+   "px": 32.35,
+   "chg": 0.0228,
    "buy": 14.03,
-   "gap": -0.5563,
+   "gap": -0.5663,
    "verdict": "GREAT - wait for price",
    "what": "Copart: online auctions for wrecked cars (insurers).",
    "story": "Land + network moat, no debt, $4.5B cash; volumes down, growth paused.",
@@ -895,43 +1008,43 @@
    "deep": null,
    "news": [
     {
+     "title": "Copart Inc. stock outperforms competitors on strong trading day",
+     "source": "MarketWatch",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS1pDVzBqbVNVaG4yTW1nb19KMUZzX2pld2JvdzY3MktLSGVOTHRHcy1HWl92R0tuazI4Sk5RWldaMjR3V0xGNmpvUmV4dzhaMXZ1TExUbk45S244bkN3NXRRaXZhRDF1YnJfMzd3Rk5BeTQ3UmQ2NE43dWtpd1BLeEZMSHJoWnlEa2labE85dTFYX1FUd0x6UzYtejIwWXZSZXI0MGQ3ZExraDNSTzJGSWs2T0dmMDFVNjBtVy1PZDB3RVc2YlI3RUU3ZXBCUktyUE1Ja1lDMA?oc=5",
+     "when": "2026-11-24 21:58",
+     "ts": 1795557480.0,
+     "flag": false
+    },
+    {
+     "title": "Copart options signal 5.4% move ahead of Dec. 1 earnings By Investing.com",
+     "source": "Investing.com Canada",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZnhPMUo2eUVqaGtTNXRRdDU0OEJYcUVzWW5hYXM4a1RsNmhCWlFKZGZSZHNvVWN3akVUMnlSdVpJTlZWREFDRHdHY3BiMkRXaW5CbjgzU3pLeG1BdFlJMFNnTzcweEVPOFhYUGZDTE1yN1RXRjc5ZzR1bXlacmN3bTVuV2lyWFQxWnd4UHM1bGRxOXp5YzM4MTdhQklDd18td1RqWUlSNU83cUZoMXF1aWROZlI?oc=5",
+     "when": "2026-11-24 17:16",
+     "ts": 1795540588.0,
+     "flag": false
+    },
+    {
+     "title": "Inside ACV's $1.9B acquisition: other suitors, collaborations and more",
+     "source": "The Business Journals",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0FPakFMcW5PblduZTV1TlkxTDhVcWM4UzVmRGttbTBjRVhCczRMVy1Vc051TEJxZGhEemM2U3BjaE56SkRsWDFDVFc4LV9sdUswLVhwVU5tU3I1b0VocmVIX1V5eXlud3dXZHZfaV9ieTdBSkp0QUk5cWlXQkVfN3hDNnFBeFRoNTE2UUdTQXhkUmlBV3RMWER4VQ?oc=5",
+     "when": "2026-11-24 11:00",
+     "ts": 1795518000.0,
+     "flag": false
+    },
+    {
+     "title": "Copart (CPRT) Stock: $31.62, Up 1.70% Nov 23",
+     "source": "JournalArta",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSVRVeTJUQW12VGdYeGJYTDFCOGZRaDhGbDhvOGJ6MS10ZGxoSmxQOFFBWHVFTFlyRHc5azZycEhpRW5CSl9kWWJSejVBWGhPUGg2TVctc0gtQWs3dDFGNzVORmg3ZkFTcWxldG1DTjRtRWczZ3B3UnpWc0I0X1FyVnNlZG5mVWVCTWRUTDFMakE2OTNpeFpib2JkcWRLRnBIaDRPY1ZuSjJ5X3ZOMmhz?oc=5",
+     "when": "2026-11-24 07:57",
+     "ts": 1795507045.0,
+     "flag": false
+    },
+    {
      "title": "Wrapped Copart Tokenized Stock (xStock): Funding, Investors, Team and Key Events",
      "source": "CryptoRank",
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtS2IzOXgzRnU0UlQ3d0dneGVmQllrTUlNS09XdlpRWXVOeU5FdllFNjdWd255OTV6Nk5fX3YwRVpnQkloRE9vUTNVRVh6cEJwZHlBbldka3VqSzZwSTF2cXB1OVljbWFVclIwOFg5YjhGTmM?oc=5",
      "when": "2026-11-24 03:41",
      "ts": 1795491714.0,
-     "flag": false
-    },
-    {
-     "title": "Buyer Picks Up A Wrecked 2023 Escalade At Copart, Drops In A Battery And It Starts Right Away With Every Screen, Sensor And Camera Still Working",
-     "source": "NewsBreak: Local News & Alerts",
-     "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNTklQdHRteHdhS3BGV2l4RGNNSG1hcHRtNXI2dnRubmhVMHNHMDhDcVJkOEhpNnRqalRGM3plamdLeGxOWTNkR3Zhc2p4NVBXNXlPWkl4aTVNdnZDRkhiNW9acV9kWlRqeFRFM0tyaHQxNjV1ekN2ZG9uN2llSExjNGhIVnBxOEJiMEUxNFlHOUliLUdqMkFrSjBjRWJqdTkzRi01TzFLeUd6dkFvejJxNjNKUlowem1yLWtCYmw1bWFNSW9SZVd4VzZtalBiSlFBak13eUhuYXN3dTRLbjdyM0RtaV80Ymx2YmRzeF9Ud2xiRkY5QmYtaVR0ZU1FdVJlaDJ0Z1ZlaXduT1BqVDY1YjgwSURZcVg3c0l0bjVKOWtOMTF0RTByOEtJeDd1T3IydXdzMw?oc=5",
-     "when": "2026-11-23 23:01",
-     "ts": 1795474894.0,
-     "flag": false
-    },
-    {
-     "title": "Copart Inc. stock rises Monday, still underperforms market",
-     "source": "MarketWatch",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUmlua2VjU1RuWjhYOWNJU2RGOS1zMFByUmx1cVpESWFzNTRpc09JRkVYYVJHWEZRX3Q0R2JmSU9Ra0gyS1V5eWlUbm55UWZrOUFDVndCQTJ5WjktWHNhakJqWm0yWjI2bTJDVWlVVUpLSjJHR2F5VUljYkNpcGQ0NDdXdXJSM1UwYXV1VGtyOHVHX2ZEanVnR1VrUHBKSXExX1V3N1JXNmtjU2Y5VHZlMklqNmRvMFBqZDZNTWUxbDVtTWQyWWRiSDdwT0pLV0U?oc=5",
-     "when": "2026-11-23 21:58",
-     "ts": 1795471080.0,
-     "flag": false
-    },
-    {
-     "title": "Best Copart and IAAI Car Buying Companies for First-Time Buyers in the USA",
-     "source": "Focus2Move",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVWRLY0Q2VS0tRWVKWWU4YTdiTVcxTHNKS0Z1dUEycUppT1R3elhEbllCTklWcTYwclBWNmRxa09FOVNWN3J1c0MzUVpEa2gyaExfM19DN3Q0WG9Yc2hkNGRWRFRKRTEtZWNUOTZ3V2Myb1cxRjhzY1BCSGl4TkJrSmtfRkNwVTJnRDZiM3hJdF9PX0w5ZTdQZkRfaXR0QTdNbHgzVA?oc=5",
-     "when": "2026-11-23 18:43",
-     "ts": 1795459431.0,
-     "flag": false
-    },
-    {
-     "title": "Nasdaq-100\u00ae Inside the Index: Copart (CPRT)",
-     "source": "Nasdaq",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2eDgtR1lLVGZMVVQtMGd2Tl91Q0xWYmFiWlZGeFFIeHk0NGNyUlpUWUpHd1psY1FqWElPOS1NUm1uZTgteUE4X2JvZXhVTTlUaXU3R3haWU5PY25QWGN2S2FDU1VHOXl5ZXp6di1rbEhpei1MTTQw?oc=5",
-     "when": "2026-11-23 12:36",
-     "ts": 1795437360.0,
      "flag": false
     }
    ]
@@ -940,10 +1053,10 @@
    "tk": "NXPI",
    "name": "NXP Semiconductors",
    "cur": "US$",
-   "px": 256.03,
-   "chg": 0.058,
+   "px": 239.4,
+   "chg": -0.065,
    "buy": 100.98,
-   "gap": -0.6056,
+   "gap": -0.5782,
    "verdict": "GREAT - wait for price",
    "what": "Car + industrial chips (Netherlands).",
    "story": "Q3 revenue +19%; cyclical upswing, valued near cycle top. Wait for a chip sell-off.",
@@ -951,43 +1064,43 @@
    "deep": null,
    "news": [
     {
+     "title": "NXP Semiconductors N.V. stock underperforms Tuesday when compared to competitors",
+     "source": "MarketWatch",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc0JjYmJGNEtvNFZDMTE4VVh2ZENybXZUWGdWX0p4SUVwbkh5VVJYdkk0WUVzTzZ3MXpOSEsxejRwRGFmUzU1bkNDRGJZUzA0WDFTVTlpekp1aGwwMlRQOXYxVXk2Zm5RRVZGd3hvbkpyYWRmbFlVdVRoRDg3Z0RLZjlUMko4aDZxWWZEaUJ4R3JKMFhjY2xhdEFZa0NIeURVUEJrbXNGMTFVTmNKTWRFdjVXcFNPWHN0REMtS2FiTF9KY1lsTGp0SjRjSWFNNnRkMTRRSFFR?oc=5",
+     "when": "2026-11-24 21:30",
+     "ts": 1795555800.0,
+     "flag": false
+    },
+    {
+     "title": "Camtek, MKS, POET Technologies, Ultra Clean Holdings, and NXP Semiconductors stocks trade down, what you need to know",
+     "source": "TradingView",
+     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMGFFWXpjZk05d3lEMjhHU2ZTbXVmSXFDOFNQOW9GalE2TTFXY2JhazVWcmd5SnVIVU9WdC1iRUtMTTkyeGROQzZ4Si1Sc19ic3pnZFlsRzFFQ0tRVEVUSzg1b05OdWtBYVN4NGxBQ1ZJN2V6RkxUeXYzbmZsU1lGbkJGdjFWT1J2allLMi02cXhlMmtwWHd0WHBiTjk4MUtnb3EzanZwUTRHd0ZON0dsZXZDN1hiQmY0MXRZT0VMTlg2ejVsQjJqNFh0enBkY1Vjc3Rzc3J0SUR1M2lsQ3ZNeFFUTGtxNHpLS25td05IR2hiS2VGMTJudVA0ejdoZ2JLQWdJ?oc=5",
+     "when": "2026-11-24 20:00",
+     "ts": 1795550449.0,
+     "flag": false
+    },
+    {
+     "title": "Why Is NXP's (NASDAQ:NXPI) Interim Dividend Tied to Dutch Tax Rules?",
+     "source": "Kalkine Media",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdW9pcjh3dl9nRlIxUjYxV2ZldGJFVTJ0WjFrR3BJS1pPbzEtMzVnRDk4Nmw5UC1kTXVpVlg2RklaX2szbXJnSDVXbWJIaWpHR3VPRDVSRFB3Mmh1WXdrSXJTdUlGMmFwbU02Zm1XVGlUQkJCUFUxNE9xbGM5OHhsV2Rleko0N1NIcll2UUliNmhwdGhvRk0yWldrdDZMOFc4VExfcTAtTzd4cU0?oc=5",
+     "when": "2026-11-24 08:59",
+     "ts": 1795510740.0,
+     "flag": false
+    },
+    {
+     "title": "NXP Semiconductors stock at EUR 235.73, up 2.00% - ad-hoc-news.de",
+     "source": "ad-hoc-news.de",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUnM4dXZyR1FOR2lQOUtwaWVFYWtYZUpyNGxYUTNEbmRBbGpQRnNoeFBxaDludVdieW9nY2E0M3lBLTE1LWlWZ2xwWWpDbmQwbFF1Y1FFN3R1RThJUXN1QUFZOW93Z09oUDlDWGZRTExwUmtPQnI4OWtqY2s0VDh0MEo5QlFnTTFTMk5SX0dra1BTNGp5REhLdE4zeGExdXFwOV9Yeko2NA?oc=5",
+     "when": "2026-11-24 07:03",
+     "ts": 1795503817.0,
+     "flag": false
+    },
+    {
      "title": "NXP Stock Gains Attention After AI Accelerator Launch And Dividend Affirmation",
      "source": "Simply Wall St",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMk9Jdm9kYzlacFFvcVFSMkprbnVxd0FORnFkZmxQaldoaWIzZ2xZdHhYemFicFRxdTh0emptWDY3T2diSjdjQ0Z6MUNMUFNPZ095ZlZqWFZmWlBCRXhoSERKTi1WMXJsTUJBbGJLMnFtMVpsUTlSTTN5TWNOR2NBTUU5eTRUdXV6QUJHZTBuVXZGb0pLb1dHd3BONHBaempUMjd5aWVZLUd6alZ0VVdTZ1Q3VFRHYnNCNEhsM3NhT2dTTWtWMnR5UnlZcVJEdTgtWnhZNWRaREdvTllLWVZRc9IB4AFBVV95cUxOMk9Jdm9kYzlacFFvcVFSMkprbnVxd0FORnFkZmxQaldoaWIzZ2xZdHhYemFicFRxdTh0emptWDY3T2diSjdjQ0Z6MUNMUFNPZ095ZlZqWFZmWlBCRXhoSERKTi1WMXJsTUJBbGJLMnFtMVpsUTlSTTN5TWNOR2NBTUU5eTRUdXV6QUJHZTBuVXZGb0pLb1dHd3BONHBaempUMjd5aWVZLUd6alZ0VVdTZ1Q3VFRHYnNCNEhsM3NhT2dTTWtWMnR5UnlZcVJEdTgtWnhZNWRaREdvTllLWVZRcw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORmtaZnNWRFpoTWpuMFVQN1E4V2EzdFUxQy1aaTczbndjSlJjRGk3cndyY01hLVdFRkZHZXFTYTNOZTAwN0E3YnBwYXl1Y1Y5QzFjb3F3RkRtOEZaSUd2WHI4VlY4TVFDNkgzekp4a3BleTFoZDZNNHRYZzRQYy14Yy0wX1drWjJXUkdOQnVsSnM5Wk1zUFhiTFFqOWNCcEkxX1lNWEJWWmVzc0hRaTMyMFhmQV9ORThidlFjZi1nS055NEc2WUszbEdWQWx4dndBWVR4d05NMV9OYW_SAeABQVVfeXFMTjJPSXZvZGM5WnBRb3FRUjJKa251cXdBTkZxZGZsUGpXaGliM2dsWXR4WHphYnBUcXU4dHpqbVg2N09nYko3Y0NGejFDTFBTT2dPeWZWalhWZlpQQkV4aEhESk4tVjFybE1CQWxiSzJxbTFabFE5Uk0zeU1jTkdjQU1FOXk0VHV1ekFCR2UwblV2Rm9KS29XR3dwTjRwWnpqVDI3eWllWS1HempWdFVXU2dUN1RUR2JzQjRIbDNzYU9nU01rVjJ0eVJ5WXFSRHU4LVp4WTVkWkRHb05ZS1lWUXM?oc=5",
      "when": "2026-11-24 03:16",
      "ts": 1795490190.0,
-     "flag": false
-    },
-    {
-     "title": "NXP Semiconductors NV (NXPI) Stock Up 8.9% and Still Undervalued -- GF Score: 93/100",
-     "source": "GuruFocus",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYzFmUm81andUMm9oLVRwTF9fS0hBdjZUSkJxem5XU2JCcEhSRldTYjEwN25GV0FrQ3Zhelk2QkpVUUgwT1J6bWxDQXM3bmVCLUxDeUNzOEltYS0xOXRoMmRudlAtM3lodm9GWDhGQWxFdDczSU53UWc3R20xdHhQWGZsZjlaWHRyRm1QLTNPa09zRGdpN0FWS3NlRWFzM0dhQ0s5Wnc1YmMyRmJqTW1VX05sMzk?oc=5",
-     "when": "2026-11-24 00:54",
-     "ts": 1795481647.0,
-     "flag": false
-    },
-    {
-     "title": "NXP Semiconductors N.V. stock underperforms Monday when compared to competitors despite daily gains",
-     "source": "MarketWatch",
-     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOSUdnNjFSNTdOMUIwZ0ZTWlBTNGFSSlB6RXNTWnFXc3dLaUtNRlNJMnloVnU2aGRQWWxrdXFtY3Q0Q2syQUNGVlp5eG9JMk1GVTFCLTVsNjJlQmYtZXg2eThBTDBXWDd4NmhBcXY3djBaeGkzQVl2YkhWNGlvQ1E4QXFXamE1YWhfWTY0RDNSUjBHVHlZcG1rR3RlRU0zUnY5YVlELUlXOFFSTi15SFdKOHNnTlk5bFd3Vk42Y0NvZ0x4Wjc3SDhtNVRiV3I0QnNXNlhCdFdrYTNaN0tIVkZ1YmQ1a0ZCUUVOX290Z2dsRHI4SlNONEh6RlJraVlhdXM1UUZUazA5QQ?oc=5",
-     "when": "2026-11-23 21:47",
-     "ts": 1795470420.0,
-     "flag": false
-    },
-    {
-     "title": "NXP Semiconductors stock: Board sets next dividend payment date - ad-hoc-news.de",
-     "source": "ad-hoc-news.de",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNG5oeUgzbnp5ZkRwTkJHZnBLVFhfNTViWWQ4dFJjdTdUeXExR1YxY045dzB3WU0wQWJOYWZLay1rZGhicmV5VGd1dlA2SjZjRlpva3U5S3IxSHRXdmRmWHF2WGNyVTZFQXo4NUtNNHpZdnNEUnRacHllRGdCSUxRa2VlQlY2bTlkS3JGV3l4VE5DMmx1dkZqUUlBLU11X21xcDhvdFdjelZmYlNaSS1MN252WTZXM1REY3VzdkxTdlZpa2c?oc=5",
-     "when": "2026-11-23 16:55",
-     "ts": 1795452917.0,
-     "flag": false
-    },
-    {
-     "title": "NXP Semiconductors Rallies as Chip Stocks Rebound and Investors Revisit Its Shareholder-Return Story",
-     "source": "Quiver Quantitative",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOHQwV3NDQTYwWnBTSFlkSVJJanZwMlNyNEYxUEJiRFVEdHNRRHBpRG95dmFuRDg2YzRWSjlXMHdxSzFOZnpxVjdrZVJyc3B2QV81ZWdhREp1R3NvdWVjbXlnTVNuVG9icHYtUlIxeXdYVVRVZFdUYkZHakZPWVctN2FKY1BqclJLbnBXNnFlS2M0RDJMeVNVSjFzOWRLZ2lIcVBpcVlTejFXbERTUGxHUDJiQ0tmcUprdDFJMldzY1BFNmIxQkd0cFRuc2VwZw?oc=5",
-     "when": "2026-11-23 16:19",
-     "ts": 1795450740.0,
      "flag": false
     }
    ]
@@ -996,10 +1109,10 @@
    "tk": "VMI",
    "name": "Valmont Industries",
    "cur": "US$",
-   "px": 407.25,
-   "chg": 0.0442,
+   "px": 407.68,
+   "chg": 0.0042,
    "buy": 160.21,
-   "gap": -0.6066,
+   "gap": -0.607,
    "verdict": "GREAT - wait for price",
    "what": "Valmont: utility poles + Valley irrigation.",
    "story": "EPS +25%, low debt; grid boom priced in.",
@@ -1007,27 +1120,27 @@
    "deep": null,
    "news": [
     {
-     "title": "Nigeria partners global irrigation firm to establish equipment manufacturing plant",
-     "source": "The Nation Newspaper",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMi1WRFFFOUhvUEx5U2lTZDNqeGxGUWxjWjhCOUtrMHcxNGRBN2JvVWRBNzJIdzhQc3UwQ0x3TEZHaFV3YS00bnZfRk9PSEl3bFFOOFlzV3h3VnU4My03TWU2WURCWUxjNGFTOEpCWktzNVlqaUxtWEVVaWNFeDNHeWNhM21OQTFOX3BtajZBLWV2d25qY0l5RGFqMlVhNkJOZG9idnZjT1hpLTdRVXpSbjgwTdIBuAFBVV95cUxQcVhqV0xiS2dQSHlCVkE0bXQxOVJydHdNWVk5MUFGWEI0REktYWppMHBmRTAyQTlwRXFkSWFxSTBPUkJYTnRQOGlrU2FZM3dJNEpCS1ZjVm96XzlaMWdZS0NXUmpoVl9vSUZEV3lXWkxHcm8xcm5SdXppM0E1S2xRa3ZVSG9OVHhzakJTWjBWazFESVRfZTdyVi03Q091dnNaVkZBY2VtODlwel9TSzd2QWRuWXVCV3VJ?oc=5",
-     "when": "2026-11-23 19:20",
-     "ts": 1795461659.0,
+     "title": "FG, Valmont Sign MoU to Establish Irrigation Equipment Plant in Nigeria",
+     "source": "THISDAYLIVE",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdWdLSlFFQlQ3YmpKTTBKd1NTcXMxUWNLNzRiZXI1MklhYUdoemhBQTJZMTFKb3pweG5fUlJGYjhpMFhxRTFaamJ1SGlnVFNWYmpYODctQU1XWkhISnA3UFRsR3Uwc013cDFQczgzYlF1eDloMUxQVzFCYUt5SmhodFRUVFpTTnJRbmswZHJySGdXVENFdmo4YU11TkZCTFpQQ00wRWFKZXRsRlBXS2E4?oc=5",
+     "when": "2026-11-24 20:38",
+     "ts": 1795552685.0,
      "flag": false
     },
     {
-     "title": "Nigeria Signs Deal To Build Irrigation Equipment",
-     "source": "https://thefact.ng/",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OZkJqbWxCQkhvVmZBYXotdlh2UFc5dXo2bUU1aE9qQjVnWVYwRXVWYmZwSnp0bDhIdmlDZ0doRHNGN0lXLWw4LUI2V1ctMlBuTlBtd0ZXRFFBQVJTcFduUVZ0WWhwQWxNNTBLVmpnWVNFVktpbVBN?oc=5",
-     "when": "2026-11-23 12:45",
-     "ts": 1795437915.0,
+     "title": "Nigeria partners Valmont industries to establish irrigation equipment factory as country targets 500,000 hectares by 2030",
+     "source": "Africa Sustainability Matters",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTmVOZjV0Qlo2RWVyUlp1bjZkWm1RbWpZN1R3dlB1cl84VzEzZlZtcFlxV1huRExqeVprTmlVaTZ0QVhjVnFQVU83LW5ULTRpbTF3MUpWWkxVTTRDZ1kyRGxCR1ltc0E2THpfZW4xbmNfMXRod0h2di1rT3lqaENuOVFSRzh3SEVnMFBFUDcybkQyU0JVQWgwXzVzdXliZkxheVl6NG9QZDdUbjFzRkNoRkF3N2d6djlkSzlGMUhwakhzcmhWeXdOcUdzSmc0dmFVaHhmZG5id0RwRDhaOWd2cGpHNnNoRTU3OFJjMVJyQ282Z1E?oc=5",
+     "when": "2026-11-24 09:58",
+     "ts": 1795514337.0,
      "flag": false
     },
     {
-     "title": "Nigeria Signs Historic MoU with Global Irrigation Giant Valmont to Drive Food Security",
-     "source": "Starconnect Media",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORDFKYzFhcmpteDZTa1JRaVV0TE5fcTRHMGNMejFCc1VUUXVsZDlYc19xcEFhcTZ2bG5EWi01RFBzX2NheTEzNVZVZ3ZvN2Y5X1d3ZXN6WWxBSVZFd3p0T2xYSEFYb3V4ZkZOLVhVcW1zQ2N3TjNTN1huVFEwNUNZSGFjMXpBWTlCajk5S3dhN3JjWjhXT21qYWJWdUJGMUozQzAxMDFNUmZQREJHb1NySnVmaEZjcTDSAbwBQVVfeXFMTVRLOExfNVZDdkRsdy1tc2VTaHVWN04tdmpxNElaaEhxcDJZOElpeGU3TGpJVTdLbzNhd2piMkxJWTdidlJGbTZGRXJiajlMSDkxdHRDaDNwZ0RtY1F4QXFmUU9fNC1jM0lMOERiVnk4bC1jNkJwWlhPQkROalFTdlZTd0tQSENkeUsxV2RremhVdzREVERjd0tJZG5XRjgzOWJERUVkQmVaTFkxUm5yZGpoTWtPcS1CdG50ZTc?oc=5",
-     "when": "2026-11-23 11:45",
-     "ts": 1795434357.0,
+     "title": "PICTT, Valmont Sign Agreement to Advance Irrigation Programme",
+     "source": "Voice of Nigeria",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcENRUHRPZXdtQkQtWE5LSzlOaE1LaVl1MzhxM0xEelNOeGs3XzZZdUt6OXFwaVhtWDF6b3ZPdi0yRGtSd3dVRGtzT1pUc2dJaEYxZkV2Ynkxd2gwYjRUUnNXZjE2dGpETlZINUNuQkZEUmZuUWUyVGJScGZmdHhrOWRGSlkzbkk?oc=5",
+     "when": "2026-11-23 13:21",
+     "ts": 1795440116.0,
      "flag": false
     },
     {
@@ -1052,10 +1165,10 @@
    "tk": "SSD",
    "name": "Simpson Manufacturing",
    "cur": "US$",
-   "px": 194.63,
-   "chg": 0.0343,
+   "px": 194.46,
+   "chg": -0.0009,
    "buy": 73.86,
-   "gap": -0.6205,
+   "gap": -0.6202,
    "verdict": "GREAT - wait for price",
    "what": "Strong-Tie steel connectors for wood-frame buildings.",
    "story": "Margins 22% even in weak housing; dominant brand + building-code loyalty.",
@@ -1067,16 +1180,24 @@
    "tk": "IPAR",
    "name": "Interparfums",
    "cur": "US$",
-   "px": 136.39,
-   "chg": -0.0075,
+   "px": 140.53,
+   "chg": 0.0304,
    "buy": 45.73,
-   "gap": -0.6647,
+   "gap": -0.6746,
    "verdict": "GREAT - wait for price",
    "what": "Interparfums: licensed perfumes (Coach, Montblanc).",
    "story": "Durable high-margin model; sales flat now; 25x earnings.",
    "src": "https://www.sec.gov/Archives/edgar/data/822663/000175392626002063/ex991_1.htm",
    "deep": null,
    "news": [
+    {
+     "title": "Interparfums, Inc. (IPAR) Stock Forecasts",
+     "source": "Yahoo! Finance Canada",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVGxXTFU1TVg5d3R3WXhMVmMxdkdSZEZaNlRKZklBWENjdTI4SlZSNTBUS0lHSGdSRVpQcUFLb3d2RFpFc2NLV0pBME9BelFxd1dhM1BNWFJNVl9NVUJPN3JkRGo4UUF2MzduNGdZOV9XTF9OdF8xcXZWT1cyRTZtZnlpaF9KTmJNd29QYmVjRzk2Qlk?oc=5",
+     "when": "2026-11-24 07:43",
+     "ts": 1795506182.0,
+     "flag": false
+    },
     {
      "title": "Interparfums (NASDAQ:IPAR) Reaches A New Yearly High. What's Next?",
      "source": "Kalkine Media",
@@ -1094,19 +1215,19 @@
      "flag": false
     },
     {
-     "title": "Goldman sees limited upside in Interparfums after 65% share rally",
-     "source": "Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOHBYcnAyM0FXcG5wOHh0RF9pQkdtUlEtWGtldHFRQ3JMNjZ0NHpOQ1p6OUtBMkdzRFd1RHFHSFhOTkN5eDVqakowU3c4aGhhOGlxRFlwbDVJdVlXZnBzcTlhSWxraTgwTk5rNXFqajJmQ3hxeDlsckpoSmRkR0Q3akhqc3ZYOF83MThoUXRvY3JUVUcxWFZHNkpHSmZrTndzNmxXZWhaRWFaZFZQeTNwSFN6Sld5S1YzZ1hnTFJR?oc=5",
-     "when": "2026-11-23 06:37",
-     "ts": 1795415839.0,
+     "title": "Weekly Recap: 2027 growth forecast and multi-brand fragrance launches",
+     "source": "TradingView",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaFRMUFczRVdtZTg4SGNGMDBHdXZ6U29zWnowYmxub0liaDI4TU1Bc0ZFNjdBWmMySWVmSG9oblB2b2JoeWJWQzJ0SDhUbG9Ba0hTRVNoa3hzNW5mRUJTTnFLSlZQQjdPaHZtTGZVTy1SLXVvVFdVcVNzdmtpb1VUQnppU2hXMUR3T1pMZE1adXFteC1FcFpyR3hJamZodFVsRGxaTEFBYko2LXNzVUZjZVBSOElHcDlLS2NRWTJLVDRVWXNnMEVfbV93?oc=5",
+     "when": "2026-11-23 11:00",
+     "ts": 1795431600.0,
      "flag": false
     },
     {
-     "title": "DB Ventures Sues Coty Over Beckham Fragrance Sales",
-     "source": "Wisevoter",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0VRQVQ0U0JrRlNXUUFpQ3liZTRzUXVGUmFDVHhfUUlFV3F1eHhOYV9mTENwZjJsaDRSUklJZl9rYUFDX2FQY3ZnaVlzQzZMX0tHUFhCLVFTbXRlMFk3akhiX0YyRU1MRVVieDZhaVVzZVpCNW4yMFdQanNhbnBEMWlLX2RFc1lrazlEbkJVc085cEtp?oc=5",
-     "when": "2026-11-22 19:54",
-     "ts": 1795377265.0,
+     "title": "Interparfums SA (ITP:FP) PT Raised to EUR41 at Berenberg",
+     "source": "StreetInsider",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RdEN2YjFIMW50V3dway1YMWpzTWdpYzZRdFpwMFA4NlFUZWQ1Tkk5dlZfM2lXTXUxQjRjUHdBcEV4V05DTW5pZkNYRjZraEIyUlJxNjV2SVV3RFVVTzFUOFJ3R2V0UTdEZEtjZw?oc=5",
+     "when": "2026-11-23 08:27",
+     "ts": 1795422420.0,
      "flag": false
     }
    ]
@@ -1115,16 +1236,40 @@
    "tk": "LMAT",
    "name": "Lemaitre Vascular",
    "cur": "US$",
-   "px": 75.14,
-   "chg": 0.0208,
+   "px": 77.01,
+   "chg": 0.0249,
    "buy": 21.64,
-   "gap": -0.712,
+   "gap": -0.719,
    "verdict": "GREAT - wait for price",
    "what": "LeMaitre: niche vascular-surgery devices.",
    "story": "Sales +11%, strong pricing power, $390M cash; P/E ~29 - far too expensive now.",
    "src": "https://ir.lemaitre.com/news-releases/news-release-details/lemaitre-q3-2026-financial-results",
    "deep": null,
    "news": [
+    {
+     "title": "Vascular Graft Market: USD 2.83 Billion Opportunity by 2031 as Cardiovascular Disease Burden and Minimally Invasive Procedures Drive Growth, Reports Mordor Intelligence",
+     "source": "PR Newswire UK",
+     "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOLVdRbXV2cGRsVEt3UEhLLXVCWVBBV3pqT0hkNFFKcEhCSGk4d2k0d3N2d0xBNV9YYlR3ZVB0SUZyNmRXNVI3QzNPRE9uZDZFQkNFQ3VGNzROaC1ob21rZE10SEZpc3hqNWJHZ3pQemZmYjhpQkRNZkpWVFh1WWZSN0xodWItWkxjLVJNSnFJWTcwSDhsR2JxazJ6R1M3d2tRc0tmdUhQMWRjWXY3bVN0b2tYOXZRRjRvOF9GUDZBNDZnTFRIWUhIWXFmTTVnenQ0RWw1Sy1JcnRPTU9rU3dsUE1vN2hFcU54Ty1tamdqeHB4c05LZk52bDducmFsN3FZajJxel8zeGR1Vmo5THh3SXViUXA1SXJ2U3lLTVJCZEpZTXZab2ZPVEhUV2Mwc2h4bldCRkdocWRBNTZBbG1nX2JSWlExSjA?oc=5",
+     "when": "2026-11-24 17:30",
+     "ts": 1795541400.0,
+     "flag": false
+    },
+    {
+     "title": "JetBlue Airways To Rally Over 51%? Here Are 10 Top Analyst Forecasts For Tuesday",
+     "source": "Benzinga",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORVRRZ2toNWFacWFhalM1UzNYbEtpTzZXaHhEV1d4QVJSTHpHM1NaNVBXbWtFaWdRSXFSakwxY3NzVXkwQ3o1TU5FMVkyT0h0d1B3c1FlZ1NFUUZsUGk4aXgzZXFYa0FMVUNwZHppNWdJa3kxVGRGMkRuUkszUmNDcnBncDJLV2g4WkRpT3RxY2hCQ1g4TG80SG1YSjJuTU9WcFR2TzVfbUdHV3dtOVZnQmhsUW9pVnVka05hWExDR2hLRDFGOFJrMzl0YjllU0Z0UHowcTQxeW5FZGlFUDFFUndwd3dVSFRE?oc=5",
+     "when": "2026-11-24 13:09",
+     "ts": 1795525794.0,
+     "flag": false
+    },
+    {
+     "title": "Surgical equipment & consumables - specialty stocks Q3 in review: Integra LifeSciences vs peers",
+     "source": "TradingView",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNb1d3eTh2V0xHamlFb05WVkRDamExRTViTzJjenJwUUZXSW0tSV93MGYwYjloVkl4Mmx3WlB1SWxPT1FYRkQyQU10TVloZXV1d1didHY5SWRYdXVaREZoaTd1RHg4NE5jam5SUktLY3N2UzdmUzZ2MjFIZUR3LTB3WVM0MXNFTkNpV2lrS2lwa0xINmlYdWlJZTBGUGlyY3pwVUpqVXdWZnFCWTJDVjdsU0lxRVJvMGVDSmU3UTB5Q3o5QXhoYzhWd3MtVkp5X2xhOE1rODF4SWVXRlZEQUVXWjNnRnk4QQ?oc=5",
+     "when": "2026-11-24 03:33",
+     "ts": 1795491180.0,
+     "flag": false
+    },
     {
      "title": "Cardiovascular and Soft Tissue Repair Patches Market to Reach",
      "source": "openPR.com",
@@ -1139,10 +1284,10 @@
    "tk": "GRC",
    "name": "Gorman-Rupp",
    "cur": "US$",
-   "px": 67.87,
-   "chg": 0.06,
+   "px": 67.14,
+   "chg": -0.0108,
    "buy": 18.21,
-   "gap": -0.7317,
+   "gap": -0.7288,
    "verdict": "GREAT - wait for price",
    "what": "Gorman-Rupp: water/industrial pumps.",
    "story": "Record sales; durable 100-year niche; orders flat, P/E 25.",
@@ -1150,27 +1295,11 @@
    "deep": null,
    "news": [
     {
-     "title": "RVP Stock Dips Post Q3 Earnings Amid Sales Growth, Operating Loss Widens",
-     "source": "Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOajBtTzlDQ2g4YXZha3E4TkpmX0kyUVlSYWV5R19HWDhGdEhEdzM1eE8xX2ZZampuc1hyWG14RVlnaHRUNksyd1hQVmZxYURTSHduTnhxYzJoSjdfWWUtY2tfQXFoMGJGc3JxLVpBcXBkMEVNUWxHODRQOHViMEs2R0R6Ny1CTkI2SGp1Wk81Szc?oc=5",
-     "when": "2026-11-23 16:13",
-     "ts": 1795450380.0,
-     "flag": false
-    },
-    {
      "title": "Technological Advancements Drive Growth in the Fuel Transfer Pumps Market",
      "source": "openPR.com",
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORTI5UERRczlCYzEtcEd3SkhTTl9KbmpCWTVxdkFEQVZOZ0gzc0ZJYl82Z19MRWdJNzRTMWk3M0JxdUlxb1BqZS1RUDlDMW45WDk2a0FtTTlMb0hZeERkVlY1N0UwVEpEQW5mckdhWGVld1VOZWpNM0k1M2ZQRlEzNlZNWVMxV1UwZ2l0UUNiSDRxNUppb3ZldDhILXo?oc=5",
      "when": "2026-11-23 12:43",
      "ts": 1795437780.0,
-     "flag": false
-    },
-    {
-     "title": "Pump Manufacturing Market To 2035: Water Infrastructure and Efficiency Drive Forward Growth - News and Statistics",
-     "source": "IndexBox",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSF92RUtYMmZVSmZrOWlXQXk1SHJGVVZSQVFVSTlod3dub2ZZQk9sb3EybWdadWxjRjBnTWppcVRfRi1WVHcycFdqa3k0UTdyeklPbFB1TWhib0ZPaDh1OTN0THVKMnBFQ2ZYX016OWZfdlg1T094VGc4Q2F3c1FEUGMwcW1NbDFjNDZNdmZhS21LQWFpaWRUZDVLSm5QNDRlVXhvM0pGckdpTzV6cjBwWXlKUENieDVzRGRRNkFTaWlpYWRKalVzT2ZsZnBzczhaa3ZMZUoxMVU?oc=5",
-     "when": "2026-11-22 11:41",
-     "ts": 1795347664.0,
      "flag": false
     }
    ]
@@ -1179,16 +1308,40 @@
    "tk": "MLM",
    "name": "Martin Marietta Materials",
    "cur": "US$",
-   "px": 521.31,
-   "chg": 0.0411,
+   "px": 526.17,
+   "chg": 0.0093,
    "buy": 130.36,
-   "gap": -0.7499,
+   "gap": -0.7522,
    "verdict": "GREAT - wait for price",
    "what": "Martin Marietta: quarries (crushed stone, gravel).",
    "story": "Local quarry monopolies; big Lhoist deal added debt + new shares; P/E ~39.",
    "src": "https://ir.martinmarietta.com/news-releases/news-release-details/martin-marietta-reports-record-third-quarter-2026-results-and",
    "deep": null,
    "news": [
+    {
+     "title": "Perry Sites Obituary - The Herald-Mail",
+     "source": "The Herald-Mail",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4a2twdDAwbkZiWklYY2ctZ1JnSEVQMGpWOXppRGMwOTNkM3ZYa2NXTVF5N2hHdW1tbFFyWmdCbHcxaF93TC1ZMUREdlFpdUJITzdhOHYyTjVtZ2RKSWE0VVhHNlg?oc=5",
+     "when": "2026-11-24 21:33",
+     "ts": 1795555980.0,
+     "flag": false
+    },
+    {
+     "title": "Martin Marietta Materials (NYSE:MLM) Extends Its Rebound as Record Revenue Meets Softer Aggregates Pricing",
+     "source": "kalkine.com",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTkUyakV1by1zZlNzbGNEaUNqcVpRMVNnYUhmR3lMWFE3eHY4YU9mOGhiUzY5REl1cnR4U2JQTXlIWlVlYVZhb2VKVWwtN3lCak5oM2pxNS1Pb1RZRmFad3FiSGNOUGdVdTE0czhmM1VEMVdaNGZBYVRUOVM1Q2VzLU5FOEZqbEd0bnEwLUhzdm8yZHM2ZVlFRDZEVld3eGlCaDF6R0tUSm93aFVnX2M2SXFFbDUxbHBkeFdCS19Cc2JGZ0hfTU5VTE9YVlZhd3Rp?oc=5",
+     "when": "2026-11-24 21:15",
+     "ts": 1795554900.0,
+     "flag": false
+    },
+    {
+     "title": "Why Are Investors Rethinking Martin Marietta (NYSE:MLM) Today?",
+     "source": "Kalkine Media",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWmFRdjA0T2hfcEJjQ2FoLTB3Skt0MzhidnJYY2FYVlVSemFLUTZZbHZQeUJ2WTl4bVF5dUZIeVRRWlhmSGwySE9HcXkyU29IZ3RYTEhwZzFpUFlycWxaRjJpNUdqTnNKUFVZakZYZUJ4TVJvUFNZZVVUVGtNVXJzNjJtVWh2ZHMwQ2x2UWVxMElPNGlITW5KcGtSZ2lNbFpmLVozeHlsdldiVXkwWGFR?oc=5",
+     "when": "2026-11-24 07:37",
+     "ts": 1795505820.0,
+     "flag": false
+    },
     {
      "title": "Is It Too Late to Buy Martin Marietta Materials Inc (MLM) After 4.1% Rally? GF Value Says Undervalued",
      "source": "GuruFocus",
@@ -1204,30 +1357,6 @@
      "when": "2026-11-23 21:54",
      "ts": 1795470840.0,
      "flag": false
-    },
-    {
-     "title": "Haddon Township Memorial Service Set for Charles J. Smith Jr...",
-     "source": "The Retrospect",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU2lOQzJ2SzQxYk1KV2xXTnBLZDBKeWVxTDhialczRVdaWDFCUVIzb282blpvTEhCUWEtd2lScEZTWHZfUVRMLWk5cmluekZBOVcyR0dEMFBEZzl5aWFnUzVmVmowNWxNNi1ManpfMjJlSGIwcHlNVmJ2YTdJTkMwS19FUUZwbTlQX2piQzZzVDlobXdNeGhQOEFYTFdFS3lrdlNkZjRBVHJSU2xrdVE?oc=5",
-     "when": "2026-11-23 20:38",
-     "ts": 1795466327.0,
-     "flag": false
-    },
-    {
-     "title": "Here\u2019s how Fayetteville Street will look under Raleigh\u2019s new streetscape plan",
-     "source": "Raleigh News & Observer",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd0RDdUUzV1VwQ2V0NXBKTG41NmFqLTlaYWdOR19PMDk4ZUUyZjdQdU9tVEJUbVR2dXRDdzdEOTVsQWVfR2xSMVhsQVJGVGRFN0dVQWM0NW9WanljS1MwbXozS29fOTFFU2dGNXprb05VcERydlFpQTB5ZXBLektKVGpGdzJnZk5fVFHSAYoBQVVfeXFMTUJHanR3bC1FZ2FvY1NqNHZfdEhhQlUySWZXTUdkMjAydW5IVHEwSXJsRHZjbzFxNVRHUkJ1QmNIQ2lsMTNHcUNPalN0N1FxVXg3NHNJOFNWVHZKZ2JGdEJDeHNuY1VVMS1ZTHV3RFpSb3Y3RWJKeG5QRVdFNUVlakRXYUliYmFqSTZB?oc=5",
-     "when": "2026-11-23 19:13",
-     "ts": 1795461180.0,
-     "flag": false
-    },
-    {
-     "title": "Perry Sites Obituary - The Herald-Mail",
-     "source": "The Herald-Mail",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4a2twdDAwbkZiWklYY2ctZ1JnSEVQMGpWOXppRGMwOTNkM3ZYa2NXTVF5N2hHdW1tbFFyWmdCbHcxaF93TC1ZMUREdlFpdUJITzdhOHYyTjVtZ2RKSWE0VVhHNlg?oc=5",
-     "when": "2026-11-23 17:03",
-     "ts": 1795453395.0,
-     "flag": false
     }
    ]
   },
@@ -1235,10 +1364,10 @@
    "tk": "GOOGL",
    "name": "Alphabet (Google)",
    "cur": "US$",
-   "px": 282.1,
-   "chg": 0.042,
+   "px": 279.05,
+   "chg": -0.0149,
    "buy": 65.71,
-   "gap": -0.7671,
+   "gap": -0.7645,
    "verdict": "GREAT - wait for price",
    "what": "Alphabet: Google Search, YouTube, Cloud.",
    "story": "Revenue +25%, Cloud +103%; real P/E ~30+ (one-time gains); search ads slowing vs AI. Berkshire owns it.",
@@ -1246,51 +1375,51 @@
    "deep": null,
    "news": [
     {
-     "title": "Google Retains Truist Securities\u2019 Buy Rating as Firm Sees Strong AI Monetisation Potential!",
-     "source": "www.tmgm.com",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFcyRjdhZ0pWT2VOSjdQRzZlbUp4cmtucDJOcnNHS1AyNlVCR1NtRW9aalQ5SWlKYjlqLUJ1bU80ZF9aR0h5Q283NVRUQ0NMdEQ5M1BvQzN0SVpWSTZFdThwWERuYTBUMHRwRkxmVEpIYU5qeDhITkpkVl9zX1IwZUJkV0ZsSDVmVDJaZQ?oc=5",
-     "when": "2026-11-24 04:36",
-     "ts": 1795494995.0,
+     "title": "Google Files Patent for AI TV Channel That Clones Your Face and Voice, Turns Your Personal Data Into Ad-Filled Videos",
+     "source": "International Business Times UK",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSDRvNzlRTURHUk1Xb1czTjBkMUtZcDFtWlNrYS1jUkZFNW8zRWR2WmNiclZNSi1Pel9QMVZWV3dtcHJFMU5tTnprT09acHhPUmFsN1h1N00wdU9xeU04Wk4wR25Mbnk5Zzh6V0lqSUNEUjRZZC0ySW1YaFRIRGQyX1NzUQ?oc=5",
+     "when": "2026-11-24 15:06",
+     "ts": 1795532777.0,
      "flag": false
     },
     {
-     "title": "Truist Securities Maintains Buy Rating on Google, Sees Strong AI Monetization Potential!",
-     "source": "www.tmgm.com",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeGszbURTNG1rT0lEZHNSOTRac3hVV1ozNVE5UkJPS2JNcGN3X0FQRU9zRVNwZi1WMm55MkR3MmFKWlZ3TEljY1RMTDVJRF9NN3NCSFVrTlBjQS1JMVNsOVR5cndLaG5mUkhNaWpETEJYNF9CQ1VfazNSLXNmWlRNb29OWFpXS1Uw?oc=5",
-     "when": "2026-11-24 04:16",
-     "ts": 1795493791.0,
+     "title": "Nvidia overtakes Microsoft and Google as Market Cap jumps over 30% after CEO Jensen Huang returns",
+     "source": "PC Guide",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMm5Rek1KNUxMRXpwaE95OXhyVDVDNk1OOE1aY0VFOHBWb2dDbGtCbzhIT3g1S3JJTWNHN29BZWRwbTJ4aUVJYUc4a2xGUzhnaENOM0tLaVM1QVFaeEdsdU1lTWpNeS0wM2w1aGU4amtSMkdqZ2o4M0NzSldGLS1HQUlvOVg5OG1fcTdQTlVsZlR6Vm95a0MxV2NfZHd2ZFRPX0lUNXZObVBzMzY0bFFoRUJDSnlpRzhHdGtlZDJhdWZDZklUdnZXVk1CLTg4aTQ?oc=5",
+     "when": "2026-11-24 10:52",
+     "ts": 1795517535.0,
      "flag": false
     },
     {
-     "title": "Nvidia Shares Surge 31.5% as Jensen Huang Returns as CEO",
-     "source": "\uc870\uc120\uc77c\ubcf4",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNnJCR0pFSmhaZlBfM1NhSl9iMm81UXZGaGZiZEFmR0hBOEdoNlFxU1Q3dUt1N2YzMVoxS05xQjlfcGplRWMtTkVBNFZzbTBHX0tWUmoxMGpZZFQxMjIxYVlqQUtGbF9kVk56cHY4RW5GM0JHRHA3WGppMUU1RlppRzR1MW1uem5k?oc=5",
-     "when": "2026-11-24 01:49",
-     "ts": 1795484981.0,
+     "title": "Google Cloud dismisses reports of large-scale India layoffs",
+     "source": "EdexLive",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVF9PNE1iUnVGQVdydFE2czE1YkEyTDlmM21WeTNpTERNaGYzLTJnWFk2WEZYMWZZVWpabFNGS2NIX0RqTXliS05MQk40S2NoeUN0MHhwdTV1TFV6Q0pSSURZODFSODg3eGJLN3JCNERIeWhVeDBvUFo5QS13ZVUwcFIyNzBXcXV5bDJrS2ZoczlILTDSAaABQVVfeXFMTkFmQ2xJYWdNYXNJMlBGeDdoZlRsOV9XbjRSY3BzUW1nYjZVZ0NBQXNhdm5zQzFxYUU0MkU1dU15RXhlQ2Nndk85eU1BSWU2NUhMaGZaS0M4X3AybGRnRGJyY3czY0tEQ0VLRXFsam5BTTNJVUZvZmpTVTA4ZkxHNUZDVkl3NlpGQUY2dWhZWURUcy14ZVFHOUR0RUlsWTc1Sg?oc=5",
+     "when": "2026-11-24 10:45",
+     "ts": 1795517100.0,
      "flag": false
     },
     {
-     "title": "3,416-space parking lot proposed for Columbia County data center construction",
-     "source": "WRDW",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbnZYT3FPOUoxemFPY0VXTWtzRmZjU2Y5Uk9BUWRHVUVGV0lXS05MLXhiOUNUTkFkdklkRHRXQ05nTS1LYV9yMTd5RlFfRVN2ajBzenFaMXNRTjRtUDNnN25Famw1ZldDME4wa0k2WUdqbzl3S2hMYmhMZVNYM2pjR3BFcUJsQ0NKcTVTS2hEWlZmbV9FWFFHTF9IS1czamdKRGdIdVo0V1d3eE9EMGhFS3JFU29wangxbGFRaNIBvAFBVV95cUxNbnZYT3FPOUoxemFPY0VXTWtzRmZjU2Y5Uk9BUWRHVUVGV0lXS05MLXhiOUNUTkFkdklkRHRXQ05nTS1LYV9yMTd5RlFfRVN2ajBzenFaMXNRTjRtUDNnN25Famw1ZldDME4wa0k2WUdqbzl3S2hMYmhMZVNYM2pjR3BFcUJsQ0NKcTVTS2hEWlZmbV9FWFFHTF9IS1czamdKRGdIdVo0V1d3eE9EMGhFS3JFU29wangxbGFRaA?oc=5",
-     "when": "2026-11-23 23:54",
-     "ts": 1795478096.0,
+     "title": "Google Cloud Cuts 30 India Roles Amid Work Reprioritisation",
+     "source": "BW People",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRnFFTDRwakVqcVNieEl1Nndtekxsd1JjVVVjcFlJN2lrQjN0dl9YOGNoblFIYWFfeFlPYlFqeU02WW4yWmtBM1VRcDM4ZkVRSW91SlJKcmVGc05EWVFWYjRZZ1VJS3l1MVhyWDNyUDRvN0FZalpwNDBRM010bnZaYzI2THdNWk5TeWU3SlVTVGtndk81amZrOHRlX29sTk0?oc=5",
+     "when": "2026-11-24 10:17",
+     "ts": 1795515466.0,
      "flag": false
     },
     {
-     "title": "Nvidia Surges Past Microsoft And Alphabet to Become World\u2019s Second Most Valuable Company Following Huang\u2019s Return",
-     "source": "Tekedia",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRGZNZklnR1NieUY5ckplNFBuU3ZfeVRjbUl2dXJMalFRc2VJc0h6NE5BRHc2WVpJTnlhYklEUldRVEQ3WG9VeWQwd2t0dmhwcV9JM2FidHJydV9maXlsOTBQdEVKczdpb0NqMEZTZ0FDb2xFWUNCMWw5aDlCdks4a3hDMFRDNWdrRmxrSmJfa1MwYTJMcjZ5NG1EOU4yOVJXZXV1VWROQ3VabzVkY3BGMkI2V0F5eFpsOE9rZVliSTN4TlJzX2RuZlBwM1A0dU55ckE?oc=5",
-     "when": "2026-11-23 21:10",
-     "ts": 1795468255.0,
+     "title": "Alphabet Google Ai Video",
+     "source": "Kalkine India",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU0xqaTlKMnlmS285Rkx3SVFreWkxSHZJVEZRRFhvS1I0WnIwX1o1Mk1PRHBMZml3NjA4azVJNDJwVkVtMDUwZGFrZ2czN085REhOR0ZWaXd2Vm1xdkNTelB6N3RPanE0U01tZUlLLVZ2Tl92UzNwcTBKZWxjMUtVU2FDMWZDaS1tUm5JWF9zWTdMTTEzRGlpVTRnWkV4S2lCTXdyNUp1Y3F4MkdjSDQwSzNPTkpsZ0VZYXl2VlN3N2xYZDdW?oc=5",
+     "when": "2026-11-24 09:30",
+     "ts": 1795512600.0,
      "flag": false
     }
    ]
   }
  ],
  "crash": {
-  "SPY": -0.0729,
-  "XEQT.TO": -0.0581,
-  "QQQ": -0.143
+  "SPY": -0.0774,
+  "XEQT.TO": -0.0669,
+  "QQQ": -0.16
  }
 }
