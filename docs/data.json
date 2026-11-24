@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-24 23:39 UTC",
- "usdcad": 1.4267,
+ "updated": "2026-11-24 23:54 UTC",
+ "usdcad": 1.4273,
  "portfolio": {
   "start": "2026-11-12",
   "start_cash": 10000.0,
-  "value": 9902.17,
+  "value": 9902.36,
   "pct": -0.0098,
   "bench": 9458.81,
   "bench_pct": -0.0541,
@@ -23,8 +23,8 @@
    {
     "tk": "ITUB",
     "cost": 500,
-    "value": 445.67,
-    "pct": -0.1087,
+    "value": 445.86,
+    "pct": -0.1083,
     "px": 6.72,
     "buy_px": 7.32,
     "cur": "USD",
@@ -198,6 +198,14 @@
      "flag": false
     },
     {
+     "title": "CGI Inc. Class A (TSX:GIB.A): Why This Large Cap Value Stock Is Trending on the S&P/TSX Composite Index Today",
+     "source": "kalkine.ca",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUVM3cFFZZFQ3Yjd4WHhCUjYzVnB0RFpzNEdrTktDMHkyZVVlVk9sNFhJX2N6SXdrdzB6SVhTRDh4VVlHV2k4YzBRTVdFX25YdF9ONnRSYmFPeTR0dFZyRzFCMHdsaXZ6cWRDeVBOSDNOb3JiQURlVl9XZ1JNVkJJZUQzNUZfMy1kWThtTnBoMVI5NzM1V0JvU2xiVmVPZXNIRUJpTW83OXROVE1KRlMyVWxQLThqVWpFLTNUTWhJYzR3a2hlUWk5RktvU0VKVVpDYnc?oc=5",
+     "when": "2026-11-24 17:13",
+     "ts": 1795540380.0,
+     "flag": false
+    },
+    {
      "title": "Technology Focus: CGI Inc. (TSX:GIB.A) \u2014 S&P/TSX Composite Large Cap Growth Stock in Focus After Fresh Corporate News",
      "source": "kalkine.ca",
      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUlVmZmtUaXQ3U2hNNzR6M0lLZUg3QzYtV1pTNnlJZjQ5VVZVSENiMHEyOFRlZURNMm85bUZlbmx2N2lGZEtmbkN3N2Y4QUdaWDJmMU15Y25oVnhjVl91aC14REgtYy1IWGxYSng1RU54WDRGTnNvSTY1M0lXV3dMYWJSY2JxNzk5cDRaSXFuZTVFWVhCN0FsRnRjTlhRQTNlMUU1S2NCTUZPNGx6UU50OVhCMTk1MmJ4eXdYZHp5WHNEYmFVRVRjaF9GWjhKT2JhLWtzdDRmN3BiZw?oc=5",
@@ -219,14 +227,6 @@
      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb1BnNXZTajVOcVNUTENwRktJVWs0UU5hSUJJaWZfNkxTbk9teEpJVm5vV0xXUVM1Vlh0LXYzUGYzQ1gxTGt6MFZRVXUyWlREakRuWEd5S2NLdk9vSWFTRmlyWGxUMkxvN1JNTjVKQTUxOS1uQlpxWDNiY0FteXFRa2lDSmxDVE5nS2NKOGJnemRtUnc0Z1NqeWdUelgyLV9tT2FZZHN1STB1S0IybkJVbHJyYnBOaDFDWUlySkNHZTV4NVlB?oc=5",
      "when": "2026-11-24 11:55",
      "ts": 1795521317.0,
-     "flag": false
-    },
-    {
-     "title": "An AI tool flags possible brain bleeding on CT scans. It is certified for medical use in Europe.",
-     "source": "Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZHc3NzFIX2RLcFFjNHktQVM0cWFUMEZsWldCWXVYSFRhWW9OXzR0MWJBMTctYVhWS1QtNnBNNlBxTFM0VnVlVkhEVV92dUg2ZEZZeVJEbVBlX2FXS044eXppRl84aDY2Z2gtdzFqOE1MQmducVF5WGFmeGNBOTNQQVMzdExKWnh1MlNGazJLcHl4b2FLYnhpcTlKOW55WmIwUGNnejZZb3plWmdUZ0p4NmxVc1ZJTFBCRmc?oc=5",
-     "when": "2026-11-24 11:30",
-     "ts": 1795519800.0,
      "flag": false
     }
    ]
@@ -457,6 +457,14 @@
      "flag": false
     },
     {
+     "title": "Viro Resources Ltd. Launches Trading on Canadian Securities Exchange as VIRO on November 26, 2026",
+     "source": "Kalkine Media",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ29Xd2ZicDBZcDhCeUxkUU1Wek5MSjc2NENrTGZiRGFmQU5KN1JsSGFfNUhKMlFrdGtRVGIzTVB3RlFCQjlPTlVWaVl5X2NTclJQcHJudjE1X3ZjX3NVVTZyZTgyQm5MXzg0andzNm1JaGp3VnN4UlF0NmpCcUZqdHdubGYyTnFReXBtdnF4ajEteGFwUzk4c296VG55SHh3V20yNGQ2T1UtZFExeWlTak9GNjdfeE1mVjJLREZGeFd2UTR2TXEzejFqNlVnY0FHUDBpdm15XzRFZw?oc=5",
+     "when": "2026-11-24 21:31",
+     "ts": 1795555887.0,
+     "flag": false
+    },
+    {
      "title": "Canadian Natural Resources worker loses disability complaint after refusing settlement offer",
      "source": "Human Resources Director",
      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVkVUS0RvR2hpRFJXM29fY2ZmbnVVX003ZGFfYUMtQTVyUGEzeUtVMjNYZ05BaHJ4RF9BMVRBdmpmYjQ0T0owY2dmUGstTmZmYlVSNjdEMW01THZLcW1kQTZ5VnVEbDM4SGcyTGdkYmZEbU9NOFdRV2FtYkpRNkVSbmllMXhYdHY4MDFMRmJqbUFqa1JtNDJiMEFpN283cmRWM2owcy1idDJTZlRDaHFCbHhGbUc4dlhBTy1vSFhGMmREOExCNGlzbVJYMTdCaDhGMXhNT3VFSERna2JtZVRnLThJZWxDZkNhczVF?oc=5",
@@ -478,14 +486,6 @@
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV3BhSm52aExHdnhIdl9fNjFkZHlVZWpmMGoyM1JkYmZib3dabllpX0hxdGZTWDdOYkNJMGpCT0RLTXY4X0NCQVBXZGg3QmNqNkw3SW50UE5VZE94WE9ISXZrWmM1WTA2X21oZWUzT0RrVUdKdUl1YklZN011dzFYd0p2RWJrOUNzR1ZiUmNONzdxX3BHTkdRQmdwRzlwYWJKSHFQaWpzb1c?oc=5",
      "when": "2026-11-24 17:44",
      "ts": 1795542287.0,
-     "flag": false
-    },
-    {
-     "title": "Canadian Natural Resources Limited (TSX:CNQ): Why This Large Cap Value Stock Is Trending on the S&P/TSX Composite Index Today",
-     "source": "kalkine.ca",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZmxqNnRlLVR1cnEzVGJ0NF9SVmRCODdGa3ZrNDV6UGNZbjJvX2VjdlpCN3h0U3JaRHdRbFZKbnlhQVVNdXRVMy01NkFrMjRPU091Q3IyUFcxWkdOdWxyYlBXbjZ4b0VGUGJpZjMwQzgyVGIxZ0hScjBOUnE3VzZXS3VhcGRHUk5UcElyTjhzSV9xTVREczJSd0w4QVAwLWotUFg2R0VGTEtRVTg1WnB2b1VVV25Db2M4VzlDM2lKN01Fa2x5OGl1TkwwOXp2emdwam5zQnNUU1hpTmJ3Nkt2dkxLUXk?oc=5",
-     "when": "2026-11-24 17:13",
-     "ts": 1795540380.0,
      "flag": false
     }
    ]
@@ -560,14 +560,6 @@
    "src": "https://finance.yahoo.com/markets/stocks/articles/advanced-drainage-systems-announces-second-114000589.html",
    "deep": null,
    "news": [
-    {
-     "title": "Ottawa family, Findlay company awarded for water stewardship",
-     "source": "LimaOhio.com",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLWt0LVFZelZrR3NGV2Q5bW9naHozTTFHeHc2c1hZSnZSQ1Nhai1fT0hIS2RWX1VieGZjVHU5dEk1M2NEQ2ZGQmpwZVBtZ3E4RmlneEJVSVQtalN4dzdyZmpCQUdDcm9OX0VXQWFrdC1WMkdLMWcxMmZzVk1MWVdPYzk1SGtZWmxBd3U1Q2d6bDlYSS1FSVJZOGQ0UTFtaFVQN09KZU1nOTdnS3BX?oc=5",
-     "when": "2026-11-24 23:00",
-     "ts": 1795561200.0,
-     "flag": false
-    },
     {
      "title": "Virtus KAR Mid-Cap Core Fund Q3 2026 Commentary (VIMCX)",
      "source": "Seeking Alpha",
@@ -674,14 +666,6 @@
     },
     {
      "title": "Intuit CFO Sandeep Aujla to Present at the UBS Global Technology and AI Conference",
-     "source": "StreetInsider",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWk5sWkRyYU5lc3JheDBTelNNLWJEYlVBX0Z1M01sczExbHNiSVJ2VjVHTW1rbVZKbzVSd0RFT1F1V2FlT1JCVnN2Q2Jzb3d0MnVicUZ6NG5mVWJpTVJMM1BaNk8xSS1IVng2ZFo1VHlxaWRES1NCZWFRUUNJWi1LbUpnemZzR0FEdnFXYlFJeWZMeW90RDRtY002NUFFTUVaeGRJY3VaNlF2d08wWnlacDJnQmh6X3ZtTDhsQ24xZHZwQjlyMHFlLWlWanoxSF8yVzJuaVpVNA?oc=5",
-     "when": "2026-11-24 21:02",
-     "ts": 1795554160.0,
-     "flag": false
-    },
-    {
-     "title": "Intuit CFO Sandeep Aujla to Present at the UBS Global Technology and AI Conference",
      "source": "Business Wire",
      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTTZpdTRGWW0tXzRhaUlTb0wwakpyR3NQU1pkbU94aVo1aDdlXzh6aEtvWEdkaUJlYWtsUkVHazQ5eWFybEV6dmt4N3UzSXhFQ3NRMHlHcHhmTUNJOU9KUWY2b0h3V3lfMHNYWGJGcDFXbG8tdmFnS01CMl93UC1WekN2OTdYUDZpcTdtaDNDREc1X0ZIcHVpMzRXay10YVZONmdZa2pXY21LYndtMU1tYzEzMHh5d2RudjBhc3hKcS1MS0NUY05Xa2tRM3VROXNlYmpPY3ln?oc=5",
      "when": "2026-11-24 21:00",
@@ -695,6 +679,14 @@
      "when": "2026-11-24 19:20",
      "ts": 1795548005.0,
      "flag": false
+    },
+    {
+     "title": "HSBC Downgrades Intuit (INTU) to Hold Amid Credit Karma AI Conce",
+     "source": "GuruFocus",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaGo3UFAweU84ZVB4aDNhY0hkdm9RUGJqT2lHWnJvdS13TWFBaVdZdmF0MTZmcUZpWU9UamlwYkpNOXJpN0RnNDJiLWlwa2JFYmJ6cXBXTEVtRFVMMmlKSnhhMU51a3UtNElNWERtczAxUkVGc3dzajBPLTl4N1lvbWp2MmVOMi12OGZva0hwTlZTc0NTeURnNEpOQnhUWmhHTlpqTlhpUQ?oc=5",
+     "when": "2026-11-24 19:10",
+     "ts": 1795547449.0,
+     "flag": true
     }
    ]
   },
@@ -1064,11 +1056,27 @@
    "deep": null,
    "news": [
     {
+     "title": "Auto audio chip race shifts to cutting power waste",
+     "source": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbmlLWGpqaENGTUs0ZDZXNnpVOElGSGUyNHE1QmdhWWxWMUZVeFV2SjNlT0lXc3N4YU93ckNOYVBFSGp3QThCOENhZTlha3FjUDVwWVIwMjZ1dHl5dVhEWmVrbDJRSjh5elRESkd1LU92cEl4dzlVUmNNVWJGN2ZkekttZmJWZW0tSzJ1cEhTMDkwbEpDcFR1TmE1RV8?oc=5",
+     "when": "2026-11-24 22:40",
+     "ts": 1795560000.0,
+     "flag": false
+    },
+    {
      "title": "NXP Semiconductors N.V. stock underperforms Tuesday when compared to competitors",
      "source": "MarketWatch",
      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc0JjYmJGNEtvNFZDMTE4VVh2ZENybXZUWGdWX0p4SUVwbkh5VVJYdkk0WUVzTzZ3MXpOSEsxejRwRGFmUzU1bkNDRGJZUzA0WDFTVTlpekp1aGwwMlRQOXYxVXk2Zm5RRVZGd3hvbkpyYWRmbFlVdVRoRDg3Z0RLZjlUMko4aDZxWWZEaUJ4R3JKMFhjY2xhdEFZa0NIeURVUEJrbXNGMTFVTmNKTWRFdjVXcFNPWHN0REMtS2FiTF9KY1lsTGp0SjRjSWFNNnRkMTRRSFFR?oc=5",
      "when": "2026-11-24 21:30",
      "ts": 1795555800.0,
+     "flag": false
+    },
+    {
+     "title": "Why Is NXP (NXPI) Stock Down Today? Chip Sector Selloff Drags Sh",
+     "source": "GuruFocus",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaThERndWNWV0VUhCWUgzY0hWZjhpS2JzNGhsMERJdnJRQUxHWF9jTFVYMDRPcnFKV2lMdGQtSHNNQ2NoOGRITDl3UFBPYlU4eklYTFJSbDdQa1F3MXB2czNRRkNHVHVlbi16MjdRV2NKWE12VGNiVTR3bG1wU29COF9SOVRxS1NzVER1MVhQX2VFN1FpZlVHZElnWkZPa0NXWk1JS1RVbw?oc=5",
+     "when": "2026-11-24 21:22",
+     "ts": 1795555350.0,
      "flag": false
     },
     {
@@ -1085,22 +1093,6 @@
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdW9pcjh3dl9nRlIxUjYxV2ZldGJFVTJ0WjFrR3BJS1pPbzEtMzVnRDk4Nmw5UC1kTXVpVlg2RklaX2szbXJnSDVXbWJIaWpHR3VPRDVSRFB3Mmh1WXdrSXJTdUlGMmFwbU02Zm1XVGlUQkJCUFUxNE9xbGM5OHhsV2Rleko0N1NIcll2UUliNmhwdGhvRk0yWldrdDZMOFc4VExfcTAtTzd4cU0?oc=5",
      "when": "2026-11-24 08:59",
      "ts": 1795510740.0,
-     "flag": false
-    },
-    {
-     "title": "NXP Semiconductors stock at EUR 235.73, up 2.00% - ad-hoc-news.de",
-     "source": "ad-hoc-news.de",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUnM4dXZyR1FOR2lQOUtwaWVFYWtYZUpyNGxYUTNEbmRBbGpQRnNoeFBxaDludVdieW9nY2E0M3lBLTE1LWlWZ2xwWWpDbmQwbFF1Y1FFN3R1RThJUXN1QUFZOW93Z09oUDlDWGZRTExwUmtPQnI4OWtqY2s0VDh0MEo5QlFnTTFTMk5SX0dra1BTNGp5REhLdE4zeGExdXFwOV9Yeko2NA?oc=5",
-     "when": "2026-11-24 07:03",
-     "ts": 1795503817.0,
-     "flag": false
-    },
-    {
-     "title": "NXP Stock Gains Attention After AI Accelerator Launch And Dividend Affirmation",
-     "source": "Simply Wall St",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORmtaZnNWRFpoTWpuMFVQN1E4V2EzdFUxQy1aaTczbndjSlJjRGk3cndyY01hLVdFRkZHZXFTYTNOZTAwN0E3YnBwYXl1Y1Y5QzFjb3F3RkRtOEZaSUd2WHI4VlY4TVFDNkgzekp4a3BleTFoZDZNNHRYZzRQYy14Yy0wX1drWjJXUkdOQnVsSnM5Wk1zUFhiTFFqOWNCcEkxX1lNWEJWWmVzc0hRaTMyMFhmQV9ORThidlFjZi1nS055NEc2WUszbEdWQWx4dndBWVR4d05NMV9OYW_SAeABQVVfeXFMTjJPSXZvZGM5WnBRb3FRUjJKa251cXdBTkZxZGZsUGpXaGliM2dsWXR4WHphYnBUcXU4dHpqbVg2N09nYko3Y0NGejFDTFBTT2dPeWZWalhWZlpQQkV4aEhESk4tVjFybE1CQWxiSzJxbTFabFE5Uk0zeU1jTkdjQU1FOXk0VHV1ekFCR2UwblV2Rm9KS29XR3dwTjRwWnpqVDI3eWllWS1HempWdFVXU2dUN1RUR2JzQjRIbDNzYU9nU01rVjJ0eVJ5WXFSRHU4LVp4WTVkWkRHb05ZS1lWUXM?oc=5",
-     "when": "2026-11-24 03:16",
-     "ts": 1795490190.0,
      "flag": false
     }
    ]
@@ -1191,14 +1183,6 @@
    "deep": null,
    "news": [
     {
-     "title": "Interparfums, Inc. (IPAR) Stock Forecasts",
-     "source": "Yahoo! Finance Canada",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVGxXTFU1TVg5d3R3WXhMVmMxdkdSZEZaNlRKZklBWENjdTI4SlZSNTBUS0lHSGdSRVpQcUFLb3d2RFpFc2NLV0pBME9BelFxd1dhM1BNWFJNVl9NVUJPN3JkRGo4UUF2MzduNGdZOV9XTF9OdF8xcXZWT1cyRTZtZnlpaF9KTmJNd29QYmVjRzk2Qlk?oc=5",
-     "when": "2026-11-24 07:43",
-     "ts": 1795506182.0,
-     "flag": false
-    },
-    {
      "title": "Interparfums (NASDAQ:IPAR) Reaches A New Yearly High. What's Next?",
      "source": "Kalkine Media",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQWR3MExvdmRJYUdTMkdjUE1zeXllN0FhQzNVMGFSLVE0M3R6Ynk2X1hyUWpoS1dNQkdGSWtqOWpoTGpIRWVTNVhoOW9Cbk9kcEt0dW9MREhpdnFsbUE0cWdST19FQmxveFB0QTBXV3dMT3dhME96dU1LLXdMM0h3OWtZamRsWUdMZzZldjJoOTRWbHRycEtuZDNpVXZXWWU2MTBsSy02Yw?oc=5",
@@ -1228,6 +1212,14 @@
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RdEN2YjFIMW50V3dway1YMWpzTWdpYzZRdFpwMFA4NlFUZWQ1Tkk5dlZfM2lXTXUxQjRjUHdBcEV4V05DTW5pZkNYRjZraEIyUlJxNjV2SVV3RFVVTzFUOFJ3R2V0UTdEZEtjZw?oc=5",
      "when": "2026-11-23 08:27",
      "ts": 1795422420.0,
+     "flag": false
+    },
+    {
+     "title": "Goldman sees limited upside in Interparfums after 65% share rally",
+     "source": "Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOHBYcnAyM0FXcG5wOHh0RF9pQkdtUlEtWGtldHFRQ3JMNjZ0NHpOQ1p6OUtBMkdzRFd1RHFHSFhOTkN5eDVqakowU3c4aGhhOGlxRFlwbDVJdVlXZnBzcTlhSWxraTgwTk5rNXFqajJmQ3hxeDlsckpoSmRkR0Q3akhqc3ZYOF83MThoUXRvY3JUVUcxWFZHNkpHSmZrTndzNmxXZWhaRWFaZFZQeTNwSFN6Sld5S1YzZ1hnTFJR?oc=5",
+     "when": "2026-11-23 06:37",
+     "ts": 1795415839.0,
      "flag": false
     }
    ]
