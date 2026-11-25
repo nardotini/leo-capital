@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-25 23:21 UTC",
- "usdcad": 1.421,
+ "updated": "2026-11-25 23:37 UTC",
+ "usdcad": 1.4213,
  "portfolio": {
   "start": "2026-11-12",
   "start_cash": 10000.0,
-  "value": 9900.13,
+  "value": 9900.22,
   "pct": -0.01,
   "bench": 9446.76,
   "bench_pct": -0.0553,
@@ -23,8 +23,8 @@
    {
     "tk": "ITUB",
     "cost": 500,
-    "value": 454.47,
-    "pct": -0.0911,
+    "value": 454.56,
+    "pct": -0.0909,
     "px": 6.88,
     "buy_px": 7.32,
     "cur": "USD",
@@ -81,6 +81,14 @@
      "flag": false
     },
     {
+     "title": "Top Analyst Reports for Apple, Philip Morris & Intel",
+     "source": "Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOajhkVUJGRWlCdUVKUHJjbkM3OURLZ3F4OXoxVW9VQ0ZhbFE5N1NBSF9qbHhSNjRiQ0U5R0owcWEzek85WmMxUWQ5d2Y1VnE2bTlLVVNLOVh5aVZsQWpVOEFUUktubEk4bktnVFIwSjMtSjIyZm9tOUhmN21pa0xCdDlyQ3l1LTJLeGJDeVd4TmFNa25jQkZ6ZVk5enF4QQ?oc=5",
+     "when": "2026-11-24 20:53",
+     "ts": 1795553580.0,
+     "flag": false
+    },
+    {
      "title": "Nu Holdings Scales in Mexico: Can It Unlock New Revenue Streams?",
      "source": "TradingView",
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNGtmYVlYdUZhdjJtSEtma013MDRBWVdwcTR0TzhoNEl3WFg2d2VwR2JnY1pYczItVm9KazdZRUo0VkVrMUNMV3Z5c1ptSFJFNC10ZElfc0YwajBOclByRW5DSmVLT1dLNzFQbkxGWkhrQUdPcEJUSl9qUUJXaHF1VGlyNHFiMFFiN1ZQN0FjTi1Kc0xfamxSQTJvWjRNRGlhb0tTZ2J3OHZoSWF3WERUX0s1ei1pMXdxU1E?oc=5",
@@ -94,14 +102,6 @@
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT1VuclM1UmdNREt6Q2RINHlKLTNjcXJmWGdOLVQtMUpYemNXYld3eUV6TnkzcF83Zzk2a000TlhJNDdZVnlfZTRpVGlKNXpkQnotUS1oNnJqTDgxTUd3b0ZmV1Q1YmJtek83U1hQUWk3RXdqQ2ltVlczWEUxU0JfX2NxelRBeGlLMXR5Ymx0c2pmOFFNcHlCZ2F1Rk1yMFBab250VXR6TGc1Z2F5MG9N?oc=5",
      "when": "2026-11-24 12:51",
      "ts": 1795524714.0,
-     "flag": false
-    },
-    {
-     "title": "Ita\u00fa Unibanco Continues To Perform Well Amid Higher Anticipated Inflation",
-     "source": "Morningstar",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObXRLbTBNLTNGWW5PZElHQ0pmODVPTlRNcHdWREJndHFmR0VrSzBLVjMxM0J6NzJ2OTdyUTlteHltbzF4eEh3Q3RZOEF5aFFuZXdnZEVZM0VUZklXa0NHX1A0ei1FekFRRTFIemVVQ2gwV2xrM21fcnRTYXpfVGJDNDkyWlRvM0VlaE00SjR2THpkek43Zm5mblBLaU83dEtvZHJ4V2Nvb1Z5OE9HTGE4aGtCX2dQRkhpcnJENUE0aWg1UQ?oc=5",
-     "when": "2026-11-23 23:41",
-     "ts": 1795477298.0,
      "flag": false
     }
    ]
@@ -267,6 +267,14 @@
      "flag": false
     },
     {
+     "title": "Stocks in play: CGI Inc.",
+     "source": "The Globe and Mail",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmhDbmc4Z2owNlpzR2pvWUhHUmpfVHBZODh6cXdIMG1fLWlVSDRPTHJTdUpqSGNaeHJjSW15aExROW9zc3pvRm9BSVlIbmFrcExZOGlJdEE2clY0MlljVDZmWHNYTV94elROczlzM2xNVXNSSlAtV3hrSjU1SHVjNkZRci11YVZDZ09KR1p0Rmx3cmNjOVVnS3BESjBjT1drU0RxX3Fxb3MxSkdtcEdR?oc=5",
+     "when": "2026-11-25 22:33",
+     "ts": 1795645980.0,
+     "flag": false
+    },
+    {
      "title": "How Is CGI Positioned as the S&P/TSX Composite Index Faces a TSX Retreat?",
      "source": "Kalkine Media",
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeC1Ic21YcUU1bkdlbXhGS3dfVk5QS0pvUVlndnctOTZHcW9XMEttZGR6N0pyck1CcE4yVDhtQlVfWUxKckcydDFaekcwbUs2Z2JnZGl3enJka05pLTJTZ1p3RmkzeXdUYVppRWlHUllLV0o5a0NXekZWNk51SjlKY0MweFJVWHhxbG1sX3paaVdRcFh2a2RqclZOSE9vblNrUTcwSFg5cHREa1A2NngtZVk1bUxXZ0NwMHdKbkxLZTZWN3VYQXNuLQ?oc=5",
@@ -288,14 +296,6 @@
      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbFhRR3dSUE0zb0FreEFubnFERmQtNjc1RUtZQ3hzOE00U2NxX0VuN2IwZndpV2JycXlJaGdha2NyczRESW9hNUxGdXhOaWVtTnlBOVlxSFd2X0xydG1KOGItU2JwRmFEOVUzcUw4a3VOYmpXN2k0V1hsTDlWdkpMR280TFFGUjAzVTVwUHZEdE53NWpGQ3JSYnRVcXk5UHJVTUwzX1VwbXRDNWpvV1RXT3V5M3VwMDIxQ1ZvYTdSQ0VfdGlNWnBqUFZwOU53TzF3REdEMS16ZzJsU3I1VUlIOUN5OVY5V2w1?oc=5",
      "when": "2026-11-25 14:23",
      "ts": 1795616588.0,
-     "flag": false
-    },
-    {
-     "title": "CGI expands its u@Cloud platform globally to help utilities modernize customer and commercial operations",
-     "source": "Quantisnow",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUzBrOExnMGZUeEgwLURlMkRKdjd0N3lMU1RoWl85WWdYZ1BNMUpTVGo5Z3p6ZWtocURjMW1KejJZYmZDd2Vzb0tyZUotQWhQQjJsRi0yWkZNNk9nXzVNMWFEODJTR0lwdkVUWk5vanBiZ1Ayc1g0TjRDeDlNQ1lrVHpZbkplRWQ2TWFlSWVWSmVJMHpxaDB5QXRMcjIxQTBGcnZjb2ZLQlZNeDV5a3o0aA?oc=5",
-     "when": "2026-11-25 11:36",
-     "ts": 1795606587.0,
      "flag": false
     }
    ]
@@ -802,30 +802,6 @@
    "deep": null,
    "news": [
     {
-     "title": "BNP Paribas faces higher capital requirement in FSB list of GSIBs",
-     "source": "TradingView",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT1pQVWZPZkdybDlXQkZNUWw3V3daWDAtdGNaRHY2dU5pbHpfM1hlTENOV05qd0xJY1RKdEE0QUtMTnphV2Y4Y3VPTnl0dlN2Q1RWTUI0Q2hnbTZkaE9PazQtOU85a1dRX2dvMXdCVmxyN3lYbFd2UVJiQ0VnNmJNQUExV0tZUUpBYUpEZHRENnRhT0RhNVlwOTRfNmtxRDNVXzFON1M5b0dBUDR4V2ZENG5MMlR6eklBdGV3dnFvZXY5Q2RhSTJz?oc=5",
-     "when": "2026-11-25 20:55",
-     "ts": 1795640112.0,
-     "flag": false
-    },
-    {
-     "title": "Royal Bank of Canada Corrects Blue Owl Credit Income Stake to 0.79%",
-     "source": "kalkine.com",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMGpZMEdpYmxHaFpJYjdYbTVIVmdYZ0dhVlN4V0JoX0sxNmRMSy1aSUZ6NG5QZEhEc3lncVV4bXBIOVhTXzJtbnhUc1VQNDlrV0phTmVGNTlKUnBNd2FpTk5ZSnM4OVh6c29yNWloWWJQT2NMbW1vRnJqM3pFUm5vVDRieWhJY1RieGMtVllmWWdOV0VadlF1NnpYcHVJNUd0TTRxeTM2TQ?oc=5",
-     "when": "2026-11-25 20:14",
-     "ts": 1795637644.0,
-     "flag": false
-    },
-    {
-     "title": "Market Outlook: Which Canadian Stocks Could Outperform Before Year-End?",
-     "source": "The Globe and Mail",
-     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQ3BBMHBvRml2ajJhUzIzQUQxRzNUMGZtZV9YN1U0WEZwOUZiZVJtU1ppQ0p4WTlzdTFZZnRmUnZZZmtGWFJFb2Zyd050TmtVNXhDcEZveVpNNTlxdVF1cFlIZWt1UFgzZHBFZUVrdGxnNy1jdXA3aHVhVExtMTNIVGNrTExzMDVrdS1TbHl4bHUxTEtiWWJoR21OdXkwaXVydU9heEdBUnE1SnZsRUZPTEVNVDRQZEZpOVJKaS1uNGR3aVl1YWRZNmZZWEF4TVA5eHFlUTdwRTBMQ2pOOV9vVG9YVW9kYkQyVGc?oc=5",
-     "when": "2026-11-25 18:13",
-     "ts": 1795630419.0,
-     "flag": false
-    },
-    {
      "title": "A 30-Minute Fall Financial Check-In- Workplace Wellness",
      "source": "Royal Bank",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR215MHpyT0szckNraWJSaUhZNnNGYmRRUTZrV243ZDJ4VkVNb05DR25ZR0wzWEtuNlhHeTFTdTU5cmdfZF9XVDNwMTJ6OFpabVMtS3U3VHoyWEQyUl96Y3pybWZ3b2tHcDlYbWIwWV9kZnFVZmt0Wll3MTVUNnk1U0NLSkI4aXpiWVY1cVR6ektJMkVURUFnYVI5U0ZhQ2Q1eFVXYTFJYm9RZWw4LVZVWVBob2tRWTQ?oc=5",
@@ -839,6 +815,30 @@
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU29DX09ONlpBbGNYbms5YnhTWlRlREhBZ2pqaWhoeDAxeG95MVNxTDEwZnpvOUFVV1IybHZnazM2N21heVBQM3VEZUNaajZRajVVMDdzYjhzWXhJaEVkZzlFSExGdVhRSjFnV25Ec1dhaWE4Y1UzanhTVGpieEtib1lOVEo2S3FqaC15T1Vwcm5LSURHRTA1UnpZaC1TQTV0UXRpb2pMU2toaE13SXdMMUZlZFlzYks2a2c?oc=5",
      "when": "2026-11-25 16:05",
      "ts": 1795622700.0,
+     "flag": false
+    },
+    {
+     "title": "Royal Bank of Canada stock consolidates amid range-bound trading and support pressure",
+     "source": "Traders Union",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWkJTWUJIa0F1b2NhWm1WMWNBblBDN0RZNW0xdndMLXkyVmVzZnZWOEhGeU9rUFd2cTg2b21IR244SjF3MkFzSDhocUpyRTU2VDZKNDlYVlFTRzlPek1yT2VnWC14SjdhaDhxSThaeElRV0pXdi03UVdnSFo1c05tOTFxbw?oc=5",
+     "when": "2026-11-25 14:01",
+     "ts": 1795615298.0,
+     "flag": false
+    },
+    {
+     "title": "Royal Bank of Canada stock: CIBC cuts target to 294 Canadian dollars - ad-hoc-news.de",
+     "source": "ad-hoc-news.de",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc3g3eTV6SmEta2FJaS15QkFBTUZPam1oUkhiXzhLUV9weTdGN1B2WUREZHo1bDE3aGNUVUFKMTF5cE1Hd3Ywa05kYVZWdEMxN2RoM0FYWElhWkVETTlPQVFtRkRUdDYwQmcxenFkdVc3dk9wb1VLTFB4ME1qVGNabzhESmNTOVR4cm9IRm0wdnJJekFNa0NwVndVZE82Wmg5MzNuSXFBaWxQdjk3QTFYYlFUVHhWdjVNSkRyVUEwOXZpb24xOHlfZmVn?oc=5",
+     "when": "2026-11-25 13:32",
+     "ts": 1795613528.0,
+     "flag": false
+    },
+    {
+     "title": "Market Outlook: Which Canadian Stocks Could Outperform Before Year-End?",
+     "source": "The Globe and Mail",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM3hpcjUxSXB5OTB2VGlGT0RLR19lb0ZQeGtBbEFyMXBJY0h1cDRPWE1uaUh2azd2RFEzcUEtTmVyckUzaHZ3YTBpTVVYTmxpNmFubWtOTUxSNVpkX19jeXoyMnl3OHBOeGV4TWpCZ0I5T2RIcTVBbTZBNFF2OWtaRjFreFZ1NG4tbXJibTd0am40THBqbkp5UHI2dXRTLTdkYWNCSXhuYnZPa01CSjIwREtGOGZrNk9XTHlFY1k4d2xKbDNfQmQzNEJMQ1d2dHktRnFTY3U3cDF0cDZoVE8xQ0RTOE9ORFVrXzJz?oc=5",
+     "when": "2026-11-25 06:17",
+     "ts": 1795587434.0,
      "flag": false
     }
    ]
@@ -882,19 +882,19 @@
      "flag": false
     },
     {
-     "title": "Day 7 Apple Black Friday deals now live! Touch MacBook Pro $290 off, iPad mini, AirPods, AirTag 2, more",
-     "source": "9to5Toys",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTkF4bGVYb2JBTU9uc3U1M0Y3SkQ5YXlaRDhWd2RsSFZmLWpNWnk3VUhraVhsbG1oWkNGa21zNFZwTnVpME4xZ0VmWVBTN2pyS0VON2htMUU3d3dZdUZwMFVXM0pYTlVpeFU2cFAxUEtLZ2MxSmlNOG1tdERwYkFONTJoVzZRR21VUHlxaVVJNkZUWkdn?oc=5",
-     "when": "2026-11-25 17:36",
-     "ts": 1795628160.0,
-     "flag": false
-    },
-    {
      "title": "6 Best Ergonomic Mice in 2026",
      "source": "Technobezz",
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhcnJQSHV4dkxHYjlPSWNwOFhpWEY5Y3RQYlQ3c0dmM2sxd2Q4M1VmMFhGOEhZa0VtYTdWRzNmeTVma0dNMFJ6MDI3T2sydGdkb0lfQjV2NVRESmhTMU83QnFtU2NwQQ?oc=5",
      "when": "2026-11-25 17:00",
      "ts": 1795626018.0,
+     "flag": false
+    },
+    {
+     "title": "Apple accessory Black Friday deals: AirTag 2, Apple Pencil, CarPlay gear, more from $7",
+     "source": "9to5Mac",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11U0ZRSUt6cy1WcDRCa25zX3hhaXYxNUF3eDRFMjBFTUlvX0RaUk83NjYzcE9QQ3lVb1kyUk5JQjNaT2xEQ3c2WlR2cDlnbU82Q0pkaVl4TXB3ckRLN2d4RUFCTFpiM0lRWXE2TFlFdWluUW9SUTlhY0ZjWQ?oc=5",
+     "when": "2026-11-25 13:33",
+     "ts": 1795613580.0,
      "flag": false
     }
    ]
@@ -930,14 +930,6 @@
      "flag": false
     },
     {
-     "title": "Complete List of Consumer Cyclical - Restaurants Stocks",
-     "source": "GuruFocus",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQjBMOEdHUTJINUEyVW94RUFybGt3LWxxdlpqRUlycHVERlpNaFlwTVpKc0Z0UW9wa19GWXBWSEVGOVF5NGhhd0hicC1GTjZONU9jRjBRbXN2YUNqQU1leXF6bzhsV3ZtRVliNmZaMFppTmdLQTI2aXItM2ZUVFV5SkEyUjBsdw?oc=5",
-     "when": "2026-11-25 10:27",
-     "ts": 1795602457.0,
-     "flag": false
-    },
-    {
      "title": "Fast food and fast chips: Yum China eyes 30,000 stores while Alibaba preps for T-Head IPO",
      "source": "Bamboo Works",
      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVnNpNEhlWDI0aHg3V3AwUzdUTGd3LWVfZzVGN0czc0ttdmRJOWR2YjZ0RXRhLTFIOWtYMFRQRVl6QWV5dW81SVBxZEN6c3lsR3YtbmtNZ3A4WVQ2M1c0WkxPOXRiQV9SaUhZR01VeG4weldKeXZWQk5rSW4yRlI5U3g1anNGeVBxSXFER0J6UnE?oc=5",
@@ -951,6 +943,14 @@
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIT1F3UkptQlRoS3BKNmxvVTVoeVhlVVV5a1ZrRkN5b2VDaXN6MWRDd3pzMG92SC1kZ1dMbWVhaHdGbnlualhrVlpBSDFCZkxrSWlwb0xJN1piaHdJa2RoMHk2Y0l2ZW5FTXpvSm9VUG5jcFpxdmc?oc=5",
      "when": "2026-11-24 10:25",
      "ts": 1795515900.0,
+     "flag": false
+    },
+    {
+     "title": "U.S. Pizza Shops Close by the Thousands as Delivery Apps and Diets Bite",
+     "source": "Seoul Economic Daily",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTmhTT3BJUjdTRUdsY045TElPdTZVTF8tdDlpVlFtMDdkNUN5RGJHS1V5amg3M3BoTTh4T21SV1ZaLWpOSzJ6LUpIUWJTSkxvVDdFUWNoM2YxZV9xZkFCaGtTOUt4Z3dGeFQ0STlTMkItR1ZVX0o2MXFYdTQwZHB4S2NaUlR4bVIxVGp3TXFKdFZucm05V3dZTVJuZEdJbkE?oc=5",
+     "when": "2026-11-24 09:41",
+     "ts": 1795513263.0,
      "flag": false
     }
    ]
@@ -968,7 +968,16 @@
    "story": "Recurring service revenue +11.5% (52% of sales, 90%+ margin), no debt; stock -20% after hardware miss.",
    "src": "https://sec.gov/Archives/edgar/data/69633/000110465926121107/nssc-ex99d1.htm",
    "deep": null,
-   "news": []
+   "news": [
+    {
+     "title": "NAPCO Security Technologies, In (NSSC) Stock Forecasts",
+     "source": "Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQejJ1YmpoUFhkeU11dTJUNzExV2hMMm1Cc2lCWVRwcHhqcFJDSXZZYk9OUWZxcjRTUU1QbEpVRFR3UnFGdzVtUEMxekI4V3l4QlYzb2xLWVpXX2RBdjV1dDZoMmo0OGpHTnVJRVhwbC1hQkVMUnktNVVFeFhncjg4V1BJWnE5ODBEZGF2bXBJOA?oc=5",
+     "when": "2026-11-25 23:30",
+     "ts": 1795649433.0,
+     "flag": false
+    }
+   ]
   },
   {
    "tk": "IBN",
@@ -1041,11 +1050,11 @@
    "deep": null,
    "news": [
     {
-     "title": "Copart Inc. stock underperforms Wednesday when compared to competitors despite daily gains",
-     "source": "MarketWatch",
-     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRC1RQzdtNGt3eDJZbDFmLU9mQ1piQ2dJUW1kdlE3YUFKY2NmQnZrTC1fS0JfNU5PSHpvaU5NM2ZZbEFFREFtR1FxWDAtamh4aE4tMVdzQWpjUVlyU3hWaDh5OV9INTlQTzkwX2ZvcW5hZndxMVZvQWNVNGZPY1p6Qk0xVFdEelJkcEVMek94ak44X0QxR3BTNDFqNGFzaTFwXzJ5TVJ4MW9CcTd3ZG1lQTlFQl81cnRVQmJuOEd6Tm5vaEpuN05sYlh6VDBoNTl6RlE4UzZHelNKNVhMc2RCLWlscU9HeWpXallpcm15N3lwV0dseUVzYjc3UQ?oc=5",
-     "when": "2026-11-25 21:59",
-     "ts": 1795643940.0,
+     "title": "Copart, Inc. (CPRT) Gains As Market Dips: What You Should Know",
+     "source": "Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNlB4cFJFcV9Fb2s5V1JJa0lUMDl5aFZBV0ZaZm9LLUFTQlRQU3pCS1l3S2lUYUdhMDlNb1VwS1BWd2RzbHZvN0V3NVhtazFOSXJUblBsS3JzSkl0MWUyMkpjcXY2aHNYOS11LU9DSzE1dnJadFZfazB2TTlOc2xsblNHMC05ZGZITzhBYW5xRmpLenE1RXRvQg?oc=5",
+     "when": "2026-11-25 22:15",
+     "ts": 1795644901.0,
      "flag": false
     },
     {
@@ -1054,14 +1063,6 @@
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON0QwdEJzY0tvTHFXZVE0cUc2cnFMVnJ3eFpFX015YU90b1VESXBKX2hmR3hrWi1pZUMzUGhocE02T3lsTmJyajZmQ0RoX3o1aWlIQjdMYUc5SnJ6UWFoNVRCaVY4OXBNbThmdXhNRDAyWVh3bUNyN2VTQ2hGTFFBNnJ4aXlrcWt0cXdPT2FHZWJCOWdDa19fVThaQThjNFVpcHU3NFl1NA?oc=5",
      "when": "2026-11-25 13:39",
      "ts": 1795613963.0,
-     "flag": false
-    },
-    {
-     "title": "Evergreen Wealth Management, LLC's Copart Inc(CPRT) Holding History",
-     "source": "GuruFocus",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTDJMQ3NHZWJZX1lBQUdKNGRjZnlDblVSanRnQU1yMS1wYWh6b0pNTmVGT1FOa0wwRnluQUlmdDVTNXJBLVRGbXZXb1ZuR0hXVk9aZkJoMnlaeDFKMUI5Q01wWlJHQ3BvVDhvekhGWDlRbHJ2RmUtZWIxTlFGcGdPbGJURjBqQkVNdTRVMg?oc=5",
-     "when": "2026-11-25 13:04",
-     "ts": 1795611876.0,
      "flag": false
     },
     {
@@ -1078,6 +1079,14 @@
      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS1pDVzBqbVNVaG4yTW1nb19KMUZzX2pld2JvdzY3MktLSGVOTHRHcy1HWl92R0tuazI4Sk5RWldaMjR3V0xGNmpvUmV4dzhaMXZ1TExUbk45S244bkN3NXRRaXZhRDF1YnJfMzd3Rk5BeTQ3UmQ2NE43dWtpd1BLeEZMSHJoWnlEa2labE85dTFYX1FUd0x6UzYtejIwWXZSZXI0MGQ3ZExraDNSTzJGSWs2T0dmMDFVNjBtVy1PZDB3RVc2YlI3RUU3ZXBCUktyUE1Ja1lDMA?oc=5",
      "when": "2026-11-24 21:58",
      "ts": 1795557480.0,
+     "flag": false
+    },
+    {
+     "title": "Copart options signal 5.4% move ahead of Dec. 1 earnings By Investing.com",
+     "source": "Investing.com Canada",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZnhPMUo2eUVqaGtTNXRRdDU0OEJYcUVzWW5hYXM4a1RsNmhCWlFKZGZSZHNvVWN3akVUMnlSdVpJTlZWREFDRHdHY3BiMkRXaW5CbjgzU3pLeG1BdFlJMFNnTzcweEVPOFhYUGZDTE1yN1RXRjc5ZzR1bXlacmN3bTVuV2lyWFQxWnd4UHM1bGRxOXp5YzM4MTdhQklDd18td1RqWUlSNU83cUZoMXF1aWROZlI?oc=5",
+     "when": "2026-11-24 17:16",
+     "ts": 1795540588.0,
      "flag": false
     }
    ]
@@ -1207,7 +1216,16 @@
    "story": "Margins 22% even in weak housing; dominant brand + building-code loyalty.",
    "src": "https://ir.simpsonmfg.com/news/news-details/2026/Simpson-Manufacturing-Co--Inc--Announces-2026-Third-Quarter-Financial-Results-and-Updates-2026-Guidance/default.aspx",
    "deep": null,
-   "news": []
+   "news": [
+    {
+     "title": "Simpson Manufacturing Company, (SSD) Stock Forecasts",
+     "source": "Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcE54aW1xU3Y4eG91c1BiLTE1cnVWYXhyQkVvaWwzNFVVMUxyY0xlNVZpYVF2MDduQ2x6NU9VMEJjNzhjTmRrSEZmUTM1WF9UN0Q2Z2FZRDlfczJhMTNjTm5nWE1OWmo2TzlYOUxQZVpJbGIyX3RqSEd0SVlhN2EwRS04eUNNWkhQaE5MV2NVZw?oc=5",
+     "when": "2026-11-25 23:29",
+     "ts": 1795649373.0,
+     "flag": false
+    }
+   ]
   },
   {
    "tk": "IPAR",
