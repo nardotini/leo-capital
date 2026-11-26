@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-26 23:20 UTC",
- "usdcad": 1.4244,
+ "updated": "2026-11-26 23:51 UTC",
+ "usdcad": 1.4247,
  "portfolio": {
   "start": "2026-11-12",
   "start_cash": 10000.0,
-  "value": 9889.43,
-  "pct": -0.0111,
+  "value": 9889.51,
+  "pct": -0.011,
   "bench": 9528.92,
   "bench_pct": -0.0471,
   "cash": 7500.0,
@@ -23,8 +23,8 @@
    {
     "tk": "ITUB",
     "cost": 500,
-    "value": 455.55,
-    "pct": -0.0889,
+    "value": 455.63,
+    "pct": -0.0887,
     "px": 6.88,
     "buy_px": 7.32,
     "cur": "USD",
@@ -143,7 +143,7 @@
    "name": "CGI (Montreal IT services)",
    "cur": "C$",
    "px": 118.49,
-   "chg": -0.0008,
+   "chg": -0.0007,
    "buy": 91.0,
    "gap": -0.232,
    "verdict": "\u2705 BUY SMALLER (half size, at buy price)",
@@ -165,14 +165,6 @@
     "why": "Clear quality business at ~10-11x earnings if it hits C$91; AI question unanswered = start half size and add if growth improves. Don't chase at today's price."
    },
    "news": [
-    {
-     "title": "CGI Inc. (GIB) Stock Forecasts",
-     "source": "Yahoo! Finance Canada",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN1R4Sjh4cTQ3QXpfVzd3QmkwR0dUaDBjYmFkTXd5UHdlVUxIV2Itb05mRkh2MTIwRjRsb2w2SFpLOTJXWlcycTI4VnZLUk5oenM0OTN4NkRJN0xMejkzXzdIbE1LOHpmMktBcTFna0ZmX2tqS3ltbEdSVVY2UTBMNHJNMkhoMXNlemEwWGNtVlhCWm8?oc=5",
-     "when": "2026-11-26 02:05",
-     "ts": 1795658714.0,
-     "flag": false
-    },
     {
      "title": "CGI Inc. (GIB) Stock Forecasts",
      "source": "Yahoo Finance",
@@ -203,6 +195,14 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrOEV5d052d2h1S08tM1dHTldEN21OTE5vaWJRRS1VQldTQU5WdHFDcnM5X2owaHdvbXExRW1GOTV3c0pyNDZ0YlctWTh6M2JGYlRGdVVWN3hXdmcyZXpwWlZJUllrRHZXbEt0QXdEeHB0RzBaR3NXR2hhbjdBWlk?oc=5",
      "when": "2026-11-25 15:02",
      "ts": 1795618969.0,
+     "flag": false
+    },
+    {
+     "title": "CGI Expands u@Cloud Platform Globally to Help Utilities Modernize Customer and Commercial Operations",
+     "source": "marketscreener.com",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbFhRR3dSUE0zb0FreEFubnFERmQtNjc1RUtZQ3hzOE00U2NxX0VuN2IwZndpV2JycXlJaGdha2NyczRESW9hNUxGdXhOaWVtTnlBOVlxSFd2X0xydG1KOGItU2JwRmFEOVUzcUw4a3VOYmpXN2k0V1hsTDlWdkpMR280TFFGUjAzVTVwUHZEdE53NWpGQ3JSYnRVcXk5UHJVTUwzX1VwbXRDNWpvV1RXT3V5M3VwMDIxQ1ZvYTdSQ0VfdGlNWnBqUFZwOU53TzF3REdEMS16ZzJsU3I1VUlIOUN5OVY5V2w1?oc=5",
+     "when": "2026-11-25 14:23",
+     "ts": 1795616588.0,
      "flag": false
     }
    ]
@@ -235,6 +235,14 @@
    },
    "news": [
     {
+     "title": "Is Evertz Technologies (TSX:ET) Worth Watching Amid Mixed TSX Signals?",
+     "source": "Kalkine Media",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOem13el9OT0pMOGlHYW4tb2xRMnVwdm85ZW1faEVqVU5oZnJHWmlpbnZqSmJScmFnTUh6dFI2X3JjMklfVHBRbXlnYVF3d1ktRXZkWXc3QWpjSVBzQzU3TFd5OURFbWRMaU1vRUlualduTUtkQ3ZXSVY3TXYtY1FXS0JqTkk5LXc2aE1XR01SeTNDYmZ3Z0pwV0draEx0dmM1MzRlMXZfbVlnS2dVb2F0WU93?oc=5",
+     "when": "2026-11-26 22:50",
+     "ts": 1795733400.0,
+     "flag": false
+    },
+    {
      "title": "Evertz Technologies Limited to Announce Second Quarter 2027 Results on December 2, 2026",
      "source": "The Globe and Mail",
      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOck9nNXFaUjh0R29BNDJRQ3J4OEFEc18taEVJMk1ucldjeFNvU3RVM25zdjRocHhvRGZhQ2h0X2RMREhsMEltZml5MTBTRmlqMFpvTUVLVGVXUzNUS3NYeWNQTlNFYVdEdGlJbkptTTk2NmJ1SlVZNE1lNC1YMnBGMHVvVG9KajRkYlBfU0UwdlFpQ3ZsTVpTZl82QjhxZndaQTFLSXBIZl9KclQ3em40eVRhWWZ3VEdkNmthNnNPbVdXbmlPc0NlOHpvY0ZrQi1zVlo4NWwzcF9paVh5NDFDRU1tVnVCRDFRcUl5aUFKX2p5R3JjZW9yUFZMTQ?oc=5",
@@ -256,14 +264,6 @@
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeXFtY0JxY01HcnE5Y2RSLWN0NUFLVVRaaGg5Zk9nVERRTDkyOS1UV19oWWNDWDZodC0xNlZ3LWVoYjVaTWlRTVY2Ri1QdGdFX0MwZ2J5al82Y3RhTXFGMUlYQVlUeEJBeW9EdEhnajJPWkoxeEJ3ZWdhRC1BUlA2V1MzX011dENodGVycjFXSFRqX2VJMTYxMVVEbzBLemRmT1lvcUdGSU9LNTlYWmd1NEJzVnJ1Q1VVNjdBQg?oc=5",
      "when": "2026-11-25 20:42",
      "ts": 1795639320.0,
-     "flag": false
-    },
-    {
-     "title": "BLT: Revenue rose 16%, led by B2B, with double-digit FY27 growth still expected",
-     "source": "TradingView",
-     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeHpLY01Nd1VTV184cDR1NmVrak9ETjJYNFRycUhvZXN5Vzk0aWJOZXF3SEdlbVV0eHk5dGVucm5NREZGUHpNSkRtaElWdVJ6S2pvVFVna1duUXZDTi1XaV9GWHlkSmJzaGJnV3BHa3g2NXgwRE15RnpTcm5pWW9PTWtOVjFDYzdRTXVOaUNxZFhxby1ISkN6VVRtMkR5YTVFMExFcTgtUmg0ZF9VZ3Bwb1lFd3R6UEVQdFhmOGY0WkNPWm5MZVJDbnJEWFFqUnBkalZOeG0xTjNwQXhCTVNMM3RiOVYzVFhub0RxbW1MWQ?oc=5",
-     "when": "2026-11-25 20:21",
-     "ts": 1795638102.0,
      "flag": false
     }
    ]
@@ -322,16 +322,7 @@
     "canada": "TSX 'CSW.A' in C$, eligible Canadian dividends; TFSA fits; thin trading - limit orders.",
     "why": "Steady dividend payer, cheap at buy price, but little growth and Pernod control. Small income position only."
    },
-   "news": [
-    {
-     "title": "Diamond Estates Wines & Spirits Reports Second Quarter Fiscal 2027 Financial Results",
-     "source": "Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVWxfdG1Qdy1RZXplVmhQRWszWThUMXpBMWI2NEpobUFETW8xWHJHalhQSDJMQnotb3hKeDR6Smw4X0lXR25Xb3ZBQmpEaUZQSUVhU3l3UVREelpOcTNTQXlwNEtZeEZVZGhMN1UxZmVqU09UMl9nbEdXLTQyTDg4V2NscE5lUTNqeWFRWDFhVmM5aTV6NjJuR0xuUk1SaV9DUnZ6QQ?oc=5",
-     "when": "2026-11-24 23:49",
-     "ts": 1795564140.0,
-     "flag": false
-    }
-   ]
+   "news": []
   },
   {
    "tk": "BBVA",
@@ -523,16 +514,16 @@
      "title": "Form 4 Mueller Industries Inc: Scott Jay Goldman (Director) For: 25 November",
      "source": "Investing.com Canada",
      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa3kwSnRLNDJmWXlFdnJFc0pLN1VtMldXNVNndUprQ1lIRnFTZ3c1RGdQS1pLSW4wV3dJdENmNy1lbUM3WGNadExHcEJkZnp0bE1zTjV2bFZraUF4cVp4R1IyMF9TUmx1TkNLQXVsM2IwbXdvZWNBVWNHYlU2RWlyVGNsSlZzV1UwNkZ4akYzUW1VQ0h4a1NXT2VHVjlJLWpxTW9FaE5vaTJuaVM2X0dJMExPb2tCaFpWdFViZEQtbUJqSmhKYnhoSjFaNHhLUQ?oc=5",
-     "when": "2026-11-26 17:38",
-     "ts": 1795714697.0,
+     "when": "2026-11-26 18:53",
+     "ts": 1795719226.0,
      "flag": false
     },
     {
      "title": "Mueller Industries director sells $103,020 in common stock By Investing.com",
      "source": "Investing.com Canada",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb1Y4Y0ZGOTFhWTMzamtZMDZlN1l4SUR4bVVhZ0RiZlVHUWVVb0V1czF0akNRY3doUHd2dXhHc3RVQ2o2Z2J3cFAwT19PT3BLVGQzX3RIT2d4S2o2YkRpamxQYVpDRjJOMkxHVWltTlZpZHJfcVh1OEVUdTJvZGRDTVBlbHhnVG0wTUxFc2ZVQnlmTHNoN1NVclVkeUh4RHFKY2xTMUtlbUF1OGNzR2pwMGh3M1NIRWJS?oc=5",
-     "when": "2026-11-26 17:34",
-     "ts": 1795714481.0,
+     "when": "2026-11-26 17:38",
+     "ts": 1795714697.0,
      "flag": false
     },
     {
@@ -574,7 +565,32 @@
    "story": "Leader with scale + recycling cost edge; construction weak, 23x earnings now.",
    "src": "https://finance.yahoo.com/markets/stocks/articles/advanced-drainage-systems-announces-second-114000589.html",
    "deep": null,
-   "news": []
+   "news": [
+    {
+     "title": "Advanced Drainage Systems (WMS) Receives a Buy from RBC Capital",
+     "source": "The Globe and Mail",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR3AxemFxTnF5dlpFZ2NTdm96Z1lqSEt0aHZRNllMTUVKdlpCbmVyeU5vbFZmcF91MVBRbzdISWY3UnNPZGRYT3FIa0dGWlZlZGx4bkJPUDlFa2FZdXl5enBDVC1fTzJVZHRYaUZ4eUVibnJmTVhfNWlORHY2OVBLUHg2emljN0tLbmJlYkF3N2hmR1VwdTBwNUxDSnp6N3VmTzJ6aVgzc2dvMzFxa2tvaUhIbFpFRXRlN1luMUFhblFwZU5nYmZBd1JEUDFXZjU5aDJTU0RWV2xiZw?oc=5",
+     "when": "2026-11-26 01:58",
+     "ts": 1795658323.0,
+     "flag": false
+    },
+    {
+     "title": "Advanced Drainage Systems Inc (WMS) Shares Surge 4.8% -- What GF Score of 86 Tells Investors",
+     "source": "GuruFocus",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOenJjc3pBNlFZTUs5S1M0OWpyUFpzVzhDb05iUXYzM2xHUXotb0pvN1UwWFR5NjZ1aEpBUjhsMzJKUDFLOVdEcGc0NXZnWDBROTluTnJBWjJaR21BdmNJVnhoc1hBd3ktT2RnSUI5azNlUjBuTTQxOFFqZ25Oc2Vkbk9ZYXdCNnNzbTgwVHFnUUFwd1lyM3pKS1dKNGlqZUJSWF8tQ05yYzNqSy1DeDJrdC16RVdya0dLRlZycFBXS0w5Zw?oc=5",
+     "when": "2026-11-25 23:02",
+     "ts": 1795647746.0,
+     "flag": false
+    },
+    {
+     "title": "Advanced Drainage Systems (WMS) Stock Is Up 5.6% Today Without C",
+     "source": "GuruFocus",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS0dfNVBpNFc0ek91eDhiVUlBSGxfR19VUWpXOVB2LWZGRm1PaHM4Q0dMellUUWlJTHBndDdtR3BfbFprc2I1WUU1X29DRGE5ZlF5bzd0UzgzUmd1SHBfbzh5aW1QSWQtN0tNQ1pmNkszU0FqLWN4OTAxUHNqS2RsQTVjQ1puaWdIOURNQWR2akk4Ynd5NzhPR2o5cjNzVUlhN0VEUEc5b2wzT29lVC1r?oc=5",
+     "when": "2026-11-25 19:33",
+     "ts": 1795635192.0,
+     "flag": false
+    }
+   ]
   },
   {
    "tk": "INTU",
@@ -623,11 +639,11 @@
      "flag": false
     },
     {
-     "title": "Intuit: 88% of British Small Businesses Use AI",
-     "source": "Brief IA",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1pSWFBURzRzdVN2VXhpWWJjSVVOcGFCZzk3VXlfeEZMRUVwaDZidTlPbFZ0cVRycS1HQy1GVFMxR0tMYUJrSTc0NUxPN0JOTXBMNDhkS3RBZnNab3FMVUlRY0M4b1NGTnc5V0RwMU5HQnhyUW5aZzNvY1pXUE82dUp2dDNpMmZSOGNuOVhCUlFZbWJVWXI5RVkzNA?oc=5",
-     "when": "2026-11-26 11:06",
-     "ts": 1795691217.0,
+     "title": "Cutting and Pasting a World: The Paper Craft of Henry Darger",
+     "source": "Choose Chicago",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYy1kNEhiZUZXYS1pdFBMRWczVFlYaU1rU201NV9oUlZXUjBDaG1OT2I4bUFiX0h3MW9Cb19NQ2t5UDhrTDdBVlhFd011UERwX3h4V3NQWWJMdDhNazVIUGdpSnhiZjZRUUR2LVkxOWM5dXpFdTB6YlRCcmtiQXI5UHltb3prM2dHaDJfa3ZvRDBkZmY3dTVjamFjOE9VNTZ4dTNkNlc4eEVfZGs?oc=5",
+     "when": "2026-11-26 11:27",
+     "ts": 1795692472.0,
      "flag": false
     }
    ]
@@ -693,7 +709,7 @@
    "name": "Royal Bank of Canada",
    "cur": "C$",
    "px": 268.66,
-   "chg": -0.0014,
+   "chg": -0.0019,
    "buy": 136.44,
    "gap": -0.4921,
    "verdict": "GREAT - wait for price",
@@ -927,11 +943,11 @@
      "flag": false
     },
     {
-     "title": "SC gives HDFC Bank, ICICI Bank, two lenders a week to sanction prosecution",
+     "title": "Subvention fraud: SC orders HDFC, ICICI Bank to sanction prosecution",
      "source": "Business Standard",
      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOejZkbi1jSl9FOWlVRWFvUTVrenpqQXlrbnNTbTU0TFBGZzh3N0hZY2lWcVBNeXd6ZFUycmtack9GTVNPZ0dDTGNJLTdQaS1yaUVFX0tvZXVDQVJyZy1yaW9IV0RqMGh4TzdsRmVHVEhfVWVWWG9ETnVudTY3TS1iem9adTRTRFlLU0dhQ1hlM2tVeUd2WTdBTC15UXlwTXU3YWFMWUZWaGpNN3h6dUZTeW5RclRERkppeHJEdHR3QjdpZmNiOE12QWRMUHhIQ3NnOUFRbk1fdExMMTDSAeABQVVfeXFMTlgzaVMzRFpRRnBuVHpZa2drMXdXUFdVT2dndEY5QXFCRDJON0VVeVNwbTZlemN6TTRuV09zRS1KUVNFZVZfYmVoVGcwTkNCVTh6c1Z4V3IzQm5uVEZxWWZrdFJKanRfLUxnTmdXYU5XczVieTBIUTFvVkNvUkxkZXNOVG9XVTk3aTRLMm96UXFtZVU0X2xBTV85WjY0NGUyQWE4TF9PWGcxRjAya0NsRTZuSlNIM1NzQVFOVEFFQWwyT0Mxa3pIa0ZUX2hsMWN5a2RFWU5adDhFU0xZOXAwLVc?oc=5",
      "when": "2026-11-26 14:36",
-     "ts": 1795703817.0,
+     "ts": 1795703787.0,
      "flag": true
     },
     {
@@ -1207,14 +1223,6 @@
    "deep": null,
    "news": [
     {
-     "title": "LeMaitre Vascular, Inc. (LMAT) Stock Forecasts",
-     "source": "Yahoo! Finance Canada",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQlEwYkZFVGRCbVFGUTZ5WWdOQ2dMMmRqVUY0LWFIV1JMYk04NlhOVDdlc2hFbUhyXy1jWU1uYUFRcHFFbFJQaFBHc2k5WURyLTlNRnRaQmh4c3QxLVRIbGNDaG9KWDNDYTJWN2RBOE5NblpWQTQ2em5TVnlPSnd2eXZULVdkQlNkcEhlRkVnTkkzUEk?oc=5",
-     "when": "2026-11-26 02:08",
-     "ts": 1795658906.0,
-     "flag": false
-    },
-    {
      "title": "Form 4 LeMaitre Vascular Inc: John James O\u2019Connor (Director) For: 24 November",
      "source": "Investing.com Canada",
      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNak1zdlNlNmQ1VFVHRWZvVkZlYm85X0RDd0xGLUdjUjRzdG00OTc4ZDZpUjNIOFY0d3VXQVV3UXZFZDVva0lZamROY293YmwtQV9qX3VnX2F3NVptc3c1aGxWaUUwZk1IZ3daMEI1VThTWXdXRklTUU1rOWY5dk1YTWE5X2lRX3Z5Qm5OWG1OMHctR0RkMVBuUFgyWEFrWkxMd0ZqOF9WTmRoZGNIVURXNTJNblNXQ3B4RFpmWWJXU3Y4bXpQdktqUi1xam85dw?oc=5",
@@ -1378,8 +1386,8 @@
      "title": "Alphabet Inc Class A (GOOGL) Stock Analysis & Forecast",
      "source": "TradingKey",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIbWpfWjFuT1NPbjJwSUxycC1PbERoRjhRejdSTDBNYmctdHdIc3lxVGRDZHNNWDdOMTlGbF9GNllWTE5KMkZhbHU2Z2lndzM3bzhXMHVoX1ByM0JtZTJobDhtSXpnMnM?oc=5",
-     "when": "2026-11-26 04:49",
-     "ts": 1795668563.0,
+     "when": "2026-11-26 04:47",
+     "ts": 1795668453.0,
      "flag": false
     },
     {
