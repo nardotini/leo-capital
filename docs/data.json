@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-27 22:59 UTC",
- "usdcad": 1.4245,
+ "updated": "2026-11-27 23:27 UTC",
+ "usdcad": 1.4248,
  "portfolio": {
   "start": "2026-11-12",
   "start_cash": 10000.0,
-  "value": 9969.66,
+  "value": 9969.77,
   "pct": -0.003,
   "bench": 9636.29,
   "bench_pct": -0.0364,
@@ -23,8 +23,8 @@
    {
     "tk": "ITUB",
     "cost": 500,
-    "value": 507.23,
-    "pct": 0.0145,
+    "value": 507.34,
+    "pct": 0.0147,
     "px": 7.66,
     "buy_px": 7.32,
     "cur": "USD",
@@ -333,6 +333,14 @@
      "flag": false
     },
     {
+     "title": "Ambev Director Sold Shares Worth Over $8.1M",
+     "source": "TradingView",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVlQ2UGtQcFF2ajBYVE4yQk1BOG40Mjd6ZzhLT0duRmVwMld4NnZ4TXFtb0NjMHB3dUV5dmNmbmc5UmVKb0hIR3M3OFdHejJxcGFMTzBnUnpXeWwycS1VT3V3Mms0TXZOTm4yb3MxclZZRnNBMlNhVzVrOTlHUGZ3RUUxN2dDblZUeTRVZWk3Z3E5Tng5am5VWUdSaFdMZDExUWNPc2ltZw?oc=5",
+     "when": "2026-11-27 22:20",
+     "ts": 1795818000.0,
+     "flag": false
+    },
+    {
      "title": "Over two days, an Ambev (ABEV) director sold shares at prices as high as $2.74 each.",
      "source": "Stock Titan",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeTh4eVotT1IzRmpVMXJORDBLN2MwLUVTc1Z3VlN4ejVaWURwaFB1UU9STkFVNEJVTWc3VjFkLUpXcDVNWnFSZ2dBMTF5cTN0ZXRCN2MtZVpYNzFqYzVWajFKU1plc1FmZjQtRDV4Y3RkclhfeUx4MXFZOXBIdm02eEFMS0lJc2c4OXZPSXNNMWtiTmluc0NVcGxNOU4zYmtCOFp2amt3?oc=5",
@@ -341,27 +349,11 @@
      "flag": false
     },
     {
-     "title": "Brazilian stocks surge as Bradesco chairman named finance minister",
-     "source": "TradingView",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYWNtUGVuNHIyclBOdTNSMWwtS2FGUWFEVUd1S3dVX2MtWHJIWjE3RHUyZGRLN2ZrQjZORm93VGtPUmhrNmpDTm8wT2h2aWt5T0RfbXFGc3lHVkx6NjdsRnJxS2Q5eXZUWmlidWp0d2tFZUxZZkpYbVIwMmtVYzl6b3VXdGc1Smd2Qk1EUHNrVS1Hc0xCMzI0czlKajBIYm5vZnkybFhReXN3cGRLdGZ3b0JHT29PdGdWcVRsdXdDc1J3amJWNnBrbw?oc=5",
-     "when": "2026-11-27 14:44",
-     "ts": 1795790669.0,
-     "flag": false
-    },
-    {
      "title": "B\u00e1rbara Teles, from ABC-Bet, wins the ORIGEM LATAM 2026 Yearbook Award.",
      "source": "BNLData",
      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZndtMHhwcWpYTTZQQ1BSSG5ndUxIV2YxNkw1dW5Lemt4c0hXN25BVXpvdFB3SGFTeGV0NzlHM2NjdmpRbWE4SEJ5Q0phaENMdWZoRW5QN0U0b3lZbWpHNmhMTm9ZaktMYUdFVlIwYktrSUF5UHJMeE1HcTNFbUlVdEx0YndKQTZwSWUtS0JIZW0tblhBRC1r?oc=5",
      "when": "2026-11-27 11:43",
      "ts": 1795779827.0,
-     "flag": false
-    },
-    {
-     "title": "5 Consumer Staples Stocks to Buy as Market Volatility Rises",
-     "source": "Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcEowNzRfSTlqdVBwT0MtbEd4cXNXeEVtc3ZjMzlhTUVKV2RwdEswZkpCS2M1RlhiYWtMamZlOHZRZ3FnUTNrT0xGM1BHMHVLT3hJTm5IMW42aGxLZlNsdXJSYXhDWm5nckVhQmhqdVdJbnpteUxYUFBwZ2ViWFVVQkw1bExJU0FFM2tvT0tkWjNMOU9wRGRNUU5R?oc=5",
-     "when": "2026-11-26 00:58",
-     "ts": 1795654680.0,
      "flag": false
     }
    ]
@@ -433,6 +425,14 @@
    "deep": null,
    "news": [
     {
+     "title": "Canadian Oil and Gas Industry on Track for Biggest Dealmaking Boom in a Decade, Analysts Say",
+     "source": "EnergyNow",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUFJMMk9XdFdoRGlQWWJib2dBbWZ2Ylo2MmcxVTFrM084d0hhUXluYjNmc1I5c3gwYTV2UzBkMkxMc1VneGdyU2twUFpxTHBZa1BpbElMRkxHNGRhLXpFcHhRVW9rMldrSjV3dVRfb3RjVVVvUExxMWhiMFY2QkR4dEFNOHE0aXpzNFRyZUZ1dGVHOGFuTk9SRFQ4LVo4UDIzaDl6Y2FfbVlxTG9hWW5ocnpRU2EwbGFGVnZyS0l3?oc=5",
+     "when": "2026-11-27 21:31",
+     "ts": 1795815079.0,
+     "flag": false
+    },
+    {
      "title": "Major Advantage Energy shareholder opposes Canadian Natural\u2019s $2.5B takeover bid",
      "source": "Calgary Herald",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2tQYnFZd3IzdmNlWTN3MmdEc2VnVFByLTdReTJFUHdXaEJ0SHVuUjZmN01CMzgzdmpTX01PbkI3RHNjRDVhamVfZklOMWZPMEV4MXBMZGpWSXdUSEt3OGdvdi0zUzNYdVQzeWVLMURpUjI1MnVucC15bS1xbUcwSERBSTJueF9hTHJaZ2VJX2duUF9Kay1ERW02MS1RSldveXBreV9CY2RzZzJhM2I4ak13?oc=5",
@@ -460,14 +460,6 @@
      "title": "Advantage Energy holder to vote against sale to Canadian Natural Resources",
      "source": "TradingView",
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMGxBUWpER05hUldEa0hVTHc1RU1VM2hrU24zUjVfTVN3QXJ2YzRlX09sRVRiVHVqdE1Ua0NLT1RGVDBrZV9oX092LXRFXzNPWk1DTGh4RUtlTXl2dzFWU28xWmpjb2E0YWh0c21meXBYYk96N2VZM25hQ2hXekNmcUZweE1IQVpNeWs5eldTZFdlYTNiaTVsT3BSLWVtRXZkWDVySjNONFlKeGJOZDZVYnVvX1JMTmhqT2liQVcxcTRKeFNUcDJ6czlDX0JDLW1yMnBJ?oc=5",
-     "when": "2026-11-27 17:39",
-     "ts": 1795801197.0,
-     "flag": false
-    },
-    {
-     "title": "Advantage Energy holder to vote against sale to Canadian Natural Resources",
-     "source": "Seeking Alpha",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWFhMVk9CeERfR2pqV1JJbUNfVlNpd0N0Q2h2MmxTSWs0ajBzbXVOeE1PY2pnRm1kbUltVndKNjFlNGJEazdlNy1xV1pyenZfRl9ETGZoZ3hTbU8tUE55SzhwQVBYdzdwNzFxZmZDTk5yd0JRSS1hNC1jRnItQVdRU0lPOXc1LVR5RVRBbFBtZUtRQ1V6X3IxOTctRk9ld2J5M050bDB6eDNxU2dSVVlITDR3?oc=5",
      "when": "2026-11-27 17:39",
      "ts": 1795801197.0,
      "flag": false
@@ -602,8 +594,8 @@
     },
     {
      "title": "Polyethylene Pipes Fittings Market Insights Report Analyzing Demand Trends And Competitive Positioning",
-     "source": "EIN News",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZE9pR3BjbUVLdTQza2pfaTVOa0I0cVl6MXY3OTFDYnhiaV9qRjVBS3F3LWVqaTdIVzBpTUxzeXk2Vjg0R0hhZVNfZ3RxdjhUUlJlOWIyOVdKc20yMlk4Y0pmRVl4bUhvUGZOTWZKMGhHRGhKcU91c0MzamdPd1NTUFoyZzloNW5HRUhPMlI1Q19BRmlwRUN5NVp1TTM2NWMtaFpwa05tODJxTXVkdHhTcDRvaU41eVdlVlgzTkNWREx2dVZLaC1lQjlhaVY5MUx5S0puUlRpbzVkSkc0?oc=5",
+     "source": "EIN Presswire",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaEloeU42a2xJcGhRa2RIMW1jRXJTUzJ4bE41dmQtYVdZMWZRWTVHckZlUUUwRWdGZ1VaaklMZDFldlByMklYdzdzRjhVeF84eUkzZGRJVDBHSTg0U1F1ZXZybXdEQ1JNWUtiY2V6MTA5eXNqUHhOcjRLemhQd091WGYxTGNXWUtodTlBRU14MHQzU3BQU0pNTHRUQm1aMTdqUFFuckFtZkFENDVnZURHVW5JY1RMWXp3NXZJRmJ4YUxXcFFBdzFKVnVwUmV4NW9HOWd5TDVyZHV0MV92YmZZdWdfSQ?oc=5",
      "when": "2026-11-27 14:00",
      "ts": 1795788000.0,
      "flag": false
@@ -705,6 +697,14 @@
      "flag": false
     },
     {
+     "title": "Canada\u2019s Big Banks Line Up For Q4 Earnings Week",
+     "source": "Finimize",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVzdNTml2T3hHR2FRMzZtSE55bGVjaWhSLVRPY0h2U2E1dWFSdlVXWERXUUtjX3VRLUFGRzF3bnoyODg3RkRkYzczcnhYcUFFTW1hRGhnRlpJN3QxekR0dVNEdkd5UEYzZ0JGbk1Cc00yeDZxdlZOdXFMclR0WFphYw?oc=5",
+     "when": "2026-11-27 17:11",
+     "ts": 1795799485.0,
+     "flag": false
+    },
+    {
      "title": "CIBC Mellon expands use of Snowflake\u2019s AI data cloud",
      "source": "Asset Servicing Times",
      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU2NCbnc5ZGstUXJaS3FhVnNfWkRMS2tFcV9tS29OV0JwUUdYenFhUjRDVzdLY3JrR245b3hBYlotTGJyN0NWV09TRHNkTVRkQl9DY0Q1NkNCVUZEQ3lXRkhadElUSTFuYXlwenVIUHFMR0YycjVYNU1ieWpZdThNYVZNSFlpdEZ3LVdKZnpsUFp5MzJLRWlj?oc=5",
@@ -727,14 +727,6 @@
      "when": "2026-11-27 16:48",
      "ts": 1795798118.0,
      "flag": false
-    },
-    {
-     "title": "Snowflake Stock Rises Nearly 2.7% Ahead of Q3 Earnings",
-     "source": "JournalArta",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTmtSVkNRbGt0cmVXQWYxenBGcXFQdjVSQ0R4N0xJWXh1N3hkOS1QT2pBeDg1NjJTLUlFTjdzUVczWkpHbWZxNE9HcFkwaGVHTmpaVERYNUVSYXZIekxzdmtZU1c5Q3B6a01RdHlILV9iYzlONHZpem5xWmk2QXF4dTR6Q0cwSVdNbFZWV2hkUVNUNmFCR2JSdm9PeVhnaENtZzM0aGdiNTlweHkwclE?oc=5",
-     "when": "2026-11-27 16:05",
-     "ts": 1795795510.0,
-     "flag": false
     }
    ]
   },
@@ -755,17 +747,17 @@
     {
      "title": "Form 424B2 ROYAL BANK OF CANADA",
      "source": "StreetInsider",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRlJyTXJ6dEhKMURETWgteUViUE1uQjIteU1teFNNMzFLTV8xTE5GWnFacnNiUFBpZjZnM0hWVHdzSnpYRzd1NjJBbGZrdGEtWnk4UlBLSUxLaGpVcFdlUTRBbHBreHdTeS1oT1hITHR5WFY2ZWVIWWktQXdnQ1QxWVlTWjU2dVNHdDVneXdCOE0?oc=5",
-     "when": "2026-11-27 22:13",
-     "ts": 1795817581.0,
-     "flag": false
-    },
-    {
-     "title": "Form 424B2 ROYAL BANK OF CANADA",
-     "source": "StreetInsider",
      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX3hTTTZSMmtYdks4RmNxYlZURS1RdkJMMURLMDVMUE1qdVVVREp5V0pPeEpacEtyZW9HOUdZdXNiMi0wM0hoeEJ2OUVOczJPV2ZXUGZJTTQwWTZqdmd4N0ZlTnFrM0FnYVE5WHYtMHgxMzlnR2hkekFnbjVPN0c3YjNhaFJLdjlfV2tZM2FkRnU?oc=5",
      "when": "2026-11-27 22:11",
      "ts": 1795817474.0,
+     "flag": false
+    },
+    {
+     "title": "Royal Bank of Canada PLUS Linked to S&P 500, Matures April 2028",
+     "source": "kalkine.com",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPekNFMVZHbEN0Q0J2RlN1WVJ2Z0JpdnB5cFNoRG9xWVRlWThlSzhUUTlaTjFuSGJiOE9HOXNScXc3NDAyZF9EWnNDazBzQVFCcFA3YjFLQ0hJUEdnSHh2U3J4Mmt5UHF0Zjljam1WUVBwWGJMay0wOEEzdS1VREpwSk96Z0duRFFlMUYzU3F0SDFXNXJKUXdpVkRnbkZzcVRaUnc?oc=5",
+     "when": "2026-11-27 22:09",
+     "ts": 1795817363.0,
      "flag": false
     },
     {
@@ -809,6 +801,14 @@
    "deep": null,
    "news": [
     {
+     "title": "Logitech links gaming with skills useful for work",
+     "source": "Foro3D",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEt6MGNOMG9jajJ2b2Y2MHMzNUpMdVFpQTFqZ0VwX2djT1VKdjJuRXNVb2JYek5vQUtJQWwxSXY2Z2lzeWJpWDFZZ3cwQ2FoS0drRzN3RmtGa3hXYkpBQ3pnTDlrQVhLcjQ4WkZsdmJTMEZ0NFZhTThyM3VBb3J6Y0V1MElBcENSYkQ1U1FiQ0E2dEVsaXRfNVA1Mk9MNktFbzBBYkViNDlNNXpU?oc=5",
+     "when": "2026-11-27 21:11",
+     "ts": 1795813867.0,
+     "flag": false
+    },
+    {
      "title": "Black Friday Gaming Headset Deals Slash Prices Up To 55%",
      "source": "HotHardware",
      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HOWF0SGF2alpYNzNGM3pGWTZIc1FpXzQyNzhDUGhwQ2pCR05McnNPelJGOV95OG9xa202Tm45bFB6TWZGRjdGdTZKbkpaM0x5UjR6ZXFKbzJMTnAtek5rOGpFZE9IcVpkb1F6UDdBOA?oc=5",
@@ -838,14 +838,6 @@
      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOLUctSmJ6ZDZEa3pqQUJSajRiLUx6UE9zZWRzeVdJTTY1NjdXSzV0RjRVQkNIbU93ZXlzQmVfVGJVMFRyb3F0VzFnRFVkZkNpS0cxd0dST3huOUIzVllnSmFwVWpQZjNJSEN1ZG5uMWdZcGhFRlpIX29HSEhVZEJiV0MtVi1ZbTg3SGk4cE9fQm1iMm1kSjVXQnp6NnRaWWlxWnpnX3JqMHpTYlgyamlFSnFPakhqZXdjMFBPSlcxU2Q3T1VFbmROWHFxV1JuaFc4N1JtdE5pY0pROU5laEx5dFpPM1NLeXpTaUpVbjV3M0hndw?oc=5",
      "when": "2026-11-27 16:40",
      "ts": 1795797642.0,
-     "flag": false
-    },
-    {
-     "title": "Logitech G PRO Racing Direct Drive Wheel is $899.99 for Black Friday",
-     "source": "Technobezz",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQjRacWtYb1NpaFoyU2tKWmlPM29uNG13cmlLN29fa1NKbU9kOGllQjZRRUVNUzM4Z2ZqQlNvTHhobTdqUGNmckl2Z2UzN2dwcjZ1cDBWWDBfcWVlMlYzbUNETmRQdXpiUi04YUN4VW8zV0J0ZlpLYllrbGYxZkhneGFLVFgtakhmQ3kwcTcyS0plZ2pVeE90c1FWYWxfZ0RO?oc=5",
-     "when": "2026-11-27 16:38",
-     "ts": 1795797516.0,
      "flag": false
     }
    ]
@@ -1049,6 +1041,14 @@
    "deep": null,
    "news": [
     {
+     "title": "NXP Semiconductors NV (NXPI) Stock Up 4.2% and Still Undervalued -- GF Score: 94/100",
+     "source": "GuruFocus",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2U2OTdwaUZMZlVZM0NQaHpuaVF0YVFiWTdYZ3BDWjNCVnNDVEh5YzlMZk1iM3JFVjhMS0RON2JhcTlXZGlPaTlGOGJpeVRPdHl0LVNhMnBKLXZyQkRXcUxrT21pbTJ1aUlHdW93ZHRNd2x2WFhKYzJEdjViNjJmRzJScGZzY3VYb1VISWIxU2FwUzJkUkwyaXpXME1IbTdqMHl6YUVZNVdtU05KWU83aHA0eWg?oc=5",
+     "when": "2026-11-27 23:03",
+     "ts": 1795820631.0,
+     "flag": false
+    },
+    {
      "title": "NXP Semiconductors N.V. stock underperforms Friday when compared to competitors despite daily gains",
      "source": "MarketWatch",
      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNUk9DbnBrei1CSlRqa2liY0hwUFZmTVhWSnFrV1FqMXFPcXdhU3JqYUtQRkF1SmNFNzNaQmdIVGpJdXp6bndjdjZRZnNEcHdFUHo5SnRUU2d1WWZNeE9uNXhlNElTVGlMa2dwekNCNmhQQ0pzUmlFa2tnY1J4LVFaQ0NGWWNUSzE3cVNGcFM3MDNPZmtUMmlrSEJCbVc1VVdIM3FWREVVd0lDUUNnZ095RWlNbDlYN3NSWjVnU3dsbzlKcEplM05hY0pnSHhyWnZrSEk3ajc0cUtvdTBBOHFRWXFvQ01VdTN6bVJ2R2VwZ193LUhzY2JKZTNyOHRhX2dCenNMM0V5WQ?oc=5",
@@ -1065,27 +1065,19 @@
      "flag": false
     },
     {
+     "title": "NXP (NXPI) Down 3.5% Since Last Earnings Report: Can It Rebound?",
+     "source": "Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUTA2WHBsQXFwc0hYeEZJWS1yMXZqVFYtejFxWWFCYmdCR0RlWVpzeWJFSXlLVU5PaTlSN04xdjg5dTRjM3pMWlk4S1dnNk9jaDhrNmlZMGRWVEtrOGZKYURkUjBJZnY3ZU9yM3lCUHM5d1l6blhBY29jZXBIOFVIRTdTdXRHS0g3Qmc?oc=5",
+     "when": "2026-11-26 15:30",
+     "ts": 1795707015.0,
+     "flag": false
+    },
+    {
      "title": "NXP Semiconductors Completes Euro Senior Note Sale",
      "source": "Kalkine India",
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMnRmX2dIZmQybmhMYlpQU1VvNDBTTXllVEtfMWhKZlJ3VTEzN0xTX2NIdmFPM0I0REw2SV94dG44LVRzOE12SHBqZnpUaE9Eai1USHlYQmx3Sl94ekQ0d0RhUmhaUmpMSWpzRDY4MnpPOGIzOGxyM2FoUFp1NWJTdXF2M2QtRWZKbVV4MnF3OHA0QUsxVlVva2ptU0NoLS1hdDJZbFFFZEgwRjl0QkRfMDZ6RXZ0amNCTVdiUmpKRkI3UQ?oc=5",
      "when": "2026-11-26 14:28",
      "ts": 1795703280.0,
-     "flag": false
-    },
-    {
-     "title": "NXP Semiconductors stock: EUR 1 billion notes offering closes - ad-hoc-news.de",
-     "source": "ad-hoc-news.de",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVVF0eTAxcEhMUkhQclY5eFdlOHlhTW41Y0dEZWpObXQ3ZUVfRFlXdDNYUTNzWGM1aXhOdVk4RmMwYTgtX2liSEhiM3dKajNZaGthM2NudG5Yb29CdzRqMEhxUDRTVVBkaERaQW81RlEzV09OcFVtN2M1MWtnRk9STHZvVDdGSmNOQ1pZY1BRZ09lT0dpdTNVU05QT1BGbEstZmlLQ0Y1UldwV2RubFJ5c3h5SUt3azJOSUZTcGg4RWY?oc=5",
-     "when": "2026-11-26 11:07",
-     "ts": 1795691241.0,
-     "flag": false
-    },
-    {
-     "title": "NXP Semiconductors Declares $1.014 Interim Dividend for Q4 2026, Corrects Filing Error",
-     "source": "Kalkine Media",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZTRFSGRzRTNubjRNNlZ3VmZXU1c4Mmt1aldna20xRlBJYkFvVUM1V1N4bC0wUV9xRnF3UC10M09rc1FqMFFWUEVGM3J0WHJCODJENmZLbnhwQU1yVTg3V3VzOHF3OW9iNE9VelNQQkJJYTZXZEZKekpPUTJoTWpTMm1lckRBNXFFQkI2OXhnRnNqaUozSUxPMnhmRmtZb255TDFqQ3NMMDVBekY1NkhXZ1JqcmVESUthNVBKRUpTemh6M3liRExqRkpB?oc=5",
-     "when": "2026-11-26 01:36",
-     "ts": 1795657007.0,
      "flag": false
     }
    ]
@@ -1246,6 +1238,14 @@
      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZTAydmhYQjhsR3RvbmVpNlBFRFpnR2VqVzFUTkZPXzZJRkg2UlB2Vl9kcnpVU0pxLVg3M1oyeUhDNFU4T29SQXY0SzdFejVXaVhuMnYzaDdmS19iakRkMDIxV2tKT3d1WERxSFR2MzAxdUx0aWJyLVdRRXl3cFdPaDM5TUE4d0tzeXgxMVlBdV8wZGFt?oc=5",
      "when": "2026-11-26 23:10",
      "ts": 1795734619.0,
+     "flag": false
+    },
+    {
+     "title": "LeMaitre Vascular, Inc. (LMAT) Stock Forecasts",
+     "source": "Yahoo! Finance Canada",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQlEwYkZFVGRCbVFGUTZ5WWdOQ2dMMmRqVUY0LWFIV1JMYk04NlhOVDdlc2hFbUhyXy1jWU1uYUFRcHFFbFJQaFBHc2k5WURyLTlNRnRaQmh4c3QxLVRIbGNDaG9KWDNDYTJWN2RBOE5NblpWQTQ2em5TVnlPSnd2eXZULVdkQlNkcEhlRkVnTkkzUEk?oc=5",
+     "when": "2026-11-26 02:08",
+     "ts": 1795658906.0,
      "flag": false
     }
    ]
